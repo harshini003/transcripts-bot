@@ -1,0 +1,4586 @@
+,text,start,duration
+0,[MUSIC PLAYING],0.0,3.486
+1,[AUDIENCE EXCLAIMING],90.636,3.984
+2,[APPLAUSE],94.62,3.486
+3,"SPOT: Hello, world.",102.588,1.582
+4,"This is CS50, Harvard
+University's introduction",104.17,3.69
+5,"to the intellectual
+enterprises of computer science",107.86,2.88
+6,and the art of programming.,110.74,2.34
+7,"Woof, woof.",113.08,1.11
+8,[LAUGHTER],114.19,3.423
+9,"I'm sorry, Dave.",128.87,1.987
+10,"[PINK, ""WHAT ABOUT US""] What about us?",130.857,1.583
+11,What about us?,135.35,0.96
+12,La-da-da-da-da-da-da.,136.31,1.224
+13,La-da-da-da-da-da-da.,137.534,1.431
+14,We are searchlights.,138.965,2.862
+15,We can see in the dark.,141.827,1.923
+16,We are rockets pointed up at the stars.,147.02,4.26
+17,We are billions of beautiful hearts.,154.71,3.9
+18,And you sold us down the river too far.,161.977,4.773
+19,What about us?,169.57,2.35
+20,"What about all the times you
+said you had the answers?",171.92,5.35
+21,What about us?,177.27,2.0
+22,"What about all the
+broken happy ever-afters?",179.27,6.0
+23,What about us?,185.27,1.5
+24,"What about all the plans
+that ended in disaster?",186.77,6.0
+25,What about love?,192.77,2.21
+26,What about trust?,194.98,1.169
+27,What about us?,196.149,1.996
+28,La-da-da-da-da-da-da.,201.139,3.493
+29,La-da-da-da-da-da-da.,204.632,3.992
+30,La-da-da-da-da-da-da.,208.624,1.497
+31,La-da-da-da-da-da-da.,213.115,1.497
+32,DAVID J. MALAN: All right.,235.107,1.083
+33,So--,236.19,0.65
+34,"[APPLAUSE, CHEERING]",236.84,3.5
+35,"This is CS50, Harvard
+University's introduction",242.66,2.82
+36,"to the intellectual
+enterprises of computer science",245.48,2.31
+37,and the art of programming.,247.79,1.41
+38,And this is Spot.,249.2,1.89
+39,"And our thanks to our
+friends at 3D Cowboys",251.09,2.28
+40,for bringing him by class today.,253.37,1.71
+41,"Perhaps a round of applause for
+our special Professor [INAUDIBLE]..",255.08,3.444
+42,[APPLAUSE],258.524,3.336
+43,My name is David Malan.,261.86,0.96
+44,"And I actually took this class,
+CS50, myself, some years ago.",262.82,3.45
+45,But I almost didn't.,266.27,1.23
+46,"And I didn't because when I
+got to campus, as a first-year,",267.5,3.09
+47,"I really gravitated toward
+things already familiar, things",270.59,2.76
+48,"with which I was already comfortable,
+specifically, government.",273.35,2.1
+49,"And I came in here thinking I was going
+to major or concentrate in government.",275.45,3.25
+50,"And it was only once I got to
+sophomore year, fall semester,",278.7,3.14
+51,"that some friends of mine were
+coming to this class called",281.84,2.46
+52,"CS50 that was very much to
+beware at the time, in that it",284.3,3.99
+53,"was an unfamiliar field to so
+many of us, myself included.",288.29,2.58
+54,"But I got up the nerve to go over the
+threshold, sit in on the first class,",290.87,3.45
+55,"just shop it, so to speak.",294.32,1.96
+56,And I was hooked.,296.28,1.29
+57,"I found that homework was,
+for the first time, fun.",297.57,2.9
+58,"And this was after having enrolled
+only because the professor let",300.47,3.313
+59,"me enroll pass/fail or [INAUDIBLE]
+because I didn't really",303.783,2.417
+60,think I could even cut it.,306.2,1.083
+61,"But fast forward to five
+Mondays later in the semester,",307.283,2.737
+62,"I actually switched to a
+letter grade, deciding,",310.02,2.0
+63,"wow, this is actually something for me.",312.02,2.22
+64,"And I say this because
+computer science, what",314.24,3.24
+65,"I didn't realize about
+it at the time, really",317.48,2.16
+66,"is this very general purpose way of
+thinking and way of solving problems.",319.64,4.04
+67,"And even if this is the
+only CS class you ever take,",323.68,2.81
+68,"even if this is the only formal
+training you have in programming",326.49,3.45
+69,"as a practical skill, it's
+just so darn applicable",329.94,2.61
+70,"to so many other fields-- the
+arts, humanities, social sciences,",332.55,3.12
+71,"natural sciences, and beyond, and
+certainly within the STEM fields,",335.67,3.99
+72,themselves.,339.66,0.87
+73,"That said, it's going to often
+feel a little something like this.",340.53,3.28
+74,"This is from our friends at MIT, down
+the road, which is one of their hacks",343.81,3.5
+75,"whereby they connected a fire
+hydrant to a drinking fountain,",347.31,3.99
+76,"with a little sign up there that says,
+""GETTING AN EDUCATION FROM MIT IS LIKE",351.3,3.66
+77,"DRINKING FROM A FIRE HOSE,""
+which is to say that it's",354.96,2.52
+78,"going to feel, quite
+often, in this class,",357.48,1.83
+79,"too, that there's just
+a lot of information.",359.31,1.95
+80,"And you can't possibly
+absorb it all, but realize",361.26,2.7
+81,"that's to be expected, especially
+in an introductory class.",363.96,2.79
+82,"The whole point is for so much of it to
+feel new, but with practice, with time,",366.75,4.77
+83,"with years, even, looking
+back, will you get all the more",371.52,2.87
+84,comfortable with the material.,374.39,1.25
+85,"But you're not meant to feel
+comfortable along the way.",375.64,2.7
+86,"And so let me encourage
+you, invite you, expect",378.34,2.0
+87,"you to get comfortable feeling
+uncomfortable along the way,",380.34,3.24
+88,"whether you have or have not prior
+computer science or programming",383.58,3.81
+89,experience.,387.39,0.69
+90,"Now, back in my day, the class'
+syllabus was a little bit different.",388.08,4.05
+91,"And, really, when I and all of
+my classmates exited the class,",392.13,3.308
+92,"we would say to friends
+that we learned how",395.438,1.792
+93,"to program in C, which is a language
+that we, ourselves, will still",397.23,3.63
+94,learn in this class.,400.86,1.0
+95,But that was it for languages.,401.86,2.18
+96,"But nowadays, as you'll
+see, we'll explore not just",404.04,2.91
+97,"this older language called
+C, but a more modern language",406.95,2.61
+98,"called Python that's very much in vogue
+for data science, and web applications,",409.56,4.02
+99,and much more.,413.58,0.88
+100,"But we'll also introduce
+you, along the way,",414.46,1.833
+101,"to another language called S-Q-L or SQL,
+which is specifically for databases.",416.293,4.727
+102,"And SQL is a different type
+of programming language",421.02,2.31
+103,"that's just going to give you
+different ways of solving problems,",423.33,2.73
+104,"different building blocks with which
+to express problems you want to solve.",426.06,3.42
+105,"We'll introduce you, toward
+the end of the semester,",429.48,2.19
+106,"yet another language,
+JavaScript, often used",431.67,2.37
+107,"with markup languages called HTML
+and CSS, with which maybe you",434.04,3.375
+108,"have some experience if
+you've made websites.",437.415,1.875
+109,"But we'll do this because so many of
+today's actual real-world software",439.29,4.35
+110,is web-based.,443.64,0.99
+111,"Or it's phone-based,
+mobile-based, but even then,",444.63,2.82
+112,"it's using these same
+languages, like JavaScript.",447.45,2.55
+113,"And so by the end of
+CS50, in particular,",450.0,2.7
+114,"you won't know how to program
+in X, or Y, or Z, per se.",452.7,3.12
+115,"But, period, you'll
+learn how to program.",455.82,3.33
+116,"And, indeed, among the
+goals of this class",459.15,2.04
+117,"is to equip you with enough of a set
+of concepts, enough practical skills",461.19,4.35
+118,"and experience that after CS50, again,
+if you never take another CS class,",465.54,3.9
+119,you can teach yourself new languages.,469.44,2.25
+120,And you won't feel--,471.69,0.96
+121,"you won't have been reliant
+on a class to, indeed,",472.65,2.79
+122,"introduce you to each
+and one of those ideas.",475.44,2.068
+123,"And what are we going to
+do, then, in this class?",477.508,2.042
+124,"And, really, what are we
+going to start doing today?",479.55,1.71
+125,"Well, we're going to learn
+how to solve problems.",481.26,2.142
+126,"And that's really what
+computer science is all about.",483.402,2.208
+127,"We'll, very specifically,
+today, knock off a few to-dos.",485.61,3.48
+128,"We'll learn how to represent
+simple things, like numbers.",489.09,3.04
+129,"We'll learn how to represent letters
+of an alphabet, like English.",492.13,2.75
+130,"We'll learn how to represent
+colors-- red, green, blue,",494.88,2.25
+131,and everything in between.,497.13,1.11
+132,"We'll learn how to represent,
+more interestingly,",498.24,2.37
+133,"full-fledged images that you might
+see on the web or your phone.",500.61,2.82
+134,"We'll talk about representing
+videos and even audio files.",503.43,3.3
+135,"So, by the end of today,
+alone, you will exit here",506.73,2.81
+136,"with a newfound mental
+model for how you can",509.54,2.31
+137,"represent all of today's media and
+multimedia that we take for granted",511.85,4.29
+138,and use most every day.,516.14,1.62
+139,"But we'll also focus
+today, ultimately, on how",517.76,2.61
+140,"to write algorithms, like
+step-by-step instructions for solving",520.37,3.15
+141,"some problem, specifically,
+implementing algorithms with code.",523.52,3.855
+142,And that's what we'll find.,527.375,1.125
+143,"An algorithm is just
+something you can express",528.5,1.917
+144,"in English or any human language,
+but code is a translation of that",530.417,3.933
+145,"to, presumably, the 0's and
+1's that you've probably heard",534.35,2.91
+146,is all that computers ultimately speak.,537.26,2.58
+147,"And if you're feeling like
+that's a lot for today,",539.84,2.19
+148,"if you're feeling like that's
+a lot for the whole semester,",542.03,2.458
+149,"realize and take comfort in
+knowing that -thirds of you",544.488,2.702
+150,have never taken a CS course before.,547.19,2.53
+151,"So even if you think, like
+I did all those years ago,",549.72,2.42
+152,"that, surely, my friends, the
+kids I didn't even in the class,",552.14,2.907
+153,"must know more than I,
+have been programming",555.047,1.833
+154,since they were six years old.,556.88,1.62
+155,That's just not the case.,558.5,1.38
+156,You're in very much good company.,559.88,1.38
+157,"And within the class will
+you find different tracks,",561.26,2.743
+158,"by way of the homework
+assignments, called ""problem sets,""",564.003,2.417
+159,by way of the sections or recitations.,566.42,1.583
+160,"There will be different
+tracks for those of you",568.003,1.959
+161,"less comfortable, more
+comfortable, somewhere in between.",569.962,2.648
+162,"And if you really don't
+know why you are here today,",572.61,2.33
+163,"we'll even have sections for those
+least comfortable, where you just",574.94,3.03
+164,"don't necessarily feel ready to dive
+into CS or maybe STEM, more generally.",577.97,3.72
+165,"But we'll get you there by way of
+the course's support structure.",581.69,3.15
+166,"And it's very much
+grounded in this mindset.",584.84,2.94
+167,"What ultimately matters in
+this class is not so much",587.78,2.37
+168,"where you end up relative
+to your classmates,",590.15,1.875
+169,"but where you end up relative
+to yourself, when you began.",592.025,3.015
+170,"So whether you have or have not
+prior programming or CSS experience,",595.04,3.283
+171,"it's not going to matter when
+it comes to evaluation, when",598.323,2.417
+172,"it comes to the output, be it a grade,
+or a satisfactory mark, or the like.",600.74,3.58
+173,"It's going to depend on,
+really, where you are today,",604.32,2.54
+174,"in this, what we call week zero, versus
+the very end of the semester, when",606.86,5.1
+175,"you will have built something grand,
+of your very own, in software.",611.96,3.09
+176,"But CS50 is also
+characterized, fairly uniquely,",615.05,2.22
+177,"by its community, its culture.",617.27,1.877
+178,"And along the way, you'll
+see that your experience",619.147,2.083
+179,"is punctuated by a lot of social
+and academic events alike.",621.23,3.45
+180,"CS50 lunches, most every Friday,
+we'll gather at a nearby restaurant",624.68,3.21
+181,"called Changsho where we'll
+have Chinese lunch together.",627.89,2.39
+182,"And as many of you as
+might want to attend",630.28,1.75
+183,"that week will be able to join us,
+sit down, and chat casually with me,",632.03,2.958
+184,"the course's teaching staff, friends
+of ours, alumni from industry, as well.",634.988,4.692
+185,"CS50 Puzzle Day, coming up this
+weekend, will be an opportunity,",639.68,2.95
+186,"even if you have no prior CS
+experience, just to solve problems,",642.63,4.11
+187,"not jigsaw puzzles, but
+puzzles in the logical sense.",646.74,3.05
+188,We'll hand you a packet of puzzles--,649.79,2.7
+189,"logic problems, or
+riddles, or the like--",652.49,1.74
+190,"that you, as teams, can solve together.",654.23,1.857
+191,"And at the very end,
+we'll walk you through.",656.087,1.833
+192,"And along the way, there'll be not only
+these puzzles, but pizza, and prizes,",657.92,3.43
+193,"and so much more, as well.",661.35,1.61
+194,"Towards the end of the semester,
+we'll have a CS50 Hackathon whereby",662.96,3.39
+195,"we'll get together around 7:00 PM,
+at the start of reading period,",666.35,3.48
+196,"and we'll finish up around
+7:00 AM the next morning.",669.83,2.91
+197,"And it will be this
+opportunity to really bond",672.74,2.34
+198,"with your classmates, your project
+partners, if you work in a team,",675.08,3.06
+199,"on your very own final
+project, which is meant",678.14,2.37
+200,"to be a capstone of the course,
+something you build, yourselves,",680.51,3.24
+201,"that we don't hand you
+a specification for.",683.75,2.01
+202,"But it's your final offboarding,
+so that when you exit CS50,",685.76,3.33
+203,you don't need CS50 anymore.,689.09,2.25
+204,You don't need me.,691.34,0.76
+205,You don't need your TF.,692.1,0.958
+206,"You can actually write code
+and solve problems on your own.",693.058,2.852
+207,"So this picture here is one of our past
+photos from earlier in the evening.",695.91,3.83
+208,"Things get a little quieter
+as we then, around 5:00 AM,",699.74,2.85
+209,"drive anyone who's still awake
+and energetic to a nearby IHOP",702.59,3.75
+210,"for pancakes, around then.",706.34,1.8
+211,"But here is how most of the evenings
+tend to end for at least some",708.14,3.57
+212,of your classmates prior.,711.71,1.29
+213,"But at the very end of the class
+is the so-called CS50 Fair,",713.0,2.67
+214,"an exhibition of all of your final
+projects for friends, faculty,",715.67,4.0
+215,"students, and staff
+across campus, whereby",719.67,1.94
+216,you'll be invited to a space like this.,721.61,1.83
+217,Bring your laptop.,723.44,0.78
+218,"Bring your phone, whatever it
+is you have built and created.",724.22,2.7
+219,"And we'll just show it off
+for a bit of the afternoon,",726.92,2.34
+220,"complete with music, and
+friends from industry,",729.26,2.61
+221,"and candy, and all what makes
+gathering together at term's end fond.",731.87,4.13
+222,"And you'll wear,
+ultimately, very proudly,",736.0,1.75
+223,"we hope, your very own ""I took CS50,""
+stating, very matter of factly,",737.75,4.02
+224,"what I did some years ago; that, indeed,
+this was a course I, myself, took.",741.77,4.02
+225,"So, today, let's focus, then, on
+computer science, like what is it.",745.79,3.33
+226,"Well, it's really the
+study of information.",749.12,2.67
+227,"But, really, it's, more
+specifically, about solving problems,",751.79,3.12
+228,"using certain ideas and techniques, all
+of which you'll exit the course with.",754.91,3.45
+229,"So, as such, problem
+solving is a goal that we'll",758.36,5.018
+230,"approach by way of something
+called ""computational thinking.""",763.378,2.542
+231,"So computational thinking, you can
+oversimplistically think about it",765.92,3.84
+232,as thinking like a computer.,769.76,1.74
+233,"But it's really the application of
+ideas that we'll dive into today",771.5,3.91
+234,"and we'll finish some
+weeks from now, that you",775.41,1.97
+235,"can apply to problems from this field or
+most any other, but in a computational,",777.38,4.5
+236,"that is, a very methodical,
+very careful way.",781.88,2.89
+237,"And that's what CS really did for
+me and does for a lot of people.",784.77,2.75
+238,"It helps clean up your
+thought processes.",787.52,2.22
+239,"Even if you go off into the real
+world and do nothing in tech,",789.74,2.82
+240,"you have an ability,
+after classes like this,",792.56,2.28
+241,"to express yourself a
+little more correctly, more",794.84,3.18
+242,"precisely and, generally,
+having better command",798.02,2.64
+243,of your own ideas and your language.,800.66,2.32
+244,So what's problem solving?,802.98,1.43
+245,Let me propose that this is it.,804.41,1.38
+246,"This is as simple as we can make
+today's goals and the semester's goals.",805.79,3.48
+247,Problems to be solved look like this.,809.27,1.69
+248,"You've got some input,
+the problem to be solved.",810.96,2.0
+249,"You've got a goal being the output,
+like the solution there, too.",812.96,2.79
+250,"And then somewhere in the
+middle is the secret sauce,",815.75,2.25
+251,"where we'll spend the next
+several weeks figuring out how",818.0,2.375
+252,we can convert these inputs to outputs.,820.375,1.975
+253,"But before we can do
+that, we all just have",822.35,2.52
+254,"to agree on how to represent
+these inputs and outputs,",824.87,3.39
+255,"whether it's with English or,
+really, any type of language.",828.26,3.0
+256,"But, as I spoiled earlier, you
+probably came in here already",831.26,3.03
+257,"with a general sense that,
+yeah, computers somehow",834.29,2.61
+258,"only speak or know 0's and 1's,
+the so-called binary system.",836.9,3.923
+259,"But that's just one way of
+representing information.",840.823,2.167
+260,Even simpler than binary is unary.,842.99,2.16
+261,"So if you've ever, at this age or any
+prior age, counted on your fingers,",845.15,5.52
+262,"this is unary notation, whereby
+each of your digits, your fingers",850.67,3.81
+263,"literally represent some
+piece of information;",854.48,2.52
+264,"taking attendance, like 1, 2, 3, 4, 5.",857.0,2.76
+265,"But on your one human hand, how high
+can you count in this unary notation?",859.76,6.04
+266,AUDIENCE: Five.,865.8,0.705
+267,AUDIENCE: Five.,866.505,0.625
+268,"DAVID J. MALAN: Five, I'm hearing five.",867.13,2.42
+269,"Six, I heard one six.",869.55,2.34
+270,"But I'm going to go further and say
+the answer, if you're clever about it,",871.89,3.72
+271,is actually--,875.61,0.89
+272,AUDIENCE: 40?,876.5,0.632
+273,DAVID J. MALAN: Not quite 40.,877.132,1.208
+274,"You overbid, but--",878.34,1.32
+275,AUDIENCE: 31.,879.66,0.84
+276,"DAVID J. MALAN: 31 is as
+high as I can actually count.",880.5,3.385
+277,"And that's because if I
+actually-- and if you're thinking",883.885,2.375
+278,"this is weirdly painful
+now, it will be, but this",886.26,3.27
+279,is my hand representing the number 0.,889.53,2.07
+280,"Normally, in unary, this is 1,
+2, 3, 4, 5, of course, obviously.",891.6,4.38
+281,"But what if I take into
+account the order in which I'm",895.98,2.31
+282,putting my fingers up and down?,898.29,1.3
+283,So maybe this is still 0.,899.59,1.25
+284,Maybe this is still 1.,900.84,1.65
+285,"But maybe this is now 2, where it's
+just the single second finger up,",902.49,4.92
+286,"not two of them, total.",907.41,1.53
+287,Maybe this is now 3.,908.94,1.92
+288,"Maybe this is now-- often offensive,
+with just the middle finger up.",910.86,3.87
+289,This is now [LAUGHS] 5.,914.73,2.52
+290,This is now 6.,917.25,2.01
+291,This is now 7.,919.26,1.9
+292,"And my hand just hurts too much if
+I try to count higher than seven.",921.16,2.85
+293,"But, theoretically, because each
+of my fingers can be down or up",924.01,3.63
+294,"and I've got five of them, that's
+actually 32 possible permutations,",927.64,4.59
+295,up and down.,932.23,0.66
+296,But wait a minute.,932.89,0.75
+297,"We said, 31, but if you start at 0.",933.64,2.49
+298,"You have to subtract 1 from
+the biggest possible value.",936.13,2.605
+299,"So this is to say you and I have been
+using unary because it's just simple,",938.735,3.125
+300,and it gets the job done.,941.86,1.24
+301,"But if we just think about
+representation a little more cleverly,",943.1,3.65
+302,"we can do exactly what computers do,
+using not what mathematicians call",946.75,3.66
+303,"""base-1,"" where the finger is either
+there or it's not, but base-2.",950.41,4.05
+304,"And in base-2, we just need
+two digits at our disposal.",954.46,3.93
+305,"And we could call these digits 1
+and 2, A and B, black or white.",958.39,4.33
+306,"We just need two words to describe
+two pieces of information.",962.72,3.65
+307,Computers keep it simple.,966.37,1.23
+308,"And just like we humans start
+counting 0, 1, 2, 3 on up,",967.6,3.36
+309,"computers use 0 and 1, and that's it.",970.96,3.27
+310,But that's by convention.,974.23,1.48
+311,But why do they do that?,975.71,1.23
+312,"Well, it turns out, when you use
+base-2, otherwise known as binary, well,",976.94,4.99
+313,"it just maps really
+readily to the real world.",981.93,2.1
+314,"Because, at the end of
+the day, what do we all",984.03,1.917
+315,"do, if you've got a laptop,
+or a phone, or any device?",985.947,2.793
+316,"You plug it into the wall because
+it needs electricity at some point.",988.74,3.57
+317,And what if you have electricity or not?,992.31,3.51
+318,"Well, there's your two possible values.",995.82,2.37
+319,"Either it's there, or it's not.",998.19,1.72
+320,"And because computers
+are electrical devices,",999.91,2.09
+321,this is why binary is just useful.,1002.0,1.675
+322,It's nice and simple.,1003.675,0.875
+323,"Either electricity is
+there, or it's not.",1004.55,2.37
+324,"So when you plug this
+device in and you've",1006.92,1.89
+325,"got all these electrons
+or whatever flowing, maybe",1008.81,2.25
+326,"if we just hang on to
+some of that electricity,",1011.06,2.19
+327,we can represent what we'll call a 1.,1013.25,1.98
+328,"And maybe if we let it dissipate
+or go away, that's a 0.",1015.23,3.24
+329,"So on and off maps very readily
+to this idea of just 0's and 1's.",1018.47,4.29
+330,"And if you've ever thought of
+this, now, as binary digits--",1022.76,3.99
+331,"""bi"" implying 2, 0 and 1-- well,
+if you've ever heard this term now,",1026.75,3.63
+332,"""bit,"" it just means binary digit.",1030.38,2.31
+333,A single bit is just a 0 or 1.,1032.69,1.998
+334,"But we could have called
+these things anything we want.",1034.688,2.292
+335,"Now how does this map to
+be clear to the real world?",1036.98,3.089
+336,"Well, we can't see the tiny little
+switches inside of our Macs,",1040.069,3.401
+337,"PCs, and our phones that are
+actually turning the electricity on",1043.47,2.67
+338,"or off, storing electricity or not.",1046.14,2.34
+339,But they're called transistors.,1048.48,1.44
+340,"They've got millions of
+them in today's hardware.",1049.92,2.55
+341,"And they're just on or off,
+like a switch or a light bulb.",1052.47,2.847
+342,"So, for instance, if
+there's no electricity,",1055.317,1.833
+343,"the switch is off, we would
+call this, by convention, a 0.",1057.15,3.54
+344,"If, though, you throw the switch and it
+actually turns on, we would call this--",1060.69,4.47
+345,AUDIENCE: On.,1065.16,0.78
+346,"DAVID J. MALAN: --an ""on,"" exactly, a 1.",1065.94,1.667
+347,We could have reversed it.,1067.607,1.083
+348,"But this is just the way the
+world decided to standardize.",1068.69,2.47
+349,And that's it.,1071.16,0.75
+350,"So you've either got something
+on or off, a 1 or a 0.",1071.91,3.87
+351,"And this, then, is this thing we
+know now as a binary digit or a bit.",1075.78,4.24
+352,"So once we've got these
+values, what about how--",1080.02,4.47
+353,"how can we go about,
+perhaps, representing things?",1084.49,2.6
+354,"Well, you know what?",1087.09,0.97
+355,"It turns out we've got a lot
+of light bulbs right here.",1088.06,2.292
+356,Let me grab-- thanks.,1090.352,0.908
+357,"Excuse me, spot.",1091.26,0.75
+358,Let me grab the little music stand here.,1092.01,4.53
+359,"Let me borrow a couple
+of these bulbs and see",1096.54,2.07
+360,"if we can't make clearer than my
+hand, alone, what's going on here.",1098.61,3.7
+361,"So I'm going to go ahead
+and grab two of these.",1102.31,2.66
+362,And I'll just put them here.,1104.97,1.7
+363,"And I can turn these
+things on or off now.",1106.67,1.75
+364,"So if I've got two bits, two switches,
+two transistors, if you will, well,",1108.42,4.14
+365,"if I go ahead and turn on this one,
+I'm representing what number in binary,",1112.56,6.1
+366,perhaps?,1118.66,0.5
+367,AUDIENCE: 1.,1119.16,0.72
+368,DAVID J. MALAN: So just 1.,1119.88,1.32
+369,"Now, if I'm using unary, I would
+turn this one on and be done with it.",1121.2,3.93
+370,"And that's 2, but not in binary.",1125.13,1.85
+371,"Binary, it's the permutations, which
+ones are on and off, that matters.",1126.98,4.37
+372,"So what, now, am I
+representing here, perhaps?",1131.35,2.44
+373,AUDIENCE: 2.,1133.79,0.58
+374,DAVID J. MALAN: 2.,1134.37,0.75
+375,"So this is when I put my
+single pointer finger up.",1135.12,3.09
+376,"But then when I did
+this, in my human hand,",1138.21,2.22
+377,this was like representing the number 3.,1140.43,2.88
+378,How do I represent the number 4.,1143.31,3.33
+379,"Yeah, I need another light bulb, so
+I need more hardware, so to speak.",1146.64,4.36
+380,So if I turn--,1151.0,2.0
+381,"if I leave this one-- if I turn this
+one on, this one off, this one off,",1153.0,6.18
+382,now I have the number 4.,1159.18,2.2
+383,"And someone tell me,
+saying the words ""on""",1161.38,3.213
+384,"and ""on"" and ""on,"" or
+""on,"" or ""off,"" or ""on,""",1164.593,1.917
+385,"using combinations of
+""on,"" ""off"" and-- ""on""",1166.51,2.34
+386,"and ""off,"" how do I represent
+5, from your left to your right?",1168.85,3.982
+387,How about over here?,1172.832,0.833
+388,"AUDIENCE: On, off, on.",1173.665,1.215
+389,"DAVID J. MALAN: ""On, off, on,"" I heard.",1174.88,1.74
+390,And that's exactly right.,1176.62,1.86
+391,"And how do I represent, maybe, 6?",1178.48,2.605
+392,Over here?,1181.085,0.5
+393,"AUDIENCE: Off, on, on.",1181.585,1.425
+394,"DAVID J. MALAN: Off, on, on, not quite.",1183.01,2.07
+395,From left to right?,1185.08,0.915
+396,AUDIENCE: Off-- the other way.,1185.995,1.395
+397,DAVID J. MALAN: The--,1187.39,0.23
+398,"[LAUGHS] OK, so from right to left.",1187.62,1.67
+399,So I think we leave this one on.,1189.29,1.67
+400,"This one, I'm going to claim,
+represents, now, 6 and 7.",1190.96,7.8
+401,"AUDIENCE: On, off.",1198.76,0.81
+402,"DAVID J. MALAN: I'm just going to--
+it's actually going to be ""on, on, on.""",1199.57,2.73
+403,"Now, if you're wondering, where
+are these people coming up",1202.3,2.437
+404,"with these combinations,
+there's actually a system here.",1204.737,2.333
+405,"It's actually hard for
+me to do it backwards.",1207.07,2.7
+406,"But it turns out there's actually a
+system that's not all that unfamiliar.",1209.77,4.432
+407,"In fact, let me propose this.",1214.202,1.208
+408,"Let me propose that we
+consider what you and I all",1215.41,3.36
+409,"learned in grade school, which was
+something like the base-10 system, 10",1218.77,4.33
+410,"meaning that you use 10
+different digits, not two, 10.",1223.1,2.67
+411,"So 0, 1, 2, 3, 4, 5, 6, 7, 8, 9, that's
+the base-10 system, otherwise known",1225.77,4.53
+412,"as decimal, ""dec"" implying 10.",1230.3,2.07
+413,So that's what you and I use every day.,1232.37,1.77
+414,"Well, let's think about how we
+represent numbers in decimal,",1234.14,3.0
+415,in the normal human way.,1237.14,1.29
+416,"Well, here is a number.",1238.43,1.09
+417,"It's what number, of course?",1239.52,1.86
+418,AUDIENCE: 123.,1241.38,0.8
+419,DAVID J. MALAN: 123.,1242.18,1.362
+420,"So we all just have an
+intuition for that, obviously.",1243.542,2.208
+421,But it's not necessarily 123.,1245.75,2.67
+422,"You're just assigning meaning to
+the positions of these digits.",1248.42,3.22
+423,This is really the pattern 1-2-3.,1251.64,2.39
+424,"But you immediately jump,
+mathematically, to 123, but why?",1254.03,3.36
+425,"Well, odds are, in grade school, you
+learned that the rightmost digit is",1257.39,3.0
+426,the ones place or the ones column.,1260.39,1.77
+427,"This is the tens place
+or the tens column.",1262.16,2.64
+428,This is the hundreds place.,1264.8,1.69
+429,And so why is this relevant?,1266.49,1.74
+430,"Well, this is like doing
+100 times 1 plus 10 times",1268.23,2.96
+431,"2 plus 1 times 3 or, if we multiply
+that out, 100 plus 20 plus 3,",1271.19,5.22
+432,"ergo, the number, now, that we
+just take for granted is 123.",1276.41,4.83
+433,"But that's in base-10, the
+so-called decimal system,",1281.24,3.0
+434,"whereby each of these digits
+is in a different column.",1284.24,3.69
+435,"And those columns are, again,
+ones place, tens, hundreds.",1287.93,3.15
+436,"If we keep going, thousand,
+ten thousand, and so forth.",1291.08,2.71
+437,But where did these come from?,1293.79,1.25
+438,"Well, here's the base.",1295.04,0.917
+439,"If you remember exponents
+and all of that,",1295.957,1.813
+440,"this is just 10 to the 0, 10 to
+the 1, 10 to the 2, ad infinitum.",1297.77,4.14
+441,"And so, now, what if we just changed
+the base from 10, 0 through 9,",1301.91,4.95
+442,"to just two digits, 0 and 1?",1306.86,1.62
+443,"Well, now the math is
+fundamentally the same.",1308.48,2.13
+444,"But it's 2 to the 0, 2
+to the 1, 2 to the 2,",1310.61,2.27
+445,"which gives us the ones place,
+twos place, and fours place.",1312.88,4.15
+446,"Now, why is this relevant?",1317.03,1.38
+447,"If you've got three light bulbs or
+three bits that are off, off, off,",1318.41,4.38
+448,what have I done?,1322.79,1.14
+449,"4 times 0 plus 2 times 0 plus 1
+times 0 is, obviously, the number",1323.93,3.78
+450,"you and I know, in decimal, as 0.",1327.71,2.28
+451,"This, though, represents the
+number you and I know as--",1329.99,2.64
+452,AUDIENCE: 1,1332.63,0.6
+453,DAVID J. MALAN: This represents--,1333.23,1.375
+454,AUDIENCE: 2.,1334.605,0.59
+455,"DAVID J. MALAN: --3, 4.",1335.195,2.715
+456,"And just to be clear, this is why, when
+I grabbed the additional light bulb,",1337.91,3.63
+457,we claimed that this now was 4.,1341.54,3.63
+458,"Because we had ""on, off,
+off,"" ""on, off, off.""",1345.17,4.26
+459,This now is 5.,1349.43,1.53
+460,This now is 6.,1350.96,1.23
+461,This now is 7.,1352.19,1.05
+462,"And if I wanted to count higher, what
+would the pattern of 0's and 1's be",1353.24,3.24
+463,for the number 8?,1356.48,0.998
+464,"AUDIENCE: 1, 0--",1357.478,1.464
+465,"DAVID J. MALAN: 1, 0, 0, 0.",1358.942,1.468
+466,"So we just need more
+hardware, more bits.",1360.41,1.92
+467,"So it wasn't arbitrary,
+even if it was non-obvious,",1362.33,3.3
+468,"what I was actually doing with
+turning these light bulbs on and off.",1365.63,4.03
+469,"Now, it turns out here we are talking
+about how to represent information,",1369.66,4.07
+470,"like numbers, but we could also
+use bits, 0's and 1's, light bulbs",1373.73,5.76
+471,"to represent instructions, as well.",1379.49,2.1
+472,"Because, at the end of the
+day, that's all computers do.",1381.59,2.46
+473,"They process data, information
+of some sort, whether it's files,",1384.05,3.9
+474,"or numbers, or images,
+or videos, or the like.",1387.95,2.34
+475,And you do things with those files.,1390.29,3.0
+476,You open them.,1393.29,0.695
+477,You print them.,1393.985,0.625
+478,You edit them and the like.,1394.61,1.0
+479,"So there's this notion of instructions,
+what the computer can actually do.",1395.61,3.11
+480,"And I bet we could come up with
+some pattern of 0's and 1's",1398.72,3.75
+481,"or, equivalently, light bulbs
+that tell even Spot what to do.",1402.47,4.5
+482,"Maybe, go up, or down,
+or left, or right.",1406.97,3.815
+483,"And it could certainly do this
+autonomously by using various sensors.",1410.785,2.875
+484,We need to keep things safe today.,1413.66,1.417
+485,"We're using Wi-Fi in sending
+Spot these very instructions.",1415.077,3.171
+486,"But what's happening, wirelessly,
+with our friend Andrew, here, is,",1418.248,2.792
+487,"essentially, he's sending Spot
+instructions just encoded, wirelessly,",1421.04,4.29
+488,"somehow, as patterns of 0's and 1's.",1425.33,2.28
+489,"And the folks at Boston Dynamics,
+who built this robot, programmed",1427.61,3.78
+490,"Spot to recognize certain
+patterns as meaning ""up,""",1431.39,2.94
+491,"a certain pattern as meaning
+""down,"" ""left,"" ""right,""",1434.33,2.7
+492,and any number of other things.,1437.03,1.475
+493,"So, in fact, Spot, come on
+over here, if you could.",1438.505,2.125
+494,"Come on, Spot.",1440.63,1.2
+495,[FOOTSTEPS],1441.83,1.68
+496,OK.,1443.51,2.13
+497,"So Spot, for instance, may
+very well have a pattern",1445.64,2.76
+498,of 0's and 1's that represents shake.,1448.4,2.79
+499,"Shake, Spot.",1451.19,1.53
+500,"So he could do that and any number
+of other movements, as well.",1452.72,3.61
+501,"And maybe, especially with sensors here
+and also a little human help over here,",1456.33,3.35
+502,"for today, what if we went
+ahead and did something-- maybe",1459.68,2.86
+503,ask Spot some questions?,1462.54,1.33
+504,"So let's go ahead, and
+we'll start simple.",1463.87,1.79
+505,"Spot, here we have some
+bits, ""off, off, on.""",1465.66,5.49
+506,"Spot, what [LAUGHS]-- OK.",1471.15,2.88
+507,"Spot, what is this
+representing, ""off, off, on""?",1474.03,7.23
+508,[SPOT TAPS STAGE],1481.26,2.45
+509,Correct?,1483.71,1.26
+510,I think so.,1484.97,0.93
+511,"Very horse-like, OK.",1485.9,1.0
+512,Thank you.,1486.9,0.5
+513,"All right, so a round of
+applause for Spot here.",1487.4,2.0
+514,[APPLAUSE],1489.4,0.91
+515,All right.,1490.31,1.14
+516,"So, Spot, what if we [LAUGHS] turn--",1491.45,2.95
+517,OK.,1494.4,0.5
+518,We'll turn that one off here.,1494.9,1.26
+519,How about if we turn this one on?,1496.16,1.375
+520,"So it's ""off, on, off.""",1497.535,1.745
+521,"Spot, what's this number?",1499.28,3.19
+522,[SPOT TAPPING STAGE],1502.47,1.84
+523,Is that correct?,1504.31,1.26
+524,Nice.,1505.57,0.58
+525,OK.,1506.15,0.5
+526,[APPLAUSE],1506.65,1.005
+527,[LAUGHS] How about one final flourish?,1507.655,1.965
+528,"How about, Spot, instead
+of ""off, on, off,""",1509.62,2.82
+529,"let's go ahead and do ""off, on, on""?",1512.44,3.84
+530,"So think, in your mind's eye,
+what the answer should be.",1516.28,4.53
+531,"All right, Spot, ""off, on, on.""",1520.81,3.294
+532,[SPOT LANDING ON THE STAGE],1524.104,3.316
+533,OK.,1527.92,0.54
+534,"And a round of applause
+for, Spot, as well.",1528.46,2.37
+535,[LAUGHS],1530.83,0.986
+536,[APPLAUSE],1531.816,1.974
+537,"So this is to say, no matter how--",1533.79,2.66
+538,"thank you, Spot.",1536.45,0.69
+539,"No matter how fancy today's
+hardware or software is,",1537.14,3.48
+540,"it really just boils
+down to representing",1540.62,2.1
+541,information and instructions.,1542.72,2.118
+542,"And computers, and phones,
+and the like really are just",1544.838,2.292
+543,"operating on those same
+pieces of information,",1547.13,4.33
+544,"whether implemented in 0's and 1's
+or with, really, anything else.",1551.46,3.78
+545,All right.,1555.24,0.5
+546,"So, where can we take this, once
+we have this agreed-upon system",1555.74,4.14
+547,for representing [LAUGHS] information?,1559.88,3.15
+548,"Well, it turns out that using three
+bits, three 0's and 1's, at a time,",1563.03,3.93
+549,isn't actually all that useful.,1566.96,1.74
+550,"And you and I, even in conversation,
+don't often say the word ""bit.""",1568.7,3.54
+551,"We say the word ""byte.""",1572.24,1.26
+552,"And what is a byte, if familiar?",1573.5,1.78
+553,Yeah?,1575.28,0.5
+554,AUDIENCE: It's eight bits.,1575.78,0.97
+555,DAVID J. MALAN: So it's just eight bits.,1576.75,1.667
+556,It's just a more useful unit of measure.,1578.417,1.783
+557,"And it happens to be a
+power of 2, 2 to the third,",1580.2,2.515
+558,which just makes math work out cleanly.,1582.715,1.625
+559,"But it's just a convention, to have
+more interesting units of measure",1584.34,3.27
+560,than individual bits.,1587.61,0.93
+561,So a byte is eight bits.,1588.54,1.81
+562,"So, for instance, this represents,
+using eight bits, eight light bulbs,",1590.35,4.34
+563,the number you and I know is 0.,1594.69,1.77
+564,And this byte of all 1 bits--,1596.46,4.5
+565,"now you've got to do some quick math--
+represents what number, instead?",1600.96,5.08
+566,"So it's all 1's; eight of them, total.",1606.04,2.617
+567,"How about over here, on the end?",1608.657,1.333
+568,AUDIENCE: 255.,1609.99,1.06
+569,"DAVID J. MALAN: So it's, indeed, 255.",1611.05,1.942
+570,"Now, that's not the
+kind of math that you",1612.992,1.708
+571,"need to do in your head for a
+class like this, but you could.",1614.7,2.61
+572,"This is the ones place, twos,
+fours, eight, 16, 32, 64, 128.",1617.31,7.38
+573,"And because they're all 1, you just have
+to add up all of those columns' values.",1624.69,4.11
+574,And you get 255.,1628.8,1.77
+575,"But a little mental trick, too,
+is that, if you've got eight bits",1630.57,3.12
+576,"and each of them can be two
+possible values, 0 or 1,",1633.69,3.58
+577,"that's like 2 possibilities here times
+2 times 2 times 2 times 2, eight times.",1637.27,4.47
+578,"So that's 2 to the eighth, so that
+is maybe a little easier to do.",1641.74,3.57
+579,That's 256.,1645.31,1.41
+580,"Or easier, in the sense that you get
+used to seeing these numbers in CS.",1646.72,3.06
+581,That's 256.,1649.78,1.44
+582,But wait a minute.,1651.22,0.81
+583,How do I reconcile this with your 255?,1652.03,3.27
+584,Because you start at 0.,1655.3,1.35
+585,"So you lose one on the high end because
+we started counting and representing",1656.65,4.47
+586,"the number, like 0.",1661.12,1.71
+587,All right.,1662.83,0.93
+588,"Questions on how we've represented
+just numbers or, for instance,",1663.76,3.81
+589,"instructions to Spot, thus far?",1667.57,4.03
+590,"Any questions on binary,
+unary, or the like?",1671.6,5.81
+591,No?,1677.41,0.6
+592,"All right, so seeing none,
+let's let things escalate a bit.",1678.01,3.127
+593,"So how do you represent letters
+because, obviously, this",1681.137,2.333
+594,"makes our devices more
+useful, whether it's",1683.47,1.792
+595,in English or any other human language.,1685.262,1.758
+596,"How could we go about representing
+the letter A, for instance?",1687.02,3.72
+597,"If, at the end of the
+day, all our computers,",1690.74,2.63
+598,"all our phones have access to is
+electricity; or, equivalently,",1693.37,4.02
+599,"switches; or, metaphorically,
+tiny little light bulbs",1697.39,3.18
+600,"inside of them that can
+be on and off-- that's it.",1700.57,3.18
+601,"There's no more building
+blocks to give you.",1703.75,3.24
+602,"How could we represent
+something like the letter A?",1706.99,3.54
+603,"Yeah, how about here?",1710.53,1.47
+604,Yeah?,1712.0,0.812
+605,AUDIENCE: You could assign a number.,1712.812,1.5
+606,DAVID J. MALAN: Perfect.,1714.312,1.031
+607,"So we could just assign
+every letter a number.",1715.343,1.917
+608,And we could do this super simply.,1717.26,1.417
+609,"Maybe 0 is A, and 1
+is B. Or maybe 1 is A,",1718.677,3.983
+610,"and 2 is B. It doesn't really matter,
+so long as we all agree and we all",1722.66,3.45
+611,"use the same types of computers,
+in some sense, ultimately.",1726.11,2.55
+612,"Well, for various reasons, the
+humans that designed this system,",1728.66,3.07
+613,they went with the number 65.,1731.73,1.43
+614,"So, nowadays, anytime your computer
+is showing you the capital letter",1733.16,4.38
+615,"A on the screen, underneath
+the hood, so to speak,",1737.54,3.15
+616,"it's actually storing a pattern of 0's
+and 1's that represents the number 65.",1740.69,6.09
+617,"And it tends to use seven bits
+or, typically, eight bits, total,",1746.78,3.15
+618,"even if it doesn't need
+all of those bits in total.",1749.93,2.86
+619,So how do we get there?,1752.79,2.19
+620,"Well, here, for instance,
+is that same pattern.",1754.98,2.51
+621,"Here is that pattern of
+bits that represents 65.",1757.49,2.49
+622,And why?,1759.98,0.54
+623,"Well, quick check here.",1760.52,1.68
+624,"This is the ones place, twos,
+fours, eights, 16, 32, 64's place.",1762.2,6.96
+625,"OK, so 64 plus 1 gives me 65.",1769.16,3.48
+626,"So that is to say here's how a computer,
+using some light switches, so to speak,",1772.64,4.19
+627,would represent the number 65.,1776.83,1.79
+628,"And our Macs, our PCs, our
+phones just all know this.",1778.62,2.92
+629,"So whenever they see that in
+their memory, so to speak,",1781.54,2.87
+630,"they show a capital
+letter A on the screen.",1784.41,3.15
+631,So that's it.,1787.56,0.96
+632,"That's the system known as
+ASCII, the American Standard",1788.52,2.73
+633,Code for Information Interchange.,1791.25,1.59
+634,"And the A is actually operative there
+because we're only talking, thus far,",1792.84,4.5
+635,about English letters in our alphabet.,1797.34,2.16
+636,"And, in fact, I claimed, a
+moment ago, that we only use",1799.5,3.03
+637,"seven, maybe eight bits to
+represent letters of an alphabet.",1802.53,3.72
+638,"So, just to come back to
+you, if I may, how many",1806.25,2.16
+639,"possible letters of the
+alphabet could-- how",1808.41,2.49
+640,"many possible letters of any alphabet
+could we represent with eight bits?",1810.9,3.45
+641,AUDIENCE: 256.,1814.35,0.96
+642,"DAVID J. MALAN: 256, the
+numbers 0 through 255.",1815.31,3.09
+643,"Now, that's more than enough
+for English because we've",1818.4,2.25
+644,"got A through Z, uppercase,
+lowercase, a bunch of numbers,",1820.65,2.848
+645,a bunch of punctuation symbols.,1823.498,1.292
+646,"But in a lot of languages, with accented
+characters, a lot of Asian characters,",1824.79,3.87
+647,"this is not nearly enough
+memory or bits with which",1828.66,3.57
+648,"to represent all of
+those possible values.",1832.23,2.487
+649,"So we need to do a
+little better than ASCII,",1834.717,1.833
+650,"but we can build on top of
+what they did years ago.",1836.55,2.65
+651,So here is a chart of ASCII codes.,1839.2,1.88
+652,"It's just a bunch of columns showing
+us the mapping between letters",1841.08,3.19
+653,and numbers.,1844.27,0.5
+654,"So, for instance, up here is the
+capital letter A, 65; capital B, 66;",1844.77,4.65
+655,"capital C, 67; dot, dot, dot.",1849.42,2.64
+656,72 is H. 73 is I and so forth.,1852.06,4.273
+657,"There's some weird things over
+here, like special symbols,",1856.333,2.417
+658,that we'll learn about over time.,1858.75,1.375
+659,"But there's a mapping
+between every English letter",1860.125,2.105
+660,"of the alphabet and some
+number, just as you'd propose,",1862.23,2.58
+661,both for uppercase and lowercase.,1864.81,1.9
+662,"So, for instance, if we highlight
+just a few of these for now",1866.71,3.87
+663,"and I say that I've just received
+a text message or an email that,",1870.58,4.418
+664,"underneath the hood, so to
+speak, if I have the ability",1874.998,2.292
+665,"to look at what switches are on and
+off, I received this message here.",1877.29,5.64
+666,"Well, first-- and this is not what
+CS is about, but just fun fact.",1882.93,3.09
+667,"Does anyone know what number
+this would represent in decimal,",1886.02,3.45
+668,"if this is the binary pattern,
+like ones place, twos place?",1889.47,5.095
+669,AUDIENCE: 72?,1894.565,0.855
+670,DAVID J. MALAN: 72 is correct.,1895.42,1.66
+671,"And again, not, intellectually,
+all that interesting",1897.08,2.52
+672,"and this is not the kind of math
+that we spend all day as CS--",1899.6,2.18
+673,a computer scientist doing.,1901.78,1.125
+674,"But it's just following the
+same darn pattern, which",1902.905,2.475
+675,"is to say it might look
+cryptic, but, conceptually,",1905.38,2.4
+676,"intellectually, it ultimately
+is exactly as we did before.",1907.78,2.762
+677,"So, yes, I'll spoil
+the rest of the math.",1910.542,1.708
+678,"It's 72, 73, 33.",1912.25,2.61
+679,"Now, anyone remember, in your mind's
+eye, what message we just spelled?",1914.86,3.51
+680,AUDIENCE: Hi.,1918.37,0.81
+681,AUDIENCE: Hi.,1919.18,0.63
+682,"DAVID J. MALAN: Yeah,
+so it is, in fact, ""Hi!""",1919.81,1.71
+683,"Though, no one really
+said that excitedly.",1921.52,1.75
+684,"What's the 33, if you noticed?",1923.27,1.31
+685,AUDIENCE: Exclamation point.,1924.58,1.02
+686,"DAVID J. MALAN: OK, so
+a lot of people noticed.",1925.6,1.17
+687,"Yes, it's an exclamation point.",1926.77,1.86
+688,"And that's, indeed,
+noticeable right here.",1928.63,2.67
+689,33 is the exclamation point.,1931.3,1.763
+690,"And that's just something,
+eventually, that might sink in.",1933.063,2.417
+691,"But, for the most part, if
+you remember capital A is 65,",1935.48,2.87
+692,"you can figure out at least 25 other
+answers to these kinds of questions",1938.35,3.75
+693,"because they're all
+contiguous like that.",1942.1,1.96
+694,So there's the exclamation point.,1944.06,1.68
+695,"But at the end of the day, we might
+just have this mapping known as ASCII.",1945.74,4.61
+696,"And it's how our phones, and
+computers, and devices, more",1950.35,2.65
+697,"generally, actually store information.",1953.0,2.31
+698,So we thought we'd make--,1955.31,1.74
+699,"maybe take a little
+pressure off of me here.",1957.05,1.92
+700,And could we maybe flip things around?,1958.97,2.58
+701,"How about we try applying
+this newfound knowledge--",1961.55,2.61
+702,"if it's, indeed, new to you-- with seven
+volunteers, seven bits, if we could?",1964.16,4.27
+703,OK.,1968.43,0.5
+704,I saw your hand first.,1968.93,0.917
+705,Come on down.,1969.847,0.793
+706,"Maybe your hand, there.",1970.64,2.01
+707,"OK, three, come on down over here.",1972.65,2.22
+708,How about four and five?,1974.87,2.07
+709,"Yep, come on down.",1976.94,0.87
+710,"Yep, in the black shirt, yep.",1977.81,1.208
+711,How about let me go farther back?,1979.018,1.375
+712,"How about in the green, over there?",1980.393,1.497
+713,"And how about you, seven, over here?",1981.89,1.57
+714,All right.,1983.46,0.5
+715,Come on down.,1983.96,0.69
+716,[CHATTER],1984.65,1.14
+717,Come on down.,1985.79,2.61
+718,"So a round of applause
+for our brave volunteers.",1988.4,2.2
+719,[APPLAUSE],1990.6,2.14
+720,All right.,1992.74,1.11
+721,"So if you'd like to stand, roughly,
+side by side, here in the middle",1993.85,3.21
+722,of the stage.,1997.06,0.77
+723,"First of all, thank you.",2000.43,2.1
+724,Let's see.,2002.53,0.5
+725,"1, 2, 3, 4, 5, 6, 7, perfect.",2003.03,2.22
+726,OK.,2005.25,0.63
+727,"And let's go all the way
+over to this place, here.",2005.88,4.02
+728,"If you would like to introduce
+yourself to the class.",2009.9,2.7
+729,RACHEL RICHEY: I'm Rachel Richey.,2012.6,1.818
+730,DAVID J. MALAN: OK.,2014.418,0.792
+731,And what year?,2015.21,0.918
+732,Anything about you?,2016.128,0.792
+733,"RACHEL RICHEY: Oh, first
+year, concentrating in CS.",2016.92,1.995
+734,DAVID J. MALAN: OK.,2018.915,0.792
+735,Welcome to the stage.,2019.707,0.963
+736,Next.,2020.67,0.54
+737,SPEAKER: Hi.,2021.21,0.87
+738,"I'm [? Kang. ?] Also a
+first-year concentrating in CS.",2022.08,4.11
+739,SPEAKER: Hello.,2026.19,1.2
+740,"My name is [? Lam. ?] I'm a [INAUDIBLE]
+student from education department.",2027.39,5.275
+741,DAVID J. MALAN: Nice.,2032.665,0.875
+742,OK.,2033.54,0.27
+743,Next.,2033.81,0.558
+744,JORDAN MITTLER: Hi.,2034.368,0.792
+745,"I'm Jordan Mittler, concentrating
+in economics and maybe some CS.",2035.16,3.96
+746,"SPEAKER: So, hi.",2039.12,0.99
+747,"I'm [? Natalia. ?] First
+year, and I want to do CS.",2040.11,2.535
+748,SPEAKER: Hi.,2042.645,0.79
+749,"I'm [? Khadija. ?] I'm a
+first-year, and I want to do CS.",2043.435,2.375
+750,DAVID J. MALAN: [LAUGHS].,2045.81,1.27
+751,SPEAKER: Hello.,2047.08,0.95
+752,"I'm [? Caleb. ?] And, once again,
+first year, concentrating in CS.",2048.03,3.388
+753,DAVID J. MALAN: OK.,2051.418,0.792
+754,Wonderful.,2052.21,0.5
+755,"A pattern, yes.",2052.71,1.06
+756,Thank you.,2053.77,0.57
+757,Thank you.,2054.34,0.54
+758,[APPLAUSE],2054.88,1.089
+759,"So, if you haven't guessed
+already, each of these volunteers",2055.969,4.041
+760,"is going to represent a bit, from
+left to right, or right to left,",2060.01,3.419
+761,in this case.,2063.429,0.581
+762,So let's see.,2064.01,0.74
+763,"If you want to represent--
+how about the twos place?",2064.75,2.969
+764,"How about the fours place, the eighths
+place, 16ths place, 32's, 64, and 128?",2067.719,9.631
+765,"Although, wait a-- I think I screwed up.",2077.35,1.71
+766,We needed one-- eighth volunteer.,2079.06,1.829
+767,"I think you know-- well, I think--",2080.889,2.085
+768,[CLEARS THROAT] Spot?,2082.974,2.356
+769,OK.,2085.33,0.778
+770,Come on over.,2086.108,0.542
+771,"If you guys could step forward a
+little bit, and then scooch this way,",2086.65,2.917
+772,just to give Spot some room.,2089.567,1.523
+773,[FOOTSTEPS],2091.09,1.56
+774,So Spot will represent the ones place.,2092.65,2.589
+775,"Now, what our volunteers have on
+the back of their sheets of paper",2095.239,3.201
+776,are little instructions.,2098.44,1.23
+777,"We're going to spell out a three-letter
+word in English by using three bytes,",2099.67,5.79
+778,"from left to right, because
+now we have eight volunteers.",2105.46,2.71
+779,"I'm going to propose that you
+raise your hand, if you're",2108.17,2.333
+780,supposed to represent a 1.,2110.503,1.682
+781,"Or you just stand there,
+without raising your hand,",2112.185,2.125
+782,if you're meant to represent a 0.,2114.31,1.47
+783,"And what we'll have the
+audience do is do the quick math",2115.78,2.67
+784,"to figure out-- one, two, three--
+each letter, what number is it.",2118.45,3.72
+785,What letter is it?,2122.17,1.26
+786,"And we'll see what word that
+we have finally spelled.",2123.43,2.94
+787,All right.,2126.37,0.51
+788,"So, in round one--",2126.88,1.53
+789,"you have instructions on your back
+of your sheet that will tell you to--",2128.41,3.0
+790,what your number is.,2131.41,1.17
+791,"If you're 0, stand there.",2132.58,1.08
+792,"If you're a 1, raise your hand.",2133.66,1.35
+793,[PAPER RUSTLING],2137.7,2.36
+794,"What number do these guys
+seem to be representing?",2140.06,3.36
+795,AUDIENCE: 68.,2143.42,1.14
+796,"DAVID J. MALAN: 66, I think.",2144.56,1.8
+797,"64 plus 2, so 66, which is the letter--",2146.36,3.135
+798,AUDIENCE: B.,2149.495,0.765
+799,"DAVID J. MALAN: OK, so,
+B. OK, so, B. All right.",2150.26,2.67
+800,Hands down.,2152.93,1.54
+801,"Second letter is going
+to be spelled how?",2154.47,3.095
+802,[SPOT LANDS ON THE STAGE],2161.16,1.042
+803,AUDIENCE: Whoa.,2162.202,0.625
+804,AUDIENCE: Whoa.,2162.827,0.703
+805,AUDIENCE: Whoa.,2163.53,1.299
+806,DAVID J. MALAN: [LAUGHS] All right.,2164.829,2.741
+807,What are we spelling now?,2167.57,2.1
+808,[INDISTINCT CHATTER],2169.67,1.965
+809,"I think-- psst, yep, OK.",2171.635,3.945
+810,"Yeah, I think you're one.",2175.58,1.501
+811,[LAUGHTER],2177.081,2.409
+812,OK.,2179.49,1.49
+813,Now what number are we spelling?,2180.98,2.45
+814,AUDIENCE: 79,2183.43,0.94
+815,"DAVID J. MALAN: 79, I
+heard, which is the letter?",2184.37,2.4
+816,AUDIENCE: O.,2186.77,0.613
+817,DAVID J. MALAN: O. OK.,2187.383,0.917
+818,So hands down.,2188.3,1.02
+819,"Thank you, Spot.",2189.32,0.78
+820,One final flourish.,2190.1,1.36
+821,So we've spelled B-O--,2191.46,1.79
+822,"third letter, go ahead.",2193.25,1.605
+823,[SPOT LANDS ON THE STAGE],2197.942,2.288
+824,"What number, now, is this?",2200.23,2.655
+825,AUDIENCE: 87.,2202.885,0.93
+826,AUDIENCE: 87.,2203.815,0.645
+827,"DAVID J. MALAN: I heard it here, 80--",2204.46,1.0
+828,AUDIENCE: Seven.,2205.46,0.86
+829,"DAVID J. MALAN: --seven, which is?",2206.32,0.555
+830,AUDIENCE: W.,2206.875,0.63
+831,"DAVID J. MALAN: W, which,
+of course, spells ""bow.""",2207.505,2.115
+832,"So if our volunteers could
+take a bow, Spot included.",2209.62,3.817
+833,[APPLAUSE],2213.437,3.199
+834,"So this will make more
+sense in week one,",2218.01,3.53
+835,"when we have an assignment involving
+a certain someone from the Nintendo",2221.54,3.21
+836,World.,2224.75,0.15
+837,"But we have a lovely parting
+gift for each of you.",2224.9,1.86
+838,SPEAKER: Thank you.,2226.76,0.75
+839,[LAUGHS],2227.51,0.12
+840,"DAVID J. MALAN: Thank
+you for volunteering.",2227.63,0.55
+841,SPEAKER: Thanks.,2228.18,0.8
+842,"DAVID J. MALAN: You might need to
+share it with the folks next to you.",2228.98,2.917
+843,[CHATTER],2231.897,3.209
+844,"Oop, here we go.",2238.6,0.87
+845,There we go.,2239.47,0.5
+846,Thank you--,2239.97,0.39
+847,SPEAKER: Thank you.,2240.36,0.72
+848,RACHEL RICHEY: Thank you.,2241.08,0.3
+849,DAVID J. MALAN: --so much.,2241.38,0.18
+850,"One more round of applause, if
+we could, for our volunteers.",2241.56,1.69
+851,Thank you.,2243.25,0.56
+852,[APPLAUSE],2243.81,0.924
+853,Did you lose something?,2244.734,1.386
+854,OK.,2246.12,1.37
+855,All right.,2247.49,0.54
+856,"So, [LAUGHS] Spot's had it.",2248.03,3.16
+857,"So let's see, then,
+if we've solved, now,",2251.19,2.87
+858,"the problem of representing
+English letters of the alphabet,",2254.06,2.58
+859,"being able to spell out words like
+""bow,"" B-O-W. What if we actually do",2256.64,3.21
+860,have accented characters?,2259.85,1.36
+861,"What if we do have other glyphs
+that we want to represent?",2261.21,2.673
+862,"Well, here, of course, is a standard
+US English keyboard, which a lot of you",2263.883,3.167
+863,might have.,2267.05,0.6
+864,"But there's also characters
+that you can type much more",2267.65,2.61
+865,"easily if you have a foreign
+keyboard, relative to the US,",2270.26,2.67
+866,"or with certain keystrokes on
+your own Mac, PC, and phone.",2272.93,2.85
+867,"But, nowadays, too, there's
+this menu that, probably, you've",2275.78,3.45
+868,"used in the past hour or two
+to actually send some emoji.",2279.23,4.17
+869,"An emoji, even though
+they look like pictures",2283.4,2.64
+870,"and they actually are
+pictures on the screen,",2286.04,2.04
+871,"they're, technically, just characters,
+characters of an emoji alphabet",2288.08,5.04
+872,"that happened to use a certain
+pattern of 0's and 1's to represent",2293.12,3.21
+873,"each of these faces, each of these
+people, and places, and things.",2296.33,3.55
+874,"And it turns out that one of
+the reasons that we have just",2299.88,2.66
+875,"so many [LAUGHS] such characters
+nowadays is because we now",2302.54,6.7
+876,use Unicode instead of ASCII.,2309.24,2.13
+877,"So Unicode is a superset,
+so to speak, of ASCII,",2311.37,3.0
+878,"which is to say that we, humans,
+realized, some time ago, that just",2314.37,3.66
+879,"using eight bits to represent
+letters of the alphabet",2318.03,2.34
+880,"certainly isn't very good
+when we want to represent",2320.37,2.7
+881,"other, non-English languages.",2323.07,1.89
+882,So Unicode doesn't just use eight bits.,2324.96,2.28
+883,"It sometimes uses 16 bits per character,
+sometimes 24 bits per character,",2327.24,5.28
+884,"and sometimes even 32
+bits per character.",2332.52,3.09
+885,"Now, why those numbers?",2335.61,1.08
+886,"That's just one byte, two bytes,
+three bytes, or four bytes.",2336.69,3.99
+887,And that gives us--,2340.68,1.452
+888,does anyone know?,2342.132,0.708
+889,"That gives us the ability
+to represent as many as 4",2342.84,3.54
+890,billion possible characters.,2346.38,2.25
+891,"Because if the longest one is
+32 bits, that's 2 to the 32,",2348.63,3.52
+892,"which, if you do out the math,
+trust me, is roughly 4 billion.",2352.15,2.94
+893,So that's a lot of characters.,2355.09,1.34
+894,"And we've got a lot of
+room, then, for these emoji.",2356.43,2.61
+895,"But it's not just about having
+fun, pictorially, on the screen.",2359.04,3.09
+896,"Unicode's mission really is to represent
+and to preserve all human languages",2362.13,5.7
+897,"digitally, both past,
+present, and future.",2367.83,3.7
+898,"So it is really about capturing
+the entirety of human knowledge,",2371.53,3.89
+899,"as we've expressed it
+in language, but also",2375.42,2.01
+900,"giving this newfound ability that's been
+used centuries ago, too-- in writings,",2377.43,4.59
+901,"on walls, and the like--
+pictograms via which",2382.02,2.28
+902,"we can still communicate,
+even independently",2384.3,2.34
+903,of our own human language.,2386.64,1.39
+904,"So we'll reduce it, today, to
+just patterns of 0's and 1's, but",2388.03,3.29
+905,"the problem being solved is much greater
+and well-beyond CS, itself, there.",2391.32,4.87
+906,"So here is a pattern
+of 0's and 1's using",2396.19,2.42
+907,"Unicode, so more than eight bits, that
+represents a very popular emoji, which",2398.61,5.7
+908,might be a bit of a hint.,2404.31,1.78
+909,"This is the most popular emoji,
+as of last year, at least,",2406.09,2.78
+910,"statistically, internationally.",2408.87,1.46
+911,[INTERPOSING VOICES],2410.33,2.748
+912,DAVID J. MALAN: Does this help?,2413.078,1.292
+913,"It's, roughly, this number here.",2414.37,2.15
+914,No?,2416.52,0.72
+915,It's this one here.,2417.24,1.84
+916,"So this is the most popular emoji,
+by most measures, as of last year.",2419.08,4.28
+917,But it doesn't always look like this.,2423.36,1.81
+918,"Those of you who have a Mac or an
+iPhone recognize this symbol, perhaps,",2425.17,3.02
+919,immediately.,2428.19,0.5
+920,"Those of you with Android
+devices or other platforms",2428.69,2.41
+921,"might notice that it's the same idea,
+but it's a little bit different.",2431.1,4.21
+922,"And this is because, too,
+emojis, at the end of the day,",2435.31,3.35
+923,"just represent character, but
+those characters can be drawn,",2438.66,2.76
+924,can be painted in different ways.,2441.42,1.65
+925,"And reasonable people
+will interpret differently",2443.07,3.06
+926,"this emoji, whose official name
+is ""face with tears of joy.""",2446.13,3.75
+927,"And, indeed, Google interprets
+it a little differently",2449.88,2.25
+928,"from Apple, versus Microsoft, versus
+Meta, versus other companies, as well.",2452.13,3.683
+929,"So you can almost think of
+those different companies",2455.813,2.167
+930,as having different fonts for emoji.,2457.98,2.25
+931,"And that really starts to connect things
+to the world of text and characters.",2460.23,3.93
+932,"So, just so you've seen it.",2464.16,1.56
+933,"More on this, another time.",2465.72,1.39
+934,"It turns out that emoji and,
+really, characters, in general,",2467.11,3.87
+935,"we don't use binary 0's
+and 1's to represent them",2470.98,2.45
+936,"because no one, myself included,
+is going to recognize what's what.",2473.43,2.31
+937,It's just too much math.,2475.74,0.78
+938,It's not interesting.,2476.52,0.96
+939,"And even decimal numbers--
+that was 4 billion or some--",2477.48,2.4
+940,I don't remember which number is which.,2479.88,2.38
+941,"So we represent things
+a little more compactly.",2482.26,2.15
+942,"And this, too, admittedly,
+still looks cryptic,",2484.41,2.1
+943,"but this is a Unicode code point that
+uses another system, mathematically,",2486.51,4.26
+944,called base-16 or hexadecimal.,2490.77,2.7
+945,"More on that, another time.",2493.47,1.2
+946,"But it's just a way of representing
+numbers even more succinctly,",2494.67,3.42
+947,"writing less on the screen,
+because you're using not just 0",2498.09,3.18
+948,"through 9, as in decimal.",2501.27,1.32
+949,"But you're using A through
+F, as well, so a few letters",2502.59,3.42
+950,of the English alphabet come into play.,2506.01,1.66
+951,"But, for now, that's
+just a little easier",2507.67,2.03
+952,"to remember, too, for people who
+care, that that is the number that",2509.7,4.05
+953,"represents ""face with tears of joy.""",2513.75,2.13
+954,But what if we want a customized emoji?,2515.88,2.13
+955,"And this, increasingly, is the case.",2518.01,1.77
+956,"Here, for instance,
+are the five skin tones",2519.78,2.13
+957,"that phones, and laptops, and
+desktops, nowadays, support.",2521.91,2.85
+958,"It's based on something called the
+""Fitzpatrick scale,"" which essentially",2524.76,3.042
+959,"categorizes human skin tone
+into six or, in this case, five",2527.802,2.658
+960,"different categories,
+from lighter to darker.",2530.46,2.1
+961,"But this suggests that, wow,
+if we want to represent people",2532.56,4.92
+962,"with five different skin tones,
+like this, that could significantly",2537.48,4.56
+963,"increase how many unique
+patterns of 0's and 1's we",2542.04,3.09
+964,need for every possible face.,2545.13,1.76
+965,"But if we think about it from
+an engineering perspective,",2546.89,2.65
+966,"we can actually just think of skin
+tone as modifying some default",2549.54,3.528
+967,"color, for better or for worse.",2553.068,1.292
+968,"And yellow is the de facto
+default, Simpson style.",2554.36,3.09
+969,"But to modify it to look more genuinely
+human-like, from lighter to darker,",2557.45,3.9
+970,"well, maybe we just use
+the same pattern of bits",2561.35,2.64
+971,"to represent a human thumb, for
+instance, thumbs up or thumbs down.",2563.99,3.73
+972,"And we just, then, modify that character
+to be displayed with a different skin",2567.72,3.49
+973,tone.,2571.21,0.5
+974,"So, for instance, here,
+then, is the ""thumbs up""",2571.71,2.24
+975,that you might use on various platforms.,2573.95,1.8
+976,"And let me just stipulate that
+this is the Unicode code point.",2575.75,3.45
+977,"That is the number that
+Macs, PCs, and phones",2579.2,2.67
+978,"use underneath the hood to represent
+the default yellow ""thumbs up.""",2581.87,4.09
+979,"But if you want to give
+it a medium skin tone,",2585.96,2.81
+980,"you still use that same number,
+that same pattern of 0's and 1's,",2588.77,3.6
+981,"or switches, underneath the hood.",2592.37,1.56
+982,"But you use a few more switches
+that the computer or phone",2593.93,3.69
+983,"will interpret as, ""Oh, you don't
+want to see the default in yellow",2597.62,3.18
+984,"because of this second number that's
+in the computer's memory somewhere.",2600.8,3.09
+985,"You want me to adjust it to
+be the medium skin tone or any",2603.89,3.28
+986,"of the other values, instead.""",2607.17,1.84
+987,"So that's the engineering
+solution to this problem",2609.01,2.57
+988,"of just trying to represent
+different ranges of emoji here.",2611.58,3.498
+989,"Well, what about something like this?",2615.078,1.542
+990,"There's a lot more
+combinatorics, nowadays,",2616.62,1.86
+991,"on your keyboard for
+relationships, for instance.",2618.48,2.042
+992,"So here is a ""couple with heart"" here.",2620.522,3.098
+993,"So the couple, here, of course,
+is represented with, apparently,",2623.62,2.9
+994,this number here.,2626.52,1.08
+995,But that's it.,2627.6,0.655
+996,"But if you want to be more
+specific-- like man and woman,",2628.255,2.375
+997,"or man-man, woman-woman--
+it's the same idea,",2630.63,2.61
+998,"but we just need to express
+ourselves a little-- with a little",2633.24,3.39
+999,more information.,2636.63,0.97
+1000,"So, for instance, the way the
+Unicode folks came up with,",2637.6,2.96
+1001,"years ago, to represent, for instance,
+a woman with a heart and a man,",2640.56,3.27
+1002,"from left to right, would
+be using these values.",2643.83,2.65
+1003,"So things just escalated
+quickly, but only",2646.48,2.42
+1004,"in the sense that we're using more
+bits, more 0's and 1's, to represent,",2648.9,3.66
+1005,"more expressively, this
+particular combination.",2652.56,2.91
+1006,"So this happens to be
+the number in Unicode",2655.47,2.58
+1007,that represents the woman at left.,2658.05,1.74
+1008,"This is the number that
+represents the man at right.",2659.79,2.64
+1009,"And this is the pair of
+numbers that represents",2662.43,2.73
+1010,"the heart in the middle, sometimes red,
+sometimes pink, displayed here as pink.",2665.16,4.39
+1011,"But if we want to change the
+combination, for instance, to be,",2669.55,2.96
+1012,"say, woman--",2672.51,1.41
+1013,"if we want to change the
+combination to be woman-woman,",2673.92,2.4
+1014,"notice that, now, the left and
+the rightmost numbers match.",2676.32,2.88
+1015,"Or if we flip it back to man-man,
+it's just using different numbers",2679.2,3.09
+1016,on the tail end again.,2682.29,1.5
+1017,"And meanwhile, if I rewind, there's
+these two identical values here.",2683.79,4.59
+1018,"These are called zero-width
+joiners or ZWNJ characters.",2688.38,3.3
+1019,"It just is a special number
+that humans reserve to say,",2691.68,3.78
+1020,"glue the emoji at the left to the
+emoji on the right and so forth.",2695.46,4.75
+1021,So it connects ideas in this way.,2700.21,2.16
+1022,"So there's actually a
+lot of emojis, nowadays,",2702.37,2.12
+1023,"that are a combination
+of different things.",2704.49,2.88
+1024,"""Heart on fire"" is one
+that's, technically,",2707.37,2.28
+1025,"the combination of a heart
+emoji, the fire emoji,",2709.65,3.54
+1026,"joined together,
+numerically, in this way.",2713.19,2.92
+1027,"So computer scientists who
+come up with these things",2716.11,2.18
+1028,"are just reducing things
+to representations.",2718.29,3.0
+1029,"All we have at our
+disposal are 0's and 1's.",2721.29,2.14
+1030,"So we all just need
+to agree, ultimately--",2723.43,1.82
+1031,"whether we're Google, Microsoft, or the
+like-- how we're going to standardize",2725.25,3.51
+1032,these kinds of things as information.,2728.76,2.27
+1033,"Questions, then, on how characters
+are represented in a computer,",2731.03,5.49
+1034,be it English or any other language?,2736.52,1.74
+1035,Yeah.,2738.26,0.5
+1036,AUDIENCE: How is the plus a number?,2738.76,1.87
+1037,DAVID J. MALAN: How is the what?,2740.63,1.333
+1038,"AUDIENCE: The plus, the U+.",2741.963,1.967
+1039,"DAVID J. MALAN: Oh, the U+
+is just a convention, really.",2743.93,2.67
+1040,"So U+ represents a
+special Unicode character,",2746.6,3.22
+1041,which is a U with a plus in the middle.,2749.82,1.97
+1042,"And this is just the
+convention for saying,",2751.79,2.8
+1043,"hey, everyone, here comes a number
+that represents a Unicode code point.",2754.59,4.01
+1044,The U and the 1 have no-- sorry.,2758.6,1.47
+1045,"The U and the plus have no
+mathematical significance.",2760.07,2.208
+1046,It's just a visual clue to folks.,2762.278,3.192
+1047,"Other questions on
+representing text in this way?",2765.47,4.99
+1048,All right.,2770.46,0.5
+1049,So what about colors?,2770.96,1.28
+1050,"We've already started
+looking at pictures.",2772.24,1.75
+1051,"Well, how are those pictures, be it
+emojis or anything else, represented?",2773.99,3.042
+1052,"One of the most common
+ways is just with RGB--",2777.032,2.838
+1053,"red, green, and blue.",2779.87,1.08
+1054,"It turns out that if we just
+keep track of how much red should",2780.95,3.75
+1055,"be on the screen, and how much green,
+and how much blue, combined together,",2784.7,3.18
+1056,"that gives us every
+color of the rainbow,",2787.88,2.01
+1057,"from white to black and
+everything in between.",2789.89,2.23
+1058,"So how do we represent an amount
+of red, and green, and blue?",2792.12,3.5
+1059,"Well, frankly, just with
+three different numbers.",2795.62,2.07
+1060,"And this is how computers
+typically represent colors.",2797.69,2.34
+1061,"Every one of the dots on your
+computer screen or your phone screen",2800.03,3.19
+1062,is called a pixel.,2803.22,1.17
+1063,"And every single dot underneath the hood
+has three numbers associated with it,",2804.39,5.74
+1064,"so three numbers, three numbers,
+three numbers for every little dot.",2810.13,2.87
+1065,"And those three numbers, together,
+say how much red, green, and blue",2813.0,3.42
+1066,"should the device
+display at that location.",2816.42,2.62
+1067,"So, for instance, if you
+had a dot on your screen",2819.04,3.35
+1068,"that said, ""use this much red, this
+much green this much blue,"" because each",2822.39,5.13
+1069,"of these numbers, I'll tell
+you, are one byte or eight bits,",2827.52,4.3
+1070,"which means the total
+possible values is 0 to 255--",2831.82,3.89
+1071,"let me just ballpark that the 72,
+it feels like a medium amount of red",2835.71,3.36
+1072,because it's in between 0 and 255.,2839.07,2.28
+1073,"73 is a medium amount of green, and
+33 of blue is just a little bit.",2841.35,4.24
+1074,"So if you combine a medium amount of
+red, green, and a little bit of blue,",2845.59,3.89
+1075,"anyone want to guess what
+color of the rainbow this is?",2849.48,3.36
+1076,AUDIENCE: Brown.,2852.84,0.667
+1077,DAVID J. MALAN: Sorry?,2853.507,0.916
+1078,AUDIENCE: Brown.,2854.423,0.767
+1079,DAVID J. MALAN: Brown?,2855.19,1.28
+1080,"So, close.",2856.47,0.758
+1081,"It's a little more
+yellow than it is brown.",2857.228,1.792
+1082,"But if we combine them, it looks
+a little something like this.",2859.02,2.9
+1083,"This is just CS trivia,
+not something that even",2861.92,1.967
+1084,"I would be able to eyeball, unless I
+came up with that particular example.",2863.887,3.083
+1085,But wait a minute.,2866.97,1.637
+1086,We've seen these numbers before.,2868.607,1.333
+1087,"72, 73, 33 represented what--",2869.94,1.828
+1088,AUDIENCE: Hi!,2871.768,0.542
+1089,DAVID J. MALAN: --a few minutes ago?,2872.31,1.06
+1090,"So it meant ""Hi!"" but here I
+am, claiming, no, no, no, no,",2873.37,2.417
+1091,that means yellow.,2875.787,1.353
+1092,How do you reconcile this?,2877.14,1.75
+1093,"Well, at the end of the
+day, this is all we have,",2878.89,2.66
+1094,"0's and 1's, whether you
+think of them as numbers,",2881.55,2.76
+1095,"or letters, or even colors now.",2884.31,2.31
+1096,But it depends on the context.,2886.62,1.78
+1097,"So if you've received a
+text message or an email,",2888.4,2.99
+1098,"odds are the pattern of 0's
+and 1's that the computer",2891.39,2.46
+1099,"is showing you are going to be
+interpreted as text because that's",2893.85,3.45
+1100,"the whole point of a
+text message or an email.",2897.3,2.64
+1101,"If, though, you opened up MacOS's
+or iOS's or Windows's or Android's",2899.94,3.99
+1102,"calculator app, the same
+pattern of 0's and 1's might",2903.93,3.3
+1103,"be interpreted as numbers for some
+addition, or subtraction, or whatever.",2907.23,3.42
+1104,"If you open the same pattern
+of 0's and 1's in Photoshop,",2910.65,3.13
+1105,"like a graphics program, they're going
+to be interpreted, in that context,",2913.78,3.33
+1106,as colors.,2917.11,0.84
+1107,So context matters.,2917.95,1.148
+1108,"And, indeed, as soon
+as next week, when you",2919.098,1.792
+1109,"start writing code in
+that language called C,",2920.89,2.19
+1110,"the onus will be on you, the programmer,
+to tell the computer, interpret",2923.08,4.47
+1111,"the following sequence of bits as a
+number, or a letter, or something else.",2927.55,5.043
+1112,"And you won't have to even worry
+about what the 0's and 1's are,",2932.593,2.667
+1113,"but you need to give the computer
+a hint as to what type of file",2935.26,3.12
+1114,or piece of data you're representing.,2938.38,2.35
+1115,So that gives us bits.,2940.73,1.16
+1116,"And you can actually see these
+dots, these pixels on the screen.",2941.89,3.75
+1117,"Let me zoom in, zoom in.",2945.64,1.74
+1118,"And here we have it, just with this
+emoji, which, at the end of the day,",2947.38,3.09
+1119,"is a picture that someone at
+Apple, in this case, drew.",2950.47,2.91
+1120,"And you can see-- if you really
+zoom in, or take your phone or TV",2953.38,3.06
+1121,"and really put it close to your
+face, you'll see all of these dots,",2956.44,3.03
+1122,depending on the hardware.,2959.47,1.23
+1123,"And each of these
+dots, these squares, is",2960.7,2.55
+1124,"storing 24 bits or three bytes,
+24 bits, 24 bits, 24 bits.",2963.25,5.1
+1125,"And that's whey, dot,
+dot, dot, if you've",2968.35,2.85
+1126,"got a photograph, for instance,
+that's three megabytes, which",2971.2,4.53
+1127,"is 3 million bytes, well, odds are
+there's 1 million pixels therein",2975.73,6.3
+1128,"because you're using
+three bytes per pixel",2982.03,3.21
+1129,to represent each of those colors.,2985.24,1.468
+1130,"That's a bit of an
+oversimplification, but that's",2986.708,2.042
+1131,"why images and photos are getting
+bigger and bigger nowadays.",2988.75,3.09
+1132,"Because we're throwing even
+more pixels into the file.",2991.84,4.27
+1133,Music--,2996.11,0.5
+1134,[MUSIC PLAYING],2996.61,0.72
+1135,"--how could you represent
+music, digitally,",2997.33,2.55
+1136,"using just 0's and 1's,
+or numbers, really?",2999.88,4.04
+1137,"Any instinct, whether a musician or not?",3003.92,3.79
+1138,Yeah.,3007.71,1.033
+1139,"AUDIENCE: The notes could
+be represented by a number.",3008.743,2.317
+1140,"DAVID J. MALAN: Yeah, so we can
+just represent notes by a number.",3011.06,2.708
+1141,"So A is some number, and B. And maybe
+sharp or flat is some other number.",3013.768,3.892
+1142,"But note might not be
+quite enough for some--",3017.66,3.95
+1143,yeah?,3021.61,0.5
+1144,AUDIENCE: [INAUDIBLE].,3022.11,0.766
+1145,"DAVID J. MALAN: Ah, OK.",3022.876,0.958
+1146,"So one note-- one number to
+represent the note, itself,",3023.834,2.636
+1147,"the sound or the pitch; one other
+number to represent the duration.",3026.47,4.35
+1148,"In the context of piano, how long
+is the human holding the key down?",3030.82,4.18
+1149,"And maybe I can think of
+a third, the loudness.",3035.0,2.33
+1150,"How hard has the person
+played that note?",3037.33,2.127
+1151,"So, minimally, with
+three numbers, you could",3039.457,1.833
+1152,"imagine representing music, as well.",3041.29,2.202
+1153,"And, indeed, that's very
+well might be what computers",3043.492,2.208
+1154,are doing when you listen to sound.,3045.7,2.02
+1155,What about video?,3047.72,0.89
+1156,"How could you represent videos, as well?",3048.61,3.15
+1157,Yeah?,3051.76,0.51
+1158,AUDIENCE: Through many images.,3052.27,1.19
+1159,"DAVID J. MALAN: Yeah, many images.",3053.46,1.33
+1160,"So if you've ever produced a film
+or looked at some of the fine print,",3054.79,2.96
+1161,"30 frames per second, FPS,
+or 29 frames per second",3057.75,4.32
+1162,"is just how many pictures
+are flying across the screen.",3062.07,2.49
+1163,"But that's really all a
+video file is on a computer,",3064.56,2.25
+1164,"lots of pictures moving so quickly in
+front of us that you and I, our brains,",3066.81,3.66
+1165,interpolate that as being actual motion.,3070.47,2.46
+1166,"And, in fact, from
+yesteryear, motion pictures,",3072.93,2.79
+1167,"it's like pictures that are
+giving the illusion of motion,",3075.72,2.85
+1168,"even though there's only 30 or so
+of them flying across the screen.",3078.57,3.34
+1169,"So we have a way, now, to
+represent information, both as",3081.91,2.96
+1170,"input and output, whether it's numbers,
+letters, images, anything else.",3084.87,4.38
+1171,"Let's now focus on what's
+inside of that black box,",3089.25,2.95
+1172,"so to speak, wherein we have
+algorithms, step-by-step instructions",3092.2,4.16
+1173,for solving some problem.,3096.36,2.07
+1174,"Now, what do I mean by ""algorithms""
+or ""step-by-step instructions""?",3098.43,3.33
+1175,"Well, maybe, if we were
+to turn this into code--",3101.76,3.055
+1176,"and that's how we'll connect
+the dots, ultimately, today.",3104.815,2.375
+1177,"Code is just the implementation,
+in computers, of algorithms.",3107.19,4.29
+1178,"An algorithm can be something
+we do in the physical world.",3111.48,2.44
+1179,"Code is how we implement that exact
+same idea, in the context of a computer,",3113.92,4.26
+1180,instead.,3118.18,0.63
+1181,"And here, for instance, is a very
+common application inside of a computer,",3118.81,3.342
+1182,for your context.,3122.152,0.708
+1183,This is the iOS version of the icon.,3122.86,2.04
+1184,"And, typically, if you
+click on that icon,",3124.9,2.063
+1185,"you'll see something like
+all of your contacts here,",3126.963,2.167
+1186,"typically, alphabetical,
+by first name or last name.",3129.13,3.12
+1187,"And your phone or your computer lets
+you often search for someone's name",3132.25,4.853
+1188,at the very top.,3137.103,0.667
+1189,"And it will autocomplete, and
+it'll be pretty darn fast.",3137.77,2.85
+1190,"But it'll be pretty darn fast
+because the programmers who",3140.62,2.85
+1191,"implemented that application are
+looking for someone quickly for you.",3143.47,4.74
+1192,"Now, I can do this old school style,
+whereby we have one of these things",3148.21,5.19
+1193,"from yesteryear, an actual phone book.",3153.4,2.44
+1194,"So, in a physical phone book like
+this, you might have 1,000 pages.",3155.84,3.32
+1195,"And on every page are a bunch
+of names and a bunch of numbers.",3159.16,3.28
+1196,"And as I flip through this, I
+could look for someone specific.",3162.44,3.05
+1197,"So suppose I want to call John Harvard,
+who's-- the first name, of course,",3165.49,3.52
+1198,"starts with a J. Well, I
+could just turn, page by page,",3169.01,3.71
+1199,looking for John Harvard.,3172.72,1.87
+1200,"And if he's not there, I
+keep turning and turning.",3174.59,2.41
+1201,So this is an algorithm.,3177.0,1.0
+1202,"I'm stepping through the phone
+book, one page at a time.",3178.0,2.79
+1203,"Is it correct, this algorithm,
+assuming I'm looking down?",3180.79,3.72
+1204,"So, yeah.",3184.51,0.96
+1205,"I mean, it's stupidly
+slow because why am",3185.47,2.46
+1206,"I wasting my time with the A's,
+and the B's, and the so forth?",3187.93,2.655
+1207,"I could probably take
+bigger bites out of it.",3190.585,1.875
+1208,But it is correct.,3192.46,0.75
+1209,"And that's going to be one of the goals
+of writing code, is to, of course,",3193.21,3.083
+1210,"solve the problem you
+care about correctly.",3196.293,1.807
+1211,"So correctness goes without
+saying, or else what's",3198.1,2.37
+1212,"the point of writing the code
+or solving-- or implementing",3200.47,2.61
+1213,the algorithm?,3203.08,0.72
+1214,All right.,3203.8,0.24
+1215,"Well, let me at least speed things up.",3204.04,1.583
+1216,"So, instead of one page at a
+time, so, two, four, six, eight--",3205.623,3.757
+1217,"no, ignore that-- 10,
+12, 14, 16, and so forth.",3209.38,4.04
+1218,"It's a little hard to do,
+physically, but it sounded faster.",3213.42,2.5
+1219,"It was twice as fast,
+theoretically, but is it correct?",3215.92,2.895
+1220,AUDIENCE: No.,3218.815,0.69
+1221,"DAVID J. MALAN: So, no.",3219.505,0.975
+1222,Why?,3220.48,0.73
+1223,Yeah?,3221.21,0.5
+1224,"AUDIENCE: Yeah, you might [INAUDIBLE].",3221.71,1.47
+1225,"DAVID J. MALAN: Yeah, I might miss
+John Harvard because, just by accident,",3223.18,3.083
+1226,"he might get sandwiched
+between two pages.",3226.263,2.227
+1227,"But do I have to throw the
+algorithm out altogether?",3228.49,3.72
+1228,Probably not.,3232.21,1.05
+1229,"Once I reach the K section,
+which is past the J section,",3233.26,2.813
+1230,"I could double back at least one
+page, at least, [PATS TELEPHONE BOOK]",3236.073,2.917
+1231,"and just make sure I didn't
+blow past him completely.",3238.99,2.55
+1232,"So that is twice as fast,
+because I'm going two pages",3241.54,2.91
+1233,"at a time, plus one extra step.",3244.45,1.472
+1234,So it's still an improvement.,3245.922,1.208
+1235,"So the first algorithm,
+worst case, if it's",3247.13,1.792
+1236,"not John, but someone
+whose name starts with Z,",3248.922,1.978
+1237,"that might take me a full 1,000 steps.",3250.9,1.96
+1238,"The second algorithm is
+just 500 steps because I'm",3252.86,3.35
+1239,"going two pages at a time plus
+one, in case I have to double back,",3256.21,3.45
+1240,but that's in the worst case.,3259.66,1.33
+1241,"But most of us in the-- in yesteryear,
+and what Apple, and Google, and others",3260.99,5.09
+1242,"are actually doing is, in
+software or here, physically,",3266.08,3.36
+1243,"we're typically going,
+roughly, to the middle.",3269.44,2.1
+1244,"Especially if there's no cheat
+sheet on the side, like A through Z,",3271.54,2.82
+1245,"I'm just going to go
+to, roughly, the middle.",3274.36,1.875
+1246,"And, oh, here I am, not
+surprisingly, in the M section.",3276.235,2.685
+1247,But what do I now know.,3278.92,1.44
+1248,"If this is the M section,
+where is John Harvard?",3280.36,3.3
+1249,"So, clearly, to the
+left, alphabetically.",3283.66,2.47
+1250,"And so here is where we can take a
+much bigger bite out of the problem.",3286.13,3.53
+1251,"We can really divide
+and conquer this problem",3289.66,2.82
+1252,"by tearing [TEARS BOOK] the problem
+in half, throwing half of it",3292.48,3.6
+1253,"away, 500 pages away, leaving
+me with a smaller problem,",3296.08,5.16
+1254,"half as big, that I can
+really just now repeat.",3301.24,3.13
+1255,"So I go, roughly, here, and
+now I'm in the E section.",3304.37,2.78
+1256,So I went a little too far back.,3307.15,1.952
+1257,But what do I now know?,3309.102,0.958
+1258,"If this is the E pages, where's John?",3310.06,1.62
+1259,AUDIENCE: To the right.,3311.68,0.78
+1260,"DAVID J. MALAN: So
+now he's to the right.",3312.46,1.23
+1261,"So I can-- again, hopefully,
+he's not on that page.",3313.69,2.125
+1262,"I can tear the problem in half
+again, throw that 250 pages away.",3315.815,4.565
+1263,"And now I've gone from
+1,000 to 500 to 250 pages.",3320.38,3.15
+1264,"Now I'm moving because the first
+algorithm was one page at a time,",3323.53,2.94
+1265,second was two.,3326.47,0.81
+1266,This is hundreds of pages at a time.,3327.28,2.093
+1267,"And if I go, roughly, again,
+to the middle; roughly,",3329.373,2.167
+1268,"to the middle; roughly, to
+the middle, hopefully, I'll",3331.54,2.25
+1269,find John Harvard on one final page.,3333.79,2.56
+1270,"Can only do this once,
+but one final page.",3336.35,2.79
+1271,"So that invites the
+question, I would think,",3339.14,2.87
+1272,"if the phone book does
+have 1,000 or so pages,",3342.01,2.67
+1273,"how many times can I divide the problem
+in half to get down to one last page?",3344.68,5.53
+1274,"So it's, roughly, 10.",3350.21,1.37
+1275,"And the quick math is 1,000 goes to
+500 to 250 to 125 to 67 something.",3351.58,4.623
+1276,"So we have to deal with
+rounding issues, eventually.",3356.203,2.167
+1277,"But assuming we work out the math,
+it's, roughly, 10 page tears.",3358.37,3.27
+1278,"And that's crazy faster than 1,000
+pages and still faster than 500 pages.",3361.64,5.94
+1279,So it's fundamentally better.,3367.58,1.77
+1280,"And, indeed, if I finally get to that
+final page, in the software world,",3369.35,4.442
+1281,"you'd see something like this,
+John Harvard and his number,",3373.792,2.458
+1282,which you're welcome to call or text.,3376.25,1.56
+1283,"But that's how we now have our answer,
+much like the single page there.",3377.81,5.04
+1284,"But let's consider just how
+efficient that actually is.",3382.85,4.24
+1285,"So here's a very rough, broad--
+with broad strokes, a chart.",3387.09,3.47
+1286,So here's an xy plot.,3390.56,1.438
+1287,"So here, on the horizontal, is
+going to be the size of the problem.",3391.998,2.792
+1288,"And, by that, I mean, how many
+pages are we trying to go through?",3394.79,3.57
+1289,This would be zero pages.,3398.36,1.53
+1290,This would be a lot of pages.,3399.89,1.59
+1291,"How much time does it
+take to solve the problem?",3401.48,2.13
+1292,"How long does it take to find
+John Harvard or anyone else?",3403.61,2.49
+1293,This means no time.,3406.1,1.44
+1294,This means a lot of time.,3407.54,1.42
+1295,"So what's the relationship
+among these algorithms?",3408.96,2.15
+1296,"Well, the first one is
+actually just a straight line.",3411.11,2.38
+1297,"If there's n pages in
+the phone book, well, I",3413.49,3.84
+1298,"claim that it's a
+one-to-one relationship.",3417.33,2.73
+1299,"Because if Verizon or the phone
+company adds another page next year,",3420.06,4.23
+1300,"that just means I might have
+one more step next year,",3424.29,2.61
+1301,"as well, to find John
+Harvard or anyone else.",3426.9,3.09
+1302,"But the second algorithm,
+it's also a straight line,",3429.99,2.94
+1303,"but it's lower, even though
+it might not look obvious.",3432.93,2.365
+1304,And what do I mean by that?,3435.295,1.125
+1305,"Well, let me just draw
+some temporary lines.",3436.42,1.833
+1306,"If this is how many pages
+are in the phone book-- dot,",3438.253,2.357
+1307,"dot, dot-- notice that it takes
+this much time, on the red line,",3440.61,3.48
+1308,to solve the problem.,3444.09,1.27
+1309,"But if I, instead, use
+the second algorithm,",3445.36,3.17
+1310,it takes me half as much time.,3448.53,1.977
+1311,"So, even though they're
+both straight lines,",3450.507,1.833
+1312,"one is strictly lower than the
+other, which means it's faster.",3452.34,2.583
+1313,It's better.,3454.923,0.717
+1314,"But the third algorithm is a
+fundamentally different shape,",3455.64,2.67
+1315,"and it looks a little
+something like this.",3458.31,1.78
+1316,"And it looks like it's going to
+flatten, flatten, flatten out,",3460.09,2.28
+1317,but it never does.,3462.37,0.89
+1318,It just rises ever so slowly.,3463.26,2.91
+1319,"And what this means is that if
+maybe Cambridge and Allston, here",3466.17,3.12
+1320,"in Massachusetts, merge next year,
+so we go from 1,000 page phone book",3469.29,3.74
+1321,"to a 2,000 page phone book, that
+means, if we're here this year,",3473.03,5.07
+1322,we're over here next year.,3478.1,1.56
+1323,It's not all that much higher.,3479.66,1.53
+1324,"But it would be much higher if we
+were using the first two algorithms.",3481.19,3.13
+1325,Why?,3484.32,0.5
+1326,"It'd be an extra 1,000 steps to
+find someone in that combined phone",3484.82,3.06
+1327,book or maybe another 500 steps.,3487.88,2.01
+1328,"But, to be clear, if we're using
+my third and final algorithm,",3489.89,3.63
+1329,"how many more steps will
+it take me next year,",3493.52,2.1
+1330,"when Cambridge and Allston merge
+into one 2,000-page phone book?",3495.62,5.31
+1331,"Just one more step, no big deal.",3500.93,1.87
+1332,It's one more page tear.,3502.8,1.6
+1333,"And this is what we mean,
+ultimately, about not just writing",3504.4,2.5
+1334,"code or implementing algorithms
+that are correct, but, now,",3506.9,2.82
+1335,"that are well-designed or
+efficient, specifically.",3509.72,3.35
+1336,"And this is what makes someone
+a better programmer, perhaps,",3513.07,2.5
+1337,"than someone else, or a better
+problem-solver than someone else,",3515.57,2.667
+1338,"is acquiring, over time, these skills.",3518.237,1.893
+1339,"So that, sure, you could solve
+the problem quickly and dirtily,",3520.13,3.15
+1340,"so to speak, but if you're
+going to have a lot of data",3523.28,2.28
+1341,"eventually, be it in your phone book
+or maybe your Google website index,",3525.56,3.932
+1342,"if you're searching
+the web, you're going",3529.492,1.708
+1343,"to want to try to think about how to
+design algorithms that look like this.",3531.2,3.34
+1344,"Mathematically, this
+is called a logarithm.",3534.54,1.83
+1345,"And it's log base 2 because I'm halving,
+halving, halving, again and again.",3536.37,3.125
+1346,"But, for now, just know that it's a
+fundamentally faster and different",3539.495,3.625
+1347,shape.,3543.12,0.7
+1348,"So, among our goals in CS50,
+ultimately, is not just",3543.82,2.51
+1349,"to write and solve problems correctly,
+but, ultimately, ever more efficiently,",3546.33,5.94
+1350,as well.,3552.27,1.33
+1351,"Any questions, then, on these
+ideas of efficiency and design?",3553.6,6.51
+1352,Any questions here?,3560.11,1.37
+1353,"Yeah, in back?",3561.48,0.6
+1354,AUDIENCE: [INAUDIBLE].,3562.08,1.4
+1355,DAVID J. MALAN: A good question.,3563.48,0.69
+1356,"Just to repeat it, can a graph like this
+capture the accuracy of the algorithm?",3564.17,3.292
+1357,"Short answer, no.",3567.462,1.178
+1358,"For instance, if I drew
+a straight line that",3568.64,2.82
+1359,"is super low on this graph, which
+would imply that the algorithm takes",3571.46,4.11
+1360,"the same amount of time, no
+matter how many pages there are,",3575.57,2.67
+1361,"my algorithm might actually be to
+just pull a random page from the phone",3578.24,3.24
+1362,"book, one step, and say, here it is.",3581.48,1.75
+1363,"But that's not necessarily
+going to be accurate,",3583.23,2.0
+1364,"unless I get really, really lucky.",3585.23,1.78
+1365,"So the graph really only
+speaks to efficiency",3587.01,2.81
+1366,"and the design of the algorithm,
+not the correctness of it.",3589.82,3.06
+1367,"To analyze the correctness, you need
+to use another mechanism altogether,",3592.88,4.29
+1368,"namely, logic.",3597.17,1.11
+1369,"Other questions now, on
+efficiency, in this way?",3598.28,3.84
+1370,No?,3602.12,0.82
+1371,All right.,3602.94,0.5
+1372,"So, with that in mind, let's begin to
+translate this to some actual code.",3603.44,4.65
+1373,"And, in fact, before we look at,
+today, one actual programming language,",3608.09,3.54
+1374,"albeit a graphical one, let's
+consider something called pseudocode.",3611.63,3.09
+1375,So pseudocode has no formal meaning.,3614.72,1.777
+1376,"Generally, you write it in English or
+whatever your own human language is.",3616.497,3.083
+1377,"But you write your thoughts down
+tersely, succinct, but precisely.",3619.58,6.02
+1378,"You try to really convey your
+thoughts, not with a wave of the hand,",3625.6,2.97
+1379,"metaphorically, but
+step by step, precisely.",3628.57,2.94
+1380,So what do I mean by this?,3631.51,1.14
+1381,"Here might be some
+representative pseudocode",3632.65,2.73
+1382,"via which I describe that third
+and final algorithm in a way",3635.38,3.957
+1383,"that I could hand it to you and
+you could do the same at home.",3639.337,2.583
+1384,"Or I could hand it to someone at Google,
+and they could implement it in Android.",3641.92,3.505
+1385,"Or I could hand it to someone at Apple,
+and they could implement it in iOS.",3645.425,3.125
+1386,"So, step one, I claimed,
+was ""Pick up phone book.""",3648.55,2.73
+1387,"Step two was ""Open to the
+middle of the phone book.""",3651.28,3.15
+1388,"Step three, ""Look at
+the page,"" as I did.",3654.43,2.715
+1389,"And now things get a
+little more interesting.",3657.145,1.875
+1390,"Step four, ""If person is on
+page,"" I have to make a decision.",3659.02,4.74
+1391,"Presumably, what should I do if John
+Harvard is on the page I'm looking at?",3663.76,4.05
+1392,"So stop and probably make the call, or
+email, or whatever the goal might be.",3667.81,4.24
+1393,"And so I'm going to actually indent
+this, visually, by a few spaces,",3672.05,3.38
+1394,"just to make clear that you should only
+do line five if the answer to line four",3675.43,4.47
+1395,is yes.,3679.9,1.23
+1396,"Otherwise, you don't bother.",3681.13,1.23
+1397,"The next thing I'm going to do, line
+six, is consider another possibility.",3682.36,4.28
+1398,"""If the person I'm
+looking for is earlier",3686.64,2.34
+1399,"in the book,"" what do I want to do?",3688.98,1.825
+1400,"Well, I could write--",3690.805,0.875
+1401,"I could describe this
+in a bunch of ways.",3691.68,1.708
+1402,"I'm going to do this
+tersely, as follows.",3693.388,1.802
+1403,"""Open to the middle of
+the left half of the book,",3695.19,3.72
+1404,"so it's open to the middle
+of the left half of the book.",3698.91,2.7
+1405,"And then, what am I going to do?",3701.61,1.71
+1406,"Well, I've just divided the
+problem into something smaller.",3703.32,3.31
+1407,But it's fundamentally the same problem.,3706.63,1.95
+1408,It's just a fewer number of pages.,3708.58,2.52
+1409,"So I'm just going to go back
+to line three and do it again",3711.1,2.917
+1410,"because the problem is just getting
+smaller and smaller, presumably.",3714.017,2.833
+1411,"Else, if the person I'm looking
+for is later in the book,",3716.85,2.67
+1412,"open to the middle of the
+right half of the book,",3719.52,3.24
+1413,"and, also, ""Go back to line 3.""",3722.76,2.19
+1414,"But there's a fourth
+possibility and its failure",3724.95,3.21
+1415,"to realize, sometimes, that there's
+other possible outcomes that",3728.16,3.42
+1416,"make computers crash, or spinning
+beach balls, or the like,",3731.58,2.82
+1417,"if a programmer doesn't
+anticipate some situation.",3734.4,2.73
+1418,"What's the fourth possible situation,
+when looking for John Harvard?",3737.13,3.408
+1419,AUDIENCE: If they're not in the book.,3740.538,1.542
+1420,"DAVID J. MALAN: If they're
+not in the book, at all.",3742.08,2.125
+1421,"And, indeed, I might get to the very
+last page and John Harvard's not even",3744.205,3.245
+1422,on that one.,3747.45,0.75
+1423,"I'd better handle that and say, else,
+as a catchall, just quit altogether.",3748.2,5.25
+1424,"And, truly, often, in
+your Macs, PCs, phones,",3753.45,2.16
+1425,"when they freeze, or, again,
+spinning beach ball, or the like,",3755.61,2.7
+1426,"and just weird things
+happen, that's just",3758.31,1.35
+1427,because some human made a dumb mistake.,3759.66,1.56
+1428,"And they didn't realize that you could
+somehow get your phone or your laptop",3761.22,3.21
+1429,"into a configuration that
+they didn't anticipate.",3764.43,2.64
+1430,"So we're going to try
+to handle that here.",3767.07,1.8
+1431,"Now this is just one way
+of writing pseudocode.",3768.87,2.01
+1432,There's no one way to do this.,3770.88,1.35
+1433,"All of us in this room could come up
+with slightly different pseudocode.",3772.23,3.27
+1434,"But I think you'll find
+characteristic are certain building",3775.5,3.69
+1435,blocks in all of our answers.,3779.19,2.94
+1436,"Here, in yellow, are
+what, as of today, we're",3782.13,2.46
+1437,"going to start calling
+""functions,"" technically speaking.",3784.59,2.95
+1438,"These are like actions or verbs that
+literally, in this case, tell me",3787.54,3.26
+1439,what to do.,3790.8,0.9
+1440,"Next, we're going to have
+these things, conditionals,",3791.7,3.45
+1441,"forks in the road, so to speak, that
+take me down this path or another,",3795.15,5.375
+1442,metaphorically.,3800.525,0.625
+1443,So I do this thing or something else.,3801.15,1.783
+1444,"But how do I decide if I want
+to go this way, or this way,",3802.933,2.417
+1445,"or this way, or this way?",3805.35,1.27
+1446,I need to ask a question.,3806.62,1.16
+1447,"And in programming,
+we'll typically use what",3807.78,2.22
+1448,"are called Boolean expressions,
+named after a mathematician, Boole.",3810.0,3.24
+1449,"And a Boolean expression is
+essentially just a question",3813.24,2.85
+1450,"with a yes/no answer, a true or
+false answer, a 1 or 0 answer.",3816.09,6.21
+1451,"It doesn't matter how you think about
+it, but it's got two possible answers.",3822.3,3.22
+1452,"And so you can think of these as
+being expressions with question marks,",3825.52,3.708
+1453,even though I didn't draw such.,3829.228,1.292
+1454,"Person on page, person earlier
+in book, person later in book,",3830.52,3.75
+1455,those are Boolean expressions.,3834.27,1.32
+1456,"And they tell me whether I should go
+down one fork in the road or another.",3835.59,4.81
+1457,"And, lastly, there's this, ""Go back
+to line 3,"" in two different places.",3840.4,3.2
+1458,"That represents what we call a
+""loop,"" some kind of cycle that's",3843.6,3.03
+1459,doing something again and again.,3846.63,1.74
+1460,"Now these are just a few
+building blocks here--",3848.37,2.363
+1461,"functions, conditionals,
+Boolean expressions, loops.",3850.733,2.167
+1462,"But you'll find that
+they're characteristic of so",3852.9,2.31
+1463,"many different languages, one of which
+we'll look at today, another of which",3855.21,3.17
+1464,we'll look at next week.,3858.38,1.0
+1465,"And those include, indeed, C, and
+Python, and other languages still.",3859.38,3.75
+1466,"And so this is why we
+focus on these basics",3863.13,2.22
+1467,"and fundamentals in these
+early days because we're",3865.35,2.13
+1468,going to see them again and again.,3867.48,1.6
+1469,"So even if you feel like that
+fire hose is hitting you sometime,",3869.08,2.72
+1470,"we'll give you, today,
+ultimately, more visuals",3871.8,2.52
+1471,"by which you can hang onto, so as
+to actually write code, ultimately,",3874.32,4.41
+1472,"in different languages and
+solve all sorts of problems.",3878.73,2.76
+1473,"Now, we'd be remiss in not bringing
+up what's behind characters like Spot,",3881.49,4.56
+1474,"and ChatGPT, and other software,
+artificial intelligence.",3886.05,2.52
+1475,"And it turns out, to
+get to the point of AI,",3888.57,2.86
+1476,"we're actually going to need
+more building blocks than just",3891.43,2.72
+1477,"functions, and loops, and conditionals.",3894.15,1.975
+1478,It's not going to be quite that simple.,3896.125,1.625
+1479,"But this has been a lot, so far.",3897.75,1.45
+1480,"Let's go ahead, here, and
+take a five-minute break.",3899.2,2.33
+1481,"And when we resume, we'll
+take a look not only at AI,",3901.53,2.46
+1482,"but also a specific
+language called Scratch.",3903.99,2.64
+1483,"So no cake, just yet, but
+we'll come back in five.",3906.63,3.24
+1484,"Before we dive back in, I just
+wanted to call out a special guest",3909.87,4.95
+1485,"that we have here today,
+beyond Spot, someone",3914.82,2.16
+1486,who's come from even farther away.,3916.98,2.07
+1487,"And, in fact, if any of you have taken
+CS50x, the OpenCourseWare version",3919.05,3.51
+1488,"of the class, or dabbled in
+it over the past few years",3922.56,2.71
+1489,"in some of CS50's online
+social communities,",3925.27,2.22
+1490,"you might have had
+your questions answered",3927.49,2.22
+1491,by a certain human from New Zealand.,3929.71,2.1
+1492,"And she's come all this way, today,
+to spend this lecture with us.",3931.81,4.08
+1493,This is CS50's own Brenda Anderson.,3935.89,2.46
+1494,"If you might come up for
+acknowledgment from all of us here.",3938.35,3.57
+1495,[APPLAUSE],3941.92,3.132
+1496,"It's not much, but just a
+little token of our thanks.",3947.44,2.73
+1497,"Brenda has helped, truly,
+thousands of students online",3950.17,3.66
+1498,for the past many years.,3953.83,1.54
+1499,"And, in fact, her own
+daughter has been the artist",3955.37,3.41
+1500,"behind the duck that's about to loom
+large in CS50 this year and beyond.",3958.78,4.835
+1501,"So, thank you to Brenda.",3963.615,1.0
+1502,[APPLAUSE],3964.615,3.321
+1503,All right.,3971.41,0.99
+1504,"So it's hard to escape a discussion
+of artificial intelligence, nowadays,",3972.4,4.29
+1505,"but we thought we'd use
+this as an opportunity",3976.69,2.1
+1506,to connect some of these dots.,3978.79,1.47
+1507,"Because, indeed, over the
+course of the semester,",3980.26,2.2
+1508,"we'll be-- not only be talking
+about artificial intelligence or AI,",3982.46,3.53
+1509,"but really using it all
+the more constructively",3985.99,2.91
+1510,"to help you solve problems,
+help you get unblocked",3988.9,2.67
+1511,"when you hit a wall, cognitively or
+syntactically, when writing code.",3991.57,4.11
+1512,"And, indeed, it's no accident
+that we have this duck here,",3995.68,3.75
+1513,"looming large, which is really
+the embodiment of the sort of AI",3999.43,2.94
+1514,"that you'll experience within
+CS50, itself, this year.",4002.37,2.83
+1515,"So let's talk about the
+so-called chatbots that",4005.2,3.02
+1516,"inspired some of those
+headlines with which we began",4008.22,2.28
+1517,"class, that weren't quite on the nose.",4010.5,2.28
+1518,"So the class will still
+be taught by us humans,",4012.78,2.1
+1519,"but helped by this CS50
+duck, a chatbot of sorts.",4014.88,4.29
+1520,Now what do I mean by this?,4019.17,1.42
+1521,"Well, it turns out that, when it
+comes to implementing something",4020.59,3.5
+1522,"like an artificial
+intelligence, we don't quite",4024.09,2.64
+1523,"have all of the building blocks yet,
+certainly after just today's week zero,",4026.73,3.82
+1524,to implement something like that.,4030.55,1.45
+1525,"But I think we can skate in
+that direction, intellectually.",4032.0,2.96
+1526,"So, for instance, if we were to take a
+stab at implementing our own chatbot--",4034.96,4.71
+1527,"some interactive text-based
+program that talks to us,",4039.67,3.213
+1528,"and answers questions,
+and the like-- we could",4042.883,1.917
+1529,"try borrowing some of today's ideas
+already, those functions, conditionals,",4044.8,4.05
+1530,"loops, and more.",4048.85,1.157
+1531,And I could write something like this.,4050.007,1.583
+1532,"If I am writing code or
+pseudocode for a chatbot,",4051.59,2.78
+1533,"I could program the chatbot
+to do something like this.",4054.37,2.8
+1534,"If the student says,
+hello, to the chatbot,",4057.17,2.06
+1535,"then the chatbot should
+say, hello, back.",4059.23,2.61
+1536,"Else, if the student says,
+goodbye, well, the chatbot",4061.84,3.06
+1537,"should say, goodbye, back.",4064.9,1.68
+1538,"Else, if the student asks how you are,
+the chat bot should say that it's well.",4066.58,5.22
+1539,"But things get a little
+harder when you start",4071.8,2.22
+1540,"asking more interesting
+questions, like, else,",4074.02,3.45
+1541,"if the student asks why 111
+in binary is 7 in decimal.",4077.47,3.52
+1542,"Now, you could imagine that
+we just have a conditional,",4080.99,2.99
+1543,"with this Boolean expression, that
+programs the chatbot to just give you",4083.98,4.59
+1544,"the answer and explain, in an English
+sentence, why that, in fact, is.",4088.57,3.66
+1545,"But what if you, the student, asks why
+110 is 6 in decimal or why 010 is 2?",4092.23,8.52
+1546,"I mean, you can just imagine the
+explosion in the amount of code",4100.75,3.479
+1547,"that we would have to write to just
+anticipate every darn question that you",4104.229,4.141
+1548,"might ask about today and every
+other class, not to mention all",4108.37,3.005
+1549,of the knowledge in the universe.,4111.375,1.375
+1550,"So, surely, there are other
+ways to implement algorithms",4112.75,3.899
+1551,"that allow something
+like a chatbot or AI,",4116.649,2.67
+1552,"more generally, to be fed input,
+still, like all of the internet, all",4119.319,4.381
+1553,"of the worldwide web, all of the
+pages and textual content therein,",4123.7,3.06
+1554,"but to let it just figure out
+how to answer our questions based",4126.76,4.29
+1555,"on those kinds of inputs, assuming
+the inputs, themselves, are accurate.",4131.05,3.28
+1556,"So ""large language models""
+is a term you might",4134.33,2.18
+1557,"have heard bandied about over
+the past several months, or LLMs.",4136.51,3.21
+1558,"And a large language model really
+is an implementation, in software,",4139.72,5.009
+1559,"of code that actually takes, as
+input, lots and lots of language--",4144.729,4.901
+1560,"like the text of lots and lots of web
+pages, dictionaries, encyclopedias,",4149.63,3.68
+1561,"Wikipedias, and the like--",4153.31,1.469
+1562,"and infers, from the patterns of
+English words or any human language,",4154.779,4.95
+1563,"what a typical human might
+actually say when asked a question.",4159.729,3.178
+1564,"And some of these
+questions are easy, right?",4162.907,1.833
+1565,"Probably, on the internet, alone, not
+to mention everyday life, if someone",4164.74,3.425
+1566,"extends their hand and says, ""Hi.",4168.165,1.375
+1567,"How are you,"" odds are, with 90%
+probability, you're going to say,",4169.54,3.46
+1568,"""Good.",4173.0,0.5
+1569,Thanks.,4173.5,0.5
+1570,"How are you?""",4174.0,0.7
+1571,"So I bet we could write
+software that just",4174.7,2.55
+1572,"infers what it should say,
+probabilistically, statistically, based",4177.25,4.319
+1573,on those kinds of patterns online.,4181.569,1.5
+1574,"And that's, indeed, where
+the world is starting",4183.069,2.373
+1575,"to go, when it comes to
+the most sophisticated",4185.442,1.917
+1576,"of algorithms, where
+you and I, the humans,",4187.359,1.792
+1577,"we don't try to anticipate
+every possible input.",4189.151,2.828
+1578,"Rather, we give it a
+more general purpose",4191.979,2.641
+1579,"input, like all human knowledge, and
+ideally just let it figure things out.",4194.62,3.657
+1580,"Now, we're not quite there, yet.",4198.277,1.333
+1581,"And odds are you've heard of
+hallucinations or just mistakes",4199.61,2.39
+1582,that these large language models make.,4202.0,1.68
+1583,But their inputs are imperfect.,4203.68,1.325
+1584,"And sometimes there's a
+bit of randomness sprinkled",4205.005,2.125
+1585,"in because you don't want the thing
+to always say the exact same thing.",4207.13,2.958
+1586,"Even you and I might say, ""Eh, I'm
+not that great today"" 10% of the time.",4210.088,4.162
+1587,"So you need to perturb
+the output in some way.",4214.25,2.48
+1588,"But within CS50 and within this
+world of large language models,",4216.73,3.9
+1589,"we do have these tools like
+ChatGPT, and Bing, chat, and others.",4220.63,4.0
+1590,"And we'll stipulate that,
+for CS50's purposes,",4224.63,2.18
+1591,"the direction we're going
+this year is that this",4226.81,2.1
+1592,"is what's in the
+syllabus, dot, dot, dot;",4228.91,1.8
+1593,"that it will not be allowed,
+it will be considered",4230.71,2.13
+1594,"not reasonable to use AI-based
+software, other than CS50's own.",4232.84,4.508
+1595,"So the goal here is
+not to simply take away",4237.348,1.792
+1596,"tools that are clearly inevitable,
+in my view, and clearly helpful",4239.14,4.11
+1597,and productivity savers.,4243.25,1.47
+1598,"But we'd like there to be some
+guardrails, intellectually, on just how",4244.72,3.72
+1599,helpful these chatbots are.,4248.44,1.213
+1600,"Because as you've probably
+seen, if you ask it a question,",4249.653,2.417
+1601,"these chatbots are already
+pretty good at not just helping",4252.07,2.49
+1602,"you finish your current
+thought, but it'll",4254.56,1.75
+1603,"hand you your second and your third
+thought and do the assignment for you.",4256.31,3.59
+1604,"But I think, through
+prompting, so to speak,",4259.9,2.76
+1605,"we'll be able to coax
+some of our own tools,",4262.66,2.19
+1606,"being computer scientists,
+ourself, in a direction",4264.85,2.25
+1607,"that you actually find to be the
+right balance, akin to having",4267.1,3.1
+1608,"a good tutor by your side 24/7,
+who doesn't just hand you answers,",4270.2,4.11
+1609,"but, indeed, tries to
+lead you to the same.",4274.31,1.913
+1610,"So you actually get something
+out of the experience,",4276.223,2.167
+1611,"and, ideally, three-plus
+months from now,",4278.39,2.13
+1612,"those training wheels can come off, too.",4280.52,1.86
+1613,"And you're able to
+still stand on your own.",4282.38,2.5
+1614,"So it will be reasonable to use
+CS50's own AI-based software which",4284.88,3.89
+1615,"will actually take the form of a CS50
+duck, which is actually available now--",4288.77,4.44
+1616,"and we'll use it throughout the term--
+at CS50.ai, a web-based application",4293.21,3.96
+1617,"that's quite similar
+to ChatGPT, but that",4297.17,2.28
+1618,"has the personality of a CS50 teaching
+fellow or TF, or teaching assistant,",4299.45,4.56
+1619,"TA, that also happens to
+think of itself as a duck.",4304.01,3.21
+1620,"And for reasons we'll get to
+in a couple of weeks time,",4307.22,2.64
+1621,"but rubber ducks, in particular,
+are a thing in programming.",4309.86,4.245
+1622,"But more on that, before long,
+as you can even see from the one",4314.105,2.625
+1623,there on my desk.,4316.73,1.62
+1624,"With that said, too, well, I'm
+going to call out CS50's own Brenda",4318.35,2.76
+1625,"Anderson, whose daughter,
+Sophie, kindly not only created",4321.11,4.375
+1626,"the first incarnation, digitally,
+of this duck, but also,",4325.485,2.375
+1627,"most recently, once it actually
+did more than quack a random number",4327.86,3.7
+1628,"of times in response
+to questions, has now",4331.56,1.98
+1629,"been virtually brought to life, too.",4333.54,1.78
+1630,"So, all that and more, over the coming
+weeks, but you'll find, ultimately,",4335.32,3.44
+1631,"that the goal is to really bring to life
+the availability of an AI-based tutor",4338.76,4.83
+1632,"that you have access
+to, a friend in your--",4343.59,3.06
+1633,"next to you, that will help guide
+you through a lot of the course's",4346.65,3.69
+1634,challenges along the way.,4350.34,1.32
+1635,"And we actually rolled
+it out this past summer,",4351.66,1.65
+1636,"already, with some of your predecessors,
+through the Harvard Summer School.",4353.31,2.64
+1637,"One student wrote, at
+summer's end, that this duck",4355.95,2.25
+1638,"""felt like having a personal tutor--",4358.2,1.98
+1639,"I love how AI bots will answer questions
+without ego and without judgment",4360.18,3.93
+1640,"generally entertaining even
+the stupidest of questions",4364.11,3.0
+1641,"without treating them
+like they're stupid.",4367.11,2.25
+1642,"It has, as one could expect,
+an inhuman level of patience.""",4369.36,3.78
+1643,"So there's actually something really
+there because as many teachers",4373.14,3.27
+1644,as there are in CS50--,4376.41,1.11
+1645,"myself, the course's preceptors,
+teaching fellows, teaching assistants,",4377.52,3.21
+1646,"and course assistants--
+there's only so many of us.",4380.73,2.76
+1647,"And we're only awake so
+many hours of the day.",4383.49,2.16
+1648,"And I think you'll find, too, that
+we're on the cusp of something",4385.65,2.97
+1649,"pretty remarkable, in
+the coming years, where",4388.62,2.46
+1650,"it's going to get a lot more
+enabling, now, to learn material",4391.08,3.3
+1651,"not only within the confines of a class,
+but on your own, ultimately, as well.",4394.38,3.73
+1652,"And as one other student put it, at
+summer's end, with respect to the duck,",4398.11,4.16
+1653,"""Love love loved the duck.",4402.27,1.41
+1654,"We're friends now.""",4403.68,0.81
+1655,"So that, too, awaits.",4404.49,1.23
+1656,"But, first, we're going to
+need to start with the basics.",4405.72,3.12
+1657,"And we started today by
+talking about binary.",4408.84,1.98
+1658,"And darn it, here it is again.",4410.82,1.89
+1659,"So we can't actually get to the point
+of using, or solving, or implementing AI",4412.71,4.35
+1660,until we understand this.,4417.06,1.53
+1661,"And odds are most of you won't know, at
+a glance, what this piece of software",4418.59,4.0
+1662,does.,4422.59,0.5
+1663,"But these are the 0's and
+1's that represent, perhaps,",4423.09,3.51
+1664,"the first program that any programmer
+writes, which is now a clue to some",4426.6,4.05
+1665,of you who have dabbled in code before.,4430.65,2.05
+1666,"What does this pattern of 0's and
+1's tell a typical computer to do?",4432.7,3.77
+1667,Might someone guess?,4436.47,0.878
+1668,"AUDIENCE: ""Hello, world.""",4437.348,1.042
+1669,"DAVID J. MALAN: It's going to
+have it say, ""hello, world,""",4438.39,2.37
+1670,"which is one of the very
+first programmer-- programs",4440.76,2.167
+1671,that most any programmer writes.,4442.927,1.493
+1672,"Should you be able to
+recognize these 0's and 1's?",4444.42,2.37
+1673,Do I recognize these 0's and 1's?,4446.79,1.47
+1674,"No, not at all.",4448.26,0.78
+1675,"I just happen to know
+that they are the same.",4449.04,2.08
+1676,And that was a leading question.,4451.12,1.58
+1677,"But they are representing data
+and instructions, ultimately,",4452.7,4.35
+1678,"data like H-E-L-L-O, comma,
+W-O-R-L-D and an instruction like,",4457.05,5.31
+1679,"""Print that data to the screen.""",4462.36,2.55
+1680,"As for what these patterns
+of 0's and 1's are,",4464.91,2.01
+1681,"this is not something that a computer
+scientist or programmer worries about.",4466.92,3.33
+1682,"We just stipulate that, OK, someone,
+somewhere knows how to do this.",4470.25,3.99
+1683,"And it's probably someone
+like Intel, who makes",4474.24,2.16
+1684,the hardware inside of the computers.,4476.4,1.56
+1685,"But you and I, starting
+now, already, in week zero,",4477.96,3.51
+1686,"can start to view
+binary more abstractly.",4481.47,3.48
+1687,We don't care about the 0's and 1's.,4484.95,1.71
+1688,"We only care that you
+can use 0's and 1's",4486.66,2.43
+1689,"to represent more useful
+quantities, like numbers,",4489.09,3.33
+1690,"and letters, colors, and more.",4492.42,1.84
+1691,"So this, next week, is going
+to be the code we actually",4494.26,2.78
+1692,start writing at a keyboard.,4497.04,1.29
+1693,"And this is that language called C. It's
+the same language I, myself, learned",4498.33,3.208
+1694,"years ago, when taking CS50, when
+all we learned at the time was C.",4501.538,3.602
+1695,"But this, too, has
+some crypticness to it.",4505.14,2.63
+1696,"And if you've never programmed before,
+you can probably wrap your mind around,",4507.77,3.25
+1697,"OK, I'm guessing the ""printf""
+prints out the ""hello, world.""",4511.02,3.17
+1698,"But what's with the semicolon,
+the quotes, the backslash,",4514.19,2.73
+1699,"and the curly braces, the #include,
+and all of this stupid syntax?",4516.92,4.11
+1700,"A lot of this, in the beginning of
+any class, is really a distraction.",4521.03,2.94
+1701,It is not intellectually interesting.,4523.97,1.92
+1702,"But it's the stupid kind of stuff
+that's going to trip you up quite often.",4525.89,3.34
+1703,"And so, today, what
+we'll do is focus not",4529.23,2.27
+1704,"on syntax, characters on
+the keyboard, but ideas",4531.5,3.6
+1705,"because what really
+matters in this program",4535.1,2.07
+1706,"is that ""printf"" is a function
+here for our purposes.",4537.17,3.73
+1707,"And that function is to display
+information on the screen.",4540.9,3.08
+1708,"Everything else, as
+we'll soon see, has value",4543.98,2.88
+1709,"and will be understood by you, before
+long, but for now, it's a distraction.",4546.86,3.575
+1710,Let's focus on those building blocks.,4550.435,1.765
+1711,"When it comes time to write
+code, though, for the curious,",4552.2,2.74
+1712,"especially if you've
+programmed before, we'll",4554.94,1.875
+1713,"use a very popular free
+and open-source tool",4556.815,2.075
+1714,"called Visual Studio Code, or VS Code.",4558.89,2.37
+1715,"We'll use a cloud-based version of
+it that we pre-install everything",4561.26,4.74
+1716,"you need in the cloud
+for you so you don't",4566.0,2.07
+1717,"have to deal with headaches like
+getting your Mac or PC to work.",4568.07,2.91
+1718,"You'll use instead this
+URL, cs50.dev, but more",4570.98,2.94
+1719,"on that in next week, week one.",4573.92,1.95
+1720,"For now, we'll use another
+cloud-based editor called Scratch.",4575.87,3.78
+1721,"And odds are some number
+of you use this probably",4579.65,2.31
+1722,"as early as like middle
+school or the like.",4581.96,2.01
+1723,"And that was fine to create
+your own animations, games,",4583.97,3.33
+1724,"interactive art, or the like.",4587.3,1.35
+1725,But we'll use it today for just a bit.,4588.65,1.95
+1726,"And we'll use it in the
+course's first homework,",4590.6,2.07
+1727,"AKA problem set 0, to explore
+now some of these same ideas.",4592.67,4.2
+1728,"And among the goals today
+for the remainder of today",4596.87,2.85
+1729,"is not to focus so much on
+Scratch and the particulars",4599.72,3.2
+1730,"because this is not a
+language that you're",4602.92,1.75
+1731,"going to use often but to give you
+very visual representations of ideas",4604.67,5.61
+1732,"so that when things do escalate
+next week to C, to the more cryptic,",4610.28,3.51
+1733,"it's the same ideas just typed out
+instead of dragged and dropped.",4613.79,4.05
+1734,"So by that, I mean this.",4617.84,1.62
+1735,"I'm going to go ahead and share in just
+a moment the user interface of Scratch.",4619.46,3.81
+1736,"But what's nice about
+Scratch is that this",4623.27,2.1
+1737,"is how we're going to implement
+that same program today.",4625.37,3.03
+1738,"These are two blocks or
+puzzle pieces on the screen,",4628.4,2.8
+1739,"and they've been interconnected to
+tell the computer to say ""hello, world""",4631.2,4.47
+1740,on the screen.,4635.67,0.9
+1741,"The user interface
+that we're about to use",4636.57,1.92
+1742,will look generally something like this.,4638.49,2.162
+1743,"It's a web-based editor
+that you can also",4640.652,1.708
+1744,download it locally to use offline.,4642.36,1.8
+1745,"And you'll see that at the left here
+are a whole bunch of puzzle pieces",4644.16,3.96
+1746,or blocks.,4648.12,0.9
+1747,"They're categorized by
+color, and the blue ones",4649.02,2.61
+1748,"tend to relate to motion, for instance.",4651.63,2.35
+1749,The purple ones represent looks.,4653.98,1.97
+1750,The pink one represents sounds.,4655.95,1.8
+1751,The yellow one represents events.,4657.75,2.43
+1752,More on that soon.,4660.18,1.05
+1753,"The orange ones represent
+control, and then",4661.23,2.04
+1754,"there's operators, variables, my
+blocks, and even some extensions",4663.27,3.12
+1755,we can install as well.,4666.39,1.3
+1756,"So it just categorizes things
+visually and colorfully so that you",4667.69,4.13
+1757,can find what you're looking for.,4671.82,1.65
+1758,"But we're going to use these
+puzzle pieces to drag and drop them",4673.47,3.27
+1759,onto this area here.,4676.74,1.56
+1760,"And we're going to connect them
+when we want them to do something.",4678.3,3.73
+1761,What can they do?,4682.03,0.86
+1762,"Well, by default, Scratch comes
+with this cat here, otherwise known",4682.89,3.12
+1763,"as a sprite, which is a character
+in a game or in a graphics context.",4686.01,3.75
+1764,"And this cat lives in this
+two-dimensional world in which",4689.76,2.55
+1765,"the cat can go up, down, left, right.",4692.31,1.74
+1766,"And you can actually
+change the cat's costume",4694.05,2.28
+1767,"to be a dog, a bird, or anything else.",4696.33,2.4
+1768,"It really is more of an idea than it
+is a specific animal in this case.",4698.73,4.53
+1769,"But the world that Scratch lives in
+looks a little something like this.",4703.26,3.69
+1770,"It's like a Cartesian plane with
+x-coordinates and y-coordinates.",4706.95,2.91
+1771,"And the numbers don't so
+much matter fundamentally,",4709.86,2.19
+1772,"except that when you want the
+cat or any character to go up,",4712.05,3.34
+1773,"down, left, or right
+by some amount, it's",4715.39,1.91
+1774,"useful to know, for instance, that 0, 0
+is the middle, 0 comma 0 for x comma y.",4717.3,5.685
+1775,All the way up is a y value of 180.,4722.985,2.565
+1776,All the way down is -180.,4725.55,1.92
+1777,All the way to the left is -240.,4727.47,2.7
+1778,All the way to the right is 240.,4730.17,1.86
+1779,"And generally, you're not going
+to have to worry about numbers.",4732.03,2.625
+1780,"You're going to use these relatively--
+go right, go left, go up, or down.",4734.655,3.375
+1781,"But that's just the world that
+Scratch itself lives in here.",4738.03,3.94
+1782,So let's go about using Scratch here.,4741.97,1.76
+1783,"I'm going to change over
+to my cloud-based editor",4743.73,3.15
+1784,"here, where I've gone
+to scratch.mit.edu.",4746.88,3.24
+1785,"And I've clicked Create in
+order to create a project.",4750.12,2.4
+1786,"And that gives me this
+blank canvas here.",4752.52,2.302
+1787,"And I'm going to do these somewhat
+quickly because I kind of know",4754.822,2.708
+1788,what I'm looking for.,4757.53,0.91
+1789,"But part of the process with problem
+set zero is going to be clicking,",4758.44,2.96
+1790,"and dragging, and sort
+of scrolling around",4761.4,2.01
+1791,to see what building blocks exist.,4763.41,1.98
+1792,"But I know under Events
+there's this puzzle piece here",4765.39,3.63
+1793,when green flag clicked.,4769.02,1.89
+1794,Why is that germane?,4770.91,1.2
+1795,"Well, if I zoom out, and go back to
+Scratch's world at the right here,",4772.11,3.61
+1796,"notice that above
+Scratch's world there's",4775.72,2.0
+1797,"a green flag, which is going to
+mean go, and a red stop sign, which,",4777.72,3.15
+1798,"of course, is going to mean stop.",4780.87,1.42
+1799,"So if I drag this puzzle piece
+anywhere into the middle,",4782.29,4.49
+1800,it's just going to plop where I put it.,4786.78,2.4
+1801,"But what that means semantically is
+when someone clicks that green flag,",4789.18,4.2
+1802,"I want Scratch the cat
+to do this other thing.",4793.38,3.06
+1803,"Well, what do I want it to do?",4796.44,1.53
+1804,"Well, let me go under Looks.",4797.97,1.59
+1805,"And looks here in purple have
+some puzzle pieces like this.",4799.56,4.53
+1806,"Well, I can say hello for
+some number of seconds,",4804.09,2.4
+1807,or I can just go ahead and say hello.,4806.49,2.13
+1808,So let's do that.,4808.62,0.81
+1809,I'm going to drag this say block.,4809.43,2.22
+1810,"And notice that as soon
+as I get close enough,",4811.65,1.98
+1811,"it's going to magnetically
+want to connect.",4813.63,1.932
+1812,"So I can let go, and they
+snap together automatically",4815.562,2.208
+1813,because they're the right shape.,4817.77,1.333
+1814,"I don't have to say
+hello, exclamation point.",4819.103,1.997
+1815,"I can change it to the more
+canonical, hello comma world.",4821.1,2.82
+1816,"So anything in this
+white oval is editable",4823.92,2.52
+1817,that you can change as just text there.,4826.44,2.43
+1818,"If I now zoom out, let me go
+ahead and click the green flag.",4828.87,3.09
+1819,"And voila-- this should be
+my first program in Scratch.",4831.96,4.596
+1820,"Hello, world.",4836.556,0.874
+1821,"Without any of the
+distractions of syntax",4837.43,1.98
+1822,"or weird characters on the screen,
+it's just done what I want it to do.",4839.41,3.01
+1823,All right.,4842.42,0.5
+1824,Let me go ahead and click Stop there.,4842.92,1.542
+1825,"And let me make it a
+little more connected",4844.462,2.778
+1826,to what we've discussed thus far.,4847.24,1.51
+1827,"So this puzzle piece
+here, say hello, world,",4848.75,2.63
+1828,"represents what type of building
+block using the vocabulary of today?",4851.38,4.99
+1829,So it's a function.,4856.37,1.05
+1830,"So these purple blocks are
+functions, say, hello, world.",4857.42,2.628
+1831,"And let me give you another
+piece of terminology.",4860.048,2.042
+1832,"These white ovals that
+take textual input--",4862.09,2.82
+1833,"in general, those are called
+parameters or arguments.",4864.91,3.3
+1834,"And they customize the
+behavior of a function.",4868.21,3.4
+1835,"So a parameter or an
+argument customizes,",4871.61,2.57
+1836,"modifies the default behavior of a
+function, like in this case, say.",4874.18,3.63
+1837,"Similarly, in the C code from
+earlier that we'll see next week,",4877.81,3.18
+1838,"the printf function took a quoted phrase
+like, hello, world, similarly as input.",4880.99,6.36
+1839,But more on that in the future.,4887.35,2.62
+1840,"So how does this connect to the
+mental model we presented earlier?",4889.97,2.84
+1841,"Well, here's problem-solving as I
+described it earlier, inputs to outputs",4892.81,4.33
+1842,with algorithms or code in the middle.,4897.14,1.95
+1843,"Well, what we've got here really is an
+input of, hello, world, the white oval.",4899.09,4.62
+1844,"The function or algorithm that it's
+going into as input is the say block.",4903.71,4.89
+1845,"And what is the output of using
+this say block, the say function?",4908.6,3.36
+1846,"It's the visual effect of having the
+cat have the little speech bubble appear",4911.96,3.69
+1847,"above its head, saying, hello, world.",4915.65,2.41
+1848,"So everything we do, in
+fact, can be mapped back",4918.06,2.84
+1849,"to that very simple idea
+of inputs and outputs.",4920.9,3.69
+1850,"Well, let's make it a little
+more interesting, though.",4924.59,2.25
+1851,"It's a little boring to just
+say ""hello, world"" all the time.",4926.84,2.59
+1852,Let me go ahead and drag this away.,4929.43,2.07
+1853,"And if you just drag it to the left and
+let go, it gets automatically deleted.",4931.5,3.68
+1854,"Let me go under Sensing
+in light blue here.",4935.18,3.4
+1855,"And you'll see there's a
+bunch of blocks, one of which",4938.58,2.27
+1856,"is an ask block, an ask function,
+which is going to prompt",4940.85,3.33
+1857,"the human, me, for some input.",4944.18,1.99
+1858,"So let me go ahead and drag that
+over here, and it snaps together.",4946.17,3.53
+1859,"I could change the question,
+but I'm OK with that question.",4949.7,2.49
+1860,We'll use what's your name.,4952.19,1.48
+1861,"But notice that this block,
+ask, is a little special.",4953.67,3.23
+1862,"It is not just going to display
+like a speech bubble on the screen.",4956.9,3.34
+1863,"It's actually going to
+return a value, and this is",4960.24,2.27
+1864,another term of art today and onward.,4962.51,1.74
+1865,"A return value is some value that can
+be handed back to you conceptually",4964.25,4.242
+1866,"from a function so that you
+can do something with it.",4968.492,2.208
+1867,"It's as though the ask function
+asks someone for their name,",4970.7,4.325
+1868,"writes it down on a piece of paper,
+and hands you the piece of paper.",4975.025,2.875
+1869,"You can do anything now that
+you want with that name.",4977.9,2.25
+1870,"And here is how you access the
+name in this special block called",4980.15,3.66
+1871,"answer, which, again, will
+start calling a return value.",4983.81,3.52
+1872,"So if I want to say ""hello"" to someone
+specific, I'm going to do this.",4987.33,3.44
+1873,Let me zoom out.,4990.77,1.03
+1874,"Let me go back to Looks,
+and let me go back to Say.",4991.8,3.71
+1875,"And I'm going to change the say
+block here to ""hello, comma.""",4995.51,4.38
+1876,Then I'm going to zoom out.,4999.89,1.38
+1877,"Well, I need two inputs, I think.",5001.27,2.43
+1878,"So I'm going to grab another say
+block, and I'm going to put it below.",5003.7,2.94
+1879,"And I could just type
+""David,"" but this is",5006.64,2.52
+1880,"going to defeat the whole point
+of asking me for the name.",5009.16,2.5
+1881,And it will only work for me.,5011.66,0.95
+1882,So I don't want to do that.,5012.61,1.18
+1883,"So let me go back to Sensing, and
+notice the shape is important here.",5013.79,4.73
+1884,"Even if it's not quite the
+same size, the shape matters.",5018.52,2.61
+1885,"And I can actually drag this and
+change the input of this say function",5021.13,4.56
+1886,"to be whatever that return
+value is, that piece of paper",5025.69,3.18
+1887,that has the person's name on it.,5028.87,1.56
+1888,"And it grows to fill,
+but now we have a program",5030.43,3.12
+1889,"that I think when I click the green
+flag-- watch-- is going to prompt me.",5033.55,3.69
+1890,What's your name?,5037.24,1.127
+1891,And now I have room to type down here.,5038.367,1.583
+1892,"So I'm going to type D-A-V-I-D.
+I'm going to hit Enter,",5039.95,2.42
+1893,"and it should say ""hello, Dave.""",5042.37,1.63
+1894,Wait.,5044.0,0.5
+1895,Hmm.,5044.5,1.61
+1896,Huh.,5046.11,0.94
+1897,Maybe it was-- didn't work.,5047.05,2.94
+1898,D-A-V-I-D. Here we go.,5049.99,1.17
+1899,"Hello, David.",5051.16,1.005
+1900,Hmm.,5052.165,1.365
+1901,"It's missing the hello, but I'm quite
+sure we have a hello right there.",5053.53,5.68
+1902,So what explains this bug or mistake?,5059.21,2.96
+1903,Yeah.,5062.17,0.947
+1904,AUDIENCE: [INAUDIBLE].,5063.117,3.479
+1905,So they overlap.,5066.596,2.494
+1906,DAVID J. MALAN: Exactly.,5069.09,1.71
+1907,"Put another way, my Mac,
+my PC, it's just so darn",5070.8,2.91
+1908,"fast that it did exactly
+what it was supposed to.",5073.71,2.61
+1909,"But it said ""hello, David"" so fast that
+we didn't even see, we being the human,",5076.32,4.26
+1910,"the slowest part of the
+puzzle, see the actual hello.",5080.58,2.215
+1911,"So there's a few different
+ways to fix this, as you know.",5082.795,2.375
+1912,"We could have it say ""hello""
+for some number of seconds.",5085.17,3.49
+1913,So I could kind of do that.,5088.66,1.25
+1914,So let me do this.,5089.91,0.75
+1915,"I can decouple these by just
+dragging and letting it go",5090.66,2.55
+1916,so that they're magnetically far apart.,5093.21,2.01
+1917,"Let me go ahead and drag this
+one, say hello for two seconds.",5095.22,3.39
+1918,"I'm going to change the grammar
+here to be hello comma again.",5098.61,3.42
+1919,"I'm going to go ahead
+and disconnect these two.",5102.03,3.09
+1920,"I'm going to throw away the old
+one that I don't want to use.",5105.12,3.04
+1921,"And I'm going to reconnect
+this so that now--",5108.16,3.3
+1922,OK.,5111.46,0.5
+1923,"It's going to say hello for two
+seconds and then my name, hopefully.",5111.96,3.0
+1924,So let me click Stop and Start.,5114.96,2.22
+1925,D-A-V-I-D. Enter.,5117.18,3.79
+1926,OK.,5120.97,0.57
+1927,"So it's better, but it's
+kind of poorly implemented.",5121.54,4.037
+1928,"Like, come on.",5125.577,0.583
+1929,I just wanted to say hello comma David.,5126.16,1.625
+1930,Why is that hard?,5127.785,1.0
+1931,"Well, maybe we can actually
+combine these a little differently.",5128.785,2.625
+1932,And let me propose this.,5131.41,1.2
+1933,"Let me actually get rid
+of these blocks again.",5132.61,3.15
+1934,"And let me go ahead
+and just say one thing.",5135.76,2.67
+1935,"But can I somehow combine this to say
+hello comma David all in one breath?",5138.43,5.22
+1936,"Well, it turns out if
+I go under Operators,",5143.65,2.698
+1937,"I know from having played with this
+before that there's this puzzle",5146.348,2.792
+1938,piece down here called join.,5149.14,1.89
+1939,It's an oval.,5151.03,1.433
+1940,"It's a little big, but,
+again, it will grow to fill.",5152.463,2.167
+1941,"And by default, it wants to join
+two words, ""apple"" and ""banana.""",5154.63,2.708
+1942,But those are just placeholders.,5157.338,2.492
+1943,"So let me go ahead and drag
+this over the default hello.",5159.83,4.16
+1944,"Let me change ""apple"" to hello
+comma space and then banana.",5163.99,4.71
+1945,Let me go back to Sensing.,5168.7,1.53
+1946,"Let me grab answer and
+drag and drop that.",5170.23,3.4
+1947,"So now notice that I'm
+kind of layering my ideas.",5173.63,3.11
+1948,"And put another way, the
+output of this join block",5176.74,4.24
+1949,"is presumably going to
+join two things together,",5180.98,2.0
+1950,apple and banana or hello comma David.,5182.98,2.13
+1951,"And then the output of join is
+going to become the input to say.",5185.11,4.35
+1952,"So aesthetically, it just looks better.",5189.46,2.44
+1953,"It's still correct,
+but it's just better.",5191.9,1.89
+1954,"So if I type ""David,"" and
+hit Enter, hello, David.",5193.79,3.05
+1955,"This is what a normal
+program would presumably",5196.84,1.98
+1956,"do, not show you part of the phrase
+and then the rest of the phrase.",5198.82,3.57
+1957,"Like, it's just better in this way.",5202.39,1.84
+1958,"So let's connect this now to this same
+puzzle piece and this methodology.",5204.23,4.25
+1959,"So here's that same puzzle piece, ask.",5208.48,2.13
+1960,"How do we fit it into this input
+and output flow with algorithms?",5210.61,2.91
+1961,"Well, the input to that puzzle piece
+is something like, what's your name,",5213.52,3.6
+1962,question mark.,5217.12,1.08
+1963,"Then the algorithm or the
+code implementation thereof",5218.2,3.48
+1964,"is this ask block and wait so the human
+has a moment to type their response in.",5221.68,4.56
+1965,"The output of that function
+recall is a return value.",5226.24,3.308
+1966,"You don't see anything on the screen by
+default because we've not used say yet,",5229.548,3.292
+1967,but we get this return value.,5232.84,2.02
+1968,"And let me scooch everything
+over now so that we can now",5234.86,3.26
+1969,join those inputs together.,5238.12,1.99
+1970,So here's this puzzle piece.,5240.11,1.5
+1971,"Let me go ahead and propose that
+the inputs now to the join block",5241.61,3.33
+1972,"are two arguments or two parameters,
+so to speak, hello and answer.",5244.94,5.16
+1973,"They go into that join puzzle
+piece, whose purpose in life",5250.1,2.64
+1974,is to return one joined version thereof.,5252.74,3.3
+1975,"Let me slide this all
+over logically now so",5256.04,2.43
+1976,"that now that output becomes
+the input to the say block",5258.47,4.38
+1977,"and now is why the cat has the
+speech bubble saying all at once,",5262.85,3.48
+1978,hello comma David.,5266.33,1.41
+1979,"So what we've done here is
+kind of composed the output",5267.74,3.88
+1980,"and from one function
+into the input of another.",5271.62,2.397
+1981,"And you can think of this in
+a couple of different ways,",5274.017,2.333
+1982,"left to right, as I
+did there, or kind of",5276.35,1.8
+1983,"like stacking these things
+on top of one another.",5278.15,2.59
+1984,"But at the end of the
+day, even as programming",5280.74,2.12
+1985,"gets more and more powerful for us,
+it's just inputs and outputs, inputs",5282.86,4.65
+1986,and outputs.,5287.51,0.81
+1987,"And thankfully, with built-in
+functionality from our friends",5288.32,2.91
+1988,"at MIT who designed Scratch, I can
+even do something playful like this.",5291.23,3.45
+1989,"I can go to that Extensions
+button at the bottom.",5294.68,2.31
+1990,"And there's a lot of fancy things I
+can add here, like text-to-speech.",5296.99,3.27
+1991,"So let me go ahead and
+choose text-to-speech.",5300.26,2.42
+1992,"And let me go ahead here and
+change the say block in purple.",5302.68,5.37
+1993,"Let me get rid of the say
+block, and let me borrow this.",5308.05,2.4
+1994,Let me get the speak block like this.,5310.45,2.85
+1995,And now let me drag and drop this oval.,5313.3,1.95
+1996,It's going to grow to fill.,5315.25,1.22
+1997,"And I think it's just about to
+be a little more interesting.",5316.47,2.5
+1998,"Let me click Play now, and
+hopefully this isn't too loud.",5318.97,3.12
+1999,D-A-V-I-D. Enter.,5322.09,2.19
+2000,"SPEAKER: Hello, David.",5324.28,1.668
+2001,DAVID J. MALAN: OK.,5325.948,0.792
+2002,[APPLAUSE],5326.74,0.99
+2003,Thank you.,5327.73,2.62
+2004,Thank you.,5330.35,0.63
+2005,That's a low bar.,5330.98,0.855
+2006,"[CHUCKLES] Let me go ahead
+and set the voice too.",5331.835,2.715
+2007,"And you might now remember
+how we began class, where",5334.55,2.28
+2008,"we had a robotic, computerized voice.",5336.83,2.25
+2009,"Well, we didn't use Scratch at the time,
+but we could change this in Scratch",5339.08,4.088
+2010,alone to be a little different.,5343.168,1.292
+2011,So D-A-V-I-D.,5344.46,1.43
+2012,"SPEAKER: Hello, David.",5345.89,1.138
+2013,DAVID J. MALAN: OK.,5347.028,0.792
+2014,"Little creepy, but we can
+play all day long with that.",5347.82,2.25
+2015,"But the point is that
+these functions are just",5350.07,2.055
+2016,now doing something a little different.,5352.125,1.625
+2017,But it's just these inputs and outputs.,5353.75,2.042
+2018,"Well, let's make the
+cat more like a cat.",5355.792,1.708
+2019,"Let me go ahead and throw away
+all of this asking question stuff.",5357.5,3.09
+2020,"Let me go up to Sound,
+and let me go ahead",5360.59,2.76
+2021,and drag the play sound meow until done.,5363.35,2.91
+2022,And here too it comes with meow.,5366.26,1.65
+2023,You can add your own sounds as well.,5367.91,3.787
+2024,"But I'm just going to use the
+default meow and here too.",5371.697,2.333
+2025,"Hopefully, this won't be too loud.",5374.03,1.417
+2026,"Let's make the cat
+meow by clicking Play.",5375.447,1.913
+2027,[MEOWING],5377.36,2.17
+2028,OK.,5379.53,0.5
+2029,"It's a little piercing, but it's cute.",5380.03,2.17
+2030,"And if I want the cat to meow twice,
+I could just play the game twice.",5382.2,3.29
+2031,[MEOWING],5385.49,2.92
+2032,All right.,5388.41,0.5
+2033,"But it would be nice to just get it
+to meow automatically two, or three,",5388.91,3.45
+2034,or more times.,5392.36,0.88
+2035,So you know what I could do?,5393.24,1.52
+2036,I could just drag a second one of these.,5394.76,2.06
+2037,"Actually, you know what?",5396.82,1.0
+2038,"I could even just right-click or
+Control-click and duplicate them.",5397.82,2.97
+2039,"But I'll just keep
+dragging and dropping.",5400.79,1.32
+2040,"There's different ways
+to solve problems.",5402.11,1.56
+2041,And now let me click Play.,5403.67,1.11
+2042,[MEOWING],5404.78,2.59
+2043,OK.,5407.37,0.5
+2044,Cat does not sound particularly happy.,5407.87,2.07
+2045,So we could go under--,5409.94,2.38
+2046,how about Control?,5412.32,1.37
+2047,We could wait one second.,5413.69,1.53
+2048,"Now, there's no room, but it will
+sort of expand to give room for me.",5415.22,3.52
+2049,So let me try this.,5418.74,1.16
+2050,"And now it's going to wait
+one second in between meows.",5419.9,2.64
+2051,[MEOWING],5422.54,3.288
+2052,OK.,5426.82,0.51
+2053,Let me stipulate that is correct.,5427.33,1.5
+2054,"If my goal is to get the cat to meow
+three times, it meowed three times.",5428.83,3.36
+2055,"But per our discussion earlier of
+algorithms and the design thereof,",5432.19,4.45
+2056,this is not the best design.,5436.64,2.13
+2057,[MEOWING],5438.77,0.99
+2058,OK?,5439.76,0.5
+2059,[LAUGHTER],5440.26,0.24
+2060,Thank you for playing along at home.,5440.5,1.5
+2061,Yeah.,5442.0,1.35
+2062,"In what sense is this
+arguably not well-designed?",5443.35,3.7
+2063,Yeah.,5447.05,0.5
+2064,AUDIENCE: You repeated yourself.,5447.55,1.38
+2065,"DAVID J. MALAN: I repeated myself,
+which actually in programming",5448.93,2.67
+2066,tends not to be a good thing.,5451.6,1.84
+2067,"Now, it was easy.",5453.44,1.07
+2068,"I almost resorted to copy-paste,
+which saves me time upfront.",5454.51,3.0
+2069,But just imagine a contrived scenario.,5457.51,1.89
+2070,"Now, what if I want it to wait
+like two seconds in between?",5459.4,2.95
+2071,All right.,5462.35,0.5
+2072,It's not that big a deal.,5462.85,1.09
+2073,"I change it here, and I change it here.",5463.94,1.7
+2074,"But what if the program
+is meant to meow 10 times?",5465.64,2.273
+2075,"Then I have to change it here, and
+here, and here, and here, and here.",5467.913,2.917
+2076,And eventually I'm going to screw up.,5470.83,1.74
+2077,Humans are fallible.,5472.57,0.9
+2078,I'm going to overlook one of them.,5473.47,1.5
+2079,"One time, it's going to be one second.",5474.97,1.29
+2080,"Another is going to be two, and
+just stupid things will happen.",5476.26,2.65
+2081,"You're setting yourself up for
+failure if you design things poorly.",5478.91,4.14
+2082,"And so I would propose that we
+use another type of building block",5483.05,3.39
+2083,to solve this instead.,5486.44,1.29
+2084,Yeah.,5487.73,0.825
+2085,AUDIENCE: [INAUDIBLE],5488.555,0.255
+2086,DAVID J. MALAN: Yeah.,5488.81,0.875
+2087,"So we could use a loop and
+just write minimal code",5489.685,3.265
+2088,"but to accomplish even
+more functionality.",5492.95,2.29
+2089,"So let me throw away
+most of these blocks.",5495.24,2.15
+2090,"And let's go and grab this repeat
+block, which we haven't used yet,",5497.39,3.6
+2091,but it's right there.,5500.99,1.052
+2092,"And as the name
+suggests, this will allow",5502.042,1.708
+2093,"me to repeat something
+some number of times.",5503.75,2.1
+2094,"Let me put these two
+puzzle pieces inside.",5505.85,2.43
+2095,It'll grow to fill.,5508.28,1.05
+2096,Let me reconnect it to the green flag.,5509.33,2.04
+2097,I'll change the default 10 to a 3.,5511.37,2.1
+2098,And now--,5513.47,0.795
+2099,[MEOWING],5514.265,3.261
+2100,"It's just sort of better because if
+now you want it to meow more times,",5518.94,3.35
+2101,you change it one place.,5522.29,1.0
+2102,"If you want it to slow down,
+you change it in one place.",5523.29,2.333
+2103,There's no room for error.,5525.623,1.657
+2104,And that's generally a good thing.,5527.28,2.64
+2105,But this is silly.,5529.92,0.75
+2106,"Like, Scratch comes with a cat.",5530.67,1.68
+2107,"Why didn't MIT give us a
+puzzle piece called ""meow?""",5532.35,3.24
+2108,"Like, why am I implementing
+the idea of meowing myself?",5535.59,2.87
+2109,"Like, that took me what?",5538.46,1.0
+2110,"1, 2, 3, 4 puzzle pieces.",5539.46,1.95
+2111,"Why isn't there just one
+puzzle piece that meows for me?",5541.41,2.67
+2112,"This too we can do in code, be it in
+Scratch, or C, or other languages too.",5544.08,4.35
+2113,"I'm going to go down to
+these pink my blocks here,",5548.43,4.23
+2114,where I can create my own puzzle piece.,5552.66,2.367
+2115,"And I'm going to call
+this literally ""meow.""",5555.027,1.833
+2116,"And I'm going to go
+ahead and just click OK.",5556.86,2.29
+2117,"And notice that it's given me
+this new type of start connector.",5559.15,3.092
+2118,"It's a start puzzle piece
+that nothing goes above it.",5562.242,2.208
+2119,"But you can put anything
+you want below it.",5564.45,1.98
+2120,"And I'm going to go
+ahead and cheat here.",5566.43,1.74
+2121,"I'm just going to grab my
+existing code, so to speak.",5568.17,3.22
+2122,"This is code I'm writing, even
+though it's puzzle pieces.",5571.39,2.42
+2123,"And now let me just claim,
+and I'll move this aside.",5573.81,3.57
+2124,"Here is now an implementation
+of my own function,",5577.38,3.31
+2125,"my own block called ""meow,""
+whose purpose in life",5580.69,2.82
+2126,"is to meow until done
+and then wait one second.",5583.51,2.67
+2127,"But what's powerful now is notice at
+top left, now that I've made the block,",5586.18,4.17
+2128,I can use it any number of times.,5590.35,2.56
+2129,"So I can grab this meow block, drag
+it over here, and you know what?",5592.91,4.61
+2130,"Now that ""meow"" exists as an
+idea, I can abstract that away.",5597.52,4.07
+2131,"And I'm just going to arbitrarily
+drag it way to the bottom.",5601.59,2.5
+2132,I'm not deleting it.,5604.09,0.9
+2133,"I'm just putting it out
+of sight, out of mind so",5604.99,2.28
+2134,that we can focus now on this idea.,5607.27,1.62
+2135,"And I claim that this
+implementation of meowing",5608.89,2.52
+2136,"is sort of better because it's
+more compact, it does what it says,",5611.41,3.6
+2137,"and I don't care about the
+implementation details of ""meow.""",5615.01,3.51
+2138,"So this idea of abstraction, something
+we're going to use frequently.",5618.52,3.12
+2139,"To abstract something
+away is to simplify.",5621.64,3.127
+2140,"Don't think about the underlying
+implementation details.",5624.767,2.333
+2141,"Just care about what it
+does or what it's called.",5627.1,3.03
+2142,"Someone has to care about
+the implementation details,",5630.13,2.46
+2143,like me 30 seconds ago.,5632.59,1.74
+2144,"But here on out, I don't need to care.",5634.33,2.1
+2145,"And so in fact, you and I
+are using the abstraction",5636.43,3.26
+2146,"that is Scratch because I don't know how
+to put a speech bubble on the screen.",5639.69,3.25
+2147,"I don't know how to
+create that sound, meow.",5642.94,1.833
+2148,"MIT did that, and they
+abstracted those pieces",5644.773,2.607
+2149,"of functionality away already
+for us by just giving us",5647.38,3.06
+2150,these puzzle pieces we see here.,5650.44,1.84
+2151,So the code will work the exact same.,5652.28,2.165
+2152,[MEOWING],5654.445,2.885
+2153,"But it's sort of better
+designed now because now I've",5657.33,4.31
+2154,abstracted away the idea of meowing.,5661.64,1.83
+2155,But I bet I can improve this further.,5663.47,2.22
+2156,"Can I get rid of the
+repeat block altogether?",5665.69,2.7
+2157,"And let me just tell the meow
+block how many times to meow.",5668.39,3.12
+2158,"Well, let me go down to the bottom and
+look at the implementation details.",5671.51,3.66
+2159,"I'm going to right-click
+or Control-click on this,",5675.17,2.1
+2160,and I'm going to edit it.,5677.27,0.94
+2161,So I'm going to make a change.,5678.21,1.08
+2162,"And I didn't do this before, but I'm
+going to call it ""meow,"" as before.",5679.29,3.0
+2163,I'm going to add an input.,5682.29,1.49
+2164,"And just so I know what
+it says what it does,",5683.78,2.46
+2165,"I'm going to add the word ""times"" here.",5686.24,2.76
+2166,"And I'm going to change
+this placeholder to n.",5689.0,3.84
+2167,"n for ""number"" is the
+go-to placeholder any time",5692.84,2.13
+2168,we want to talk about a number in CS.,5694.97,2.26
+2169,"So now notice the puzzle piece
+looks a little different.",5697.23,2.79
+2170,"It takes an argument
+or a parameter called",5700.02,2.81
+2171,"n, which represents the number of
+times you want the thing to meow.",5702.83,2.85
+2172,"Now, that doesn't do that yet.",5705.68,1.6
+2173,So let me go back to my other code.,5707.28,2.96
+2174,Let me just decouple these temporarily.,5710.24,2.97
+2175,"I'm going to move my loop into
+my implementation of meowing.",5713.21,4.74
+2176,"But I don't want to hard code, that is
+literally write the number 3 anymore.",5717.95,4.0
+2177,"I'm going to grab this
+oval and put it there.",5721.95,3.91
+2178,So now I've generalized the function.,5725.86,2.04
+2179,"So now it will meow any number of
+times, 0 on up, by executing that loop",5727.9,5.96
+2180,and now more powerfully.,5733.86,1.68
+2181,"Out of sight, out of mind.",5735.54,1.35
+2182,"Notice that my code just
+became so darn simple.",5736.89,3.96
+2183,"Like, my function is called ""meow.""",5740.85,1.8
+2184,It meows some number of times.,5742.65,1.68
+2185,"All I have to do is type a
+number there, and it just works.",5744.33,2.58
+2186,"And I don't care any more about
+those lower-level, so to speak,",5746.91,3.75
+2187,implementation details.,5750.66,1.57
+2188,"So here, no surprise.",5752.23,1.04
+2189,"If I type in the number 3,
+zoom out, and hit Play--",5753.27,2.715
+2190,[MEOWING],5755.985,4.285
+2191,--it still works just fine.,5760.27,2.23
+2192,"So any questions on what
+we've just done here?",5762.5,2.96
+2193,"It's still just meowing, but
+that's besides the point.",5765.46,2.25
+2194,"It's this creation of our own
+functions, this modularity,",5767.71,3.63
+2195,"this abstraction that's going to be
+the idea that keeps coming back to us.",5771.34,4.3
+2196,No?,5775.64,0.5
+2197,All right.,5776.14,0.5
+2198,"So let's make this a
+little more cat-like.",5776.64,2.41
+2199,Let me throw away all of this code.,5779.05,1.93
+2200,And let me go ahead--,5780.98,1.02
+2201,"oops-- let me throw away this code
+first and then the rest of this code.",5782.0,3.0
+2202,"And let me go ahead and give
+myself another green flag block.",5785.0,3.5
+2203,"And let me go ahead, and let's
+create a cat that allows us to pet it",5788.5,3.93
+2204,by moving my cursor over the cat.,5792.43,2.1
+2205,"And maybe it likes that, so
+it'll meow when I do that.",5794.53,2.29
+2206,"So let me go under Control, and
+let me grab this if conditional,",5796.82,5.45
+2207,"which we talked about as
+a building block earlier.",5802.27,2.64
+2208,"Let me go to Sensing, and
+we haven't used this before.",5804.91,2.4
+2209,"But here is a weird
+sort of diagonal shape",5807.31,2.82
+2210,"that says touching mouse
+pointer question mark.",5810.13,2.31
+2211,So that's a Boolean expression.,5812.44,1.587
+2212,"So I'm going to drag that, and
+it's definitely the wrong size.",5814.027,2.583
+2213,"But it is the right shape,
+so it will grow to fill.",5816.61,2.46
+2214,"And the question I want to ask is if
+the cat is touching the mouse pointer,",5819.07,4.75
+2215,then go ahead and meow happily.,5823.82,1.95
+2216,"So let me grab the meow
+sound, put it in there.",5825.77,2.59
+2217,"And so I think when I click the
+green flag to start the program,",5828.36,4.61
+2218,"and now I let the mouse pointer
+touch the cat, we should hear--",5832.97,6.204
+2219,huh.,5839.174,0.936
+2220,huh.,5840.11,1.01
+2221,Doesn't seem to be working.,5841.12,2.7
+2222,"There's a bug or a mistake
+in this program too.",5843.82,3.62
+2223,What did I do wrong?,5847.44,1.0
+2224,Yeah.,5848.44,0.5
+2225,"AUDIENCE: You didn't specify
+the sprite [INAUDIBLE]..",5848.94,2.15
+2226,"DAVID J. MALAN: I don't need to
+specify the sprite explicitly",5851.09,2.04
+2227,"because a detail I
+didn't discuss earlier.",5853.13,2.07
+2228,"In the bottom right
+of the screen, notice",5855.2,2.43
+2229,that the cat is already selected.,5857.63,2.26
+2230,So this code relates to that cat.,5859.89,2.21
+2231,"So your instinct is good if
+we had two or more sprites,",5862.1,3.24
+2232,"but I just have one,
+so I'm covered there.",5865.34,2.705
+2233,Other thoughts.,5868.045,0.625
+2234,Yeah.,5868.67,0.932
+2235,AUDIENCE: It only checks once.,5869.602,1.268
+2236,DAVID J. MALAN: It only checks?,5870.87,1.11
+2237,AUDIENCE: Once.,5871.98,0.27
+2238,DAVID J. MALAN: Once.,5872.25,0.875
+2239,So I click the green flag.,5873.125,1.835
+2240,The computer did what I told it to do.,5874.96,2.27
+2241,"The mouse pointer was not
+touching the cat at that moment",5877.23,2.935
+2242,because it was touching the green flag.,5880.165,1.625
+2243,"So, of course, it didn't meow.",5881.79,1.53
+2244,So what maybe is the fix here?,5883.32,2.04
+2245,What puzzle piece can we add?,5885.36,1.62
+2246,"AUDIENCE: After the green
+flag is [INAUDIBLE]..",5886.98,2.31
+2247,DAVID J. MALAN: OK.,5889.29,0.85
+2248,OK.,5890.14,0.5
+2249,Interesting solution.,5890.64,1.72
+2250,"So let me go ahead, and under Control
+let me grab a-- wait one second.",5892.36,5.57
+2251,"I'm going to change the 1 to 5, and
+now I'm going to click the green flag.",5897.93,3.43
+2252,So here we go.,5901.36,1.01
+2253,"1, 2, 3, 4, 5.",5902.37,6.12
+2254,Damn it.,5908.49,0.57
+2255,[MEOWING],5909.06,0.57
+2256,OK.,5909.63,0.18
+2257,"That was yours, not mine.",5909.81,1.042
+2258,[LAUGHTER],5910.852,1.388
+2259,It didn't work.,5912.24,1.675
+2260,AUDIENCE: [INAUDIBLE],5913.915,0.875
+2261,DAVID J. MALAN: Sorry?,5914.79,0.917
+2262,AUDIENCE: [INAUDIBLE],5915.707,0.996
+2263,"DAVID J. MALAN: Oh, maybe forever.",5916.703,1.417
+2264,"So your approach would work, but
+it's very much a hack, if you will.",5918.12,4.11
+2265,"Like, I would have to time it perfectly
+so that the mouse pointer is touching",5922.23,4.47
+2266,"it, or, conversely, I have
+to drag it there and just",5926.7,2.34
+2267,leave it there for five seconds.,5929.04,1.5
+2268,"And that's a little weird because
+you don't just touch a cat",5930.54,2.5
+2269,"and then five seconds
+later it meows at you.",5933.04,1.92
+2270,"Like, presumably, we want
+it to be more interactive.",5934.96,2.23
+2271,So I like this idea of a loop.,5937.19,1.47
+2272,Right?,5938.66,0.5
+2273,"Why don't we just tell the cat
+to forever listen for the cursor",5939.16,5.28
+2274,as by using not repeat but forever?,5944.44,2.73
+2275,Let me move this in here.,5947.17,1.07
+2276,"So now the cat's going to be told when
+the green flag is clicked just forever,",5948.24,3.25
+2277,"if touching, if touching, if touching.",5951.49,1.583
+2278,"Oh, meow when actually touched.",5953.073,2.197
+2279,"So now if I zoom out and hit
+Play, nothing's happening.",5955.27,4.098
+2280,"I don't have to wait
+any number of seconds.",5959.368,1.792
+2281,But when I do touch the cat--,5961.16,1.385
+2282,[MEOWING],5962.545,0.715
+2283,[APPLAUSE],5963.26,0.92
+2284,[CHUCKLES] Fan section here.,5964.18,2.585
+2285,Thank you.,5966.765,0.5
+2286,[MEOWING],5967.265,0.5
+2287,So now it's actually working quite well.,5967.765,3.125
+2288,So there we have sort of a logical bug.,5970.89,2.33
+2289,"But it does make sense if
+you think about what it was",5973.22,2.325
+2290,you told the computer to actually do.,5975.545,2.475
+2291,"Well, let's make things
+even more interesting",5978.02,1.895
+2292,by using one of these extensions.,5979.915,1.375
+2293,"In this bottom left corner, this is
+how I got to text-to-speech earlier.",5981.29,3.33
+2294,"Let me go to Video
+Sensing over here too.",5984.62,2.85
+2295,"And I can actually-- there we go--
+literally, the video has come on.",5987.47,3.28
+2296,Let me go ahead and do this.,5990.75,1.31
+2297,"Get rid of this code, and
+let me step out of the frame.",5992.06,3.63
+2298,When video motion is greater than--,5995.69,2.85
+2299,"well, this is CS50, so
+let's just type in 50,",5998.54,1.95
+2300,which is just a measure of motion.,6000.49,1.66
+2301,Let me go and play sound meow.,6002.15,5.22
+2302,OK.,6007.37,0.5
+2303,And let me stop and restart.,6007.87,3.85
+2304,All right.,6011.72,0.5
+2305,So there's the cat.,6012.22,0.81
+2306,[MEOWING],6018.27,0.99
+2307,OK.,6019.26,0.78
+2308,It worked.,6020.04,0.84
+2309,The cat's a little insensitive.,6020.88,3.45
+2310,[MEOWING],6024.33,0.86
+2311,There we go.,6025.19,0.53
+2312,"Actually, you know what?",6025.72,1.0
+2313,"Maybe it's just-- let me
+put-- let's change it.",6026.72,3.58
+2314,20.,6030.3,0.83
+2315,"Oh, my God.",6031.13,0.81
+2316,"Oh, that's OK.",6031.94,1.54
+2317,[MEOWING],6033.48,0.5
+2318,There we go.,6033.98,0.81
+2319,All right.,6034.79,0.9
+2320,There we go.,6035.69,0.73
+2321,"So now it's a little more sensitive
+to the petting by using the camera.",6036.42,3.618
+2322,"Now, this is kind of a weird example.",6040.038,1.542
+2323,"And if I just start moving
+around crazily, like,",6041.58,1.58
+2324,"it's just going to meow incessantly,
+which was what was happening--",6043.16,2.16
+2325,[MEOWING],6045.32,1.11
+2326,Stop.,6046.43,1.792
+2327,[LAUGHTER],6048.222,0.798
+2328,OK.,6049.02,0.5
+2329,"When in doubt, this is
+when you reload the page.",6049.52,2.28
+2330,[LAUGHTER],6051.8,1.21
+2331,All right.,6053.01,0.5
+2332,"So now we're back to
+where we wanted to be.",6053.51,2.22
+2333,"But where can we now use these
+kinds of building blocks?",6055.73,2.49
+2334,"Like, we were doing such
+tiny little programs.",6058.22,2.32
+2335,"But even that we could turn
+into a whole game, I bet.",6060.54,3.68
+2336,"Could we get like one
+volunteer to come on up?",6064.22,3.48
+2337,One volunteer?,6067.7,1.11
+2338,Everyone's looking down.,6068.81,1.36
+2339,OK.,6070.17,0.5
+2340,On the end here.,6070.67,0.51
+2341,Come on down.,6071.18,0.542
+2342,Yeah.,6071.722,0.568
+2343,All right.,6072.29,0.5
+2344,"Round of applause for our
+one brave volunteer here.",6072.79,2.14
+2345,[APPLAUSE],6074.93,3.22
+2346,All right.,6078.65,0.75
+2347,"These Super Mario cookies
+are on the line for you,",6079.4,2.62
+2348,depending on how this goes.,6082.02,1.14
+2349,So I'm going to have you come over here.,6083.16,1.667
+2350,"And in advance on Scratch's website,
+we have some pre-made games,",6084.827,4.113
+2351,"one of them written by one of your
+predecessors, a former student,",6088.94,3.99
+2352,"that they implemented this
+sort of ""Whac-A-Mole"" game.",6092.93,3.12
+2353,"So what you're about to see
+is the camera turn on on you.",6096.05,3.24
+2354,"And you're going to see four moles
+above, below, left, and right.",6099.29,3.87
+2355,And using only your head--,6103.16,1.56
+2356,"up, down, left, right--
+the goal is to whack a mole",6104.72,3.21
+2357,"to get a point every time your
+head touches one of these sprites.",6107.93,3.93
+2358,"So you're about to see things get
+very interesting very quickly.",6111.86,2.88
+2359,"But using these building
+blocks, just those simple",6114.74,2.31
+2360,"blocks but have four sprites, not
+four cats but four moles in this case.",6117.05,4.3
+2361,"We can actually turn
+these into actual games.",6121.35,2.605
+2362,[MUSIC PLAYING],6123.955,0.625
+2363,So here we go.,6124.58,2.37
+2364,Click Beginner.,6126.95,1.41
+2365,OK.,6128.36,0.54
+2366,"And we just need you to
+center your head first.",6128.9,1.958
+2367,[MUSIC PLAYING],6130.858,2.95
+2368,[INDISTINCT CHATTER],6140.152,2.928
+2369,[CHUCKLES],6144.056,0.976
+2370,[MUSIC PLAYING],6145.032,3.416
+2371,Nice.,6150.92,0.9
+2372,Ten seconds.,6151.82,0.81
+2373,[MUSIC PLAYING],6152.63,3.374
+2374,Nice.,6159.39,1.08
+2375,Two seconds.,6160.47,2.016
+2376,AUDIENCE: [LAUGHS],6162.486,0.804
+2377,DAVID J. MALAN: All right.,6163.29,0.48
+2378,A round of applause.,6163.77,0.84
+2379,[APPLAUSE],6164.61,1.296
+2380,Thank you.,6165.906,2.194
+2381,You want to introduce yourself?,6168.1,2.28
+2382,"AUDIENCE: Hi, everybody.",6170.38,1.0
+2383,"My name is [? Vanilla. ?]
+I'm a first year,",6171.38,2.51
+2384,"and I'm going to be majoring in
+computer science and economics.",6173.89,3.065
+2385,DAVID J. MALAN: Nice to meet you.,6176.955,1.375
+2386,Here we go.,6178.33,0.5
+2387,Thank you.,6178.83,0.605
+2388,AUDIENCE: Nice to meet you.,6179.435,1.125
+2389,"[APPLAUSE, CHEERING]",6180.56,0.833
+2390,"DAVID J. MALAN: So we won't look
+at the code for that actual game.",6181.393,2.817
+2391,"It was written by one
+of your predecessors.",6184.21,1.53
+2392,"And you can see it
+online if you're curious.",6185.74,1.833
+2393,"But you can think about now with
+our functions, conditionals,",6187.573,3.207
+2394,"Boolean expressions, loops how you could
+kind of compose that kind of program.",6190.78,4.23
+2395,"So odds are there was a loop that
+was just constantly listening",6195.01,2.76
+2396,"for that kind of
+connectivity, or it was one",6197.77,1.92
+2397,"of those extensions that
+was waiting for motion to go",6199.69,3.21
+2398,touch one of those sprites.,6202.9,1.28
+2399,"Notice that there's
+these numbers up here.",6204.18,1.75
+2400,And we haven't talked about this yet.,6205.93,1.11
+2401,"But just like in math, where you
+can have variables x, y, and z,",6207.04,3.0
+2402,"in programming, you can create
+variables using other puzzle pieces",6210.04,3.18
+2403,"in Scratch that just keep track
+of how many seconds are left,",6213.22,3.24
+2404,"that keeps track of how many times
+her head hit one of the moles.",6216.46,3.85
+2405,"And so you can implement the mechanics
+of games using very simple building",6220.31,3.45
+2406,blocks.,6223.76,0.5
+2407,"But how do you go about
+building something",6224.26,1.98
+2408,"that's more interesting
+and interactive like that?",6226.24,2.36
+2409,"Let me go ahead and
+bring up, for instance,",6228.6,2.16
+2410,"one of the very first
+things I wrote years ago",6230.76,2.17
+2411,"when I was in graduate school
+and Scratch had just come out.",6232.93,2.5
+2412,I was taking a class at MIT's Media Lab.,6235.43,1.95
+2413,"And they invited us to beta test-- that
+is, try out the software before it then",6237.38,4.14
+2414,became part of the world.,6241.52,1.62
+2415,And the game I made was this one here.,6243.14,4.06
+2416,"Let me find the right
+version of ""Oscartime.""",6247.2,3.44
+2417,"So ""Oscartime"" is a game that took
+me tens of hours probably in the end.",6250.64,5.033
+2418,"It was a little bit addictive, but
+let me go ahead and full-screen it.",6255.673,2.917
+2419,And I won't play the whole game.,6258.59,1.68
+2420,"But it looked a little
+something like this.",6260.27,3.725
+2421,"OSCAR: (SINGS) Oh, I love--",6263.995,1.125
+2422,"DAVID J. MALAN: Where trash
+is falling from the sky.",6265.12,3.1
+2423,And I can click on it and drag it.,6268.22,1.85
+2424,"And notice as I get close,
+the lid opens up like this.",6270.07,3.36
+2425,"And if I let it keep falling, it
+goes in, and Oscar gives me a point.",6273.43,4.02
+2426,And I can do this again.,6277.45,2.135
+2427,"OSCAR: If you really want
+to see something trashy--",6279.585,2.125
+2428,DAVID J. MALAN: All right.,6281.71,0.15
+2429,Here comes something else.,6281.86,1.083
+2430,OSCAR: I have here a sneaker that--,6282.943,1.622
+2431,"DAVID J. MALAN: So now
+there's two pieces of trash.",6284.565,2.125
+2432,"OSCAR: It's all full of
+holes, and the laces are--",6286.69,3.097
+2433,"DAVID J. MALAN: And it just keeps
+going, and going, and going.",6289.787,2.583
+2434,"And if we can lower the volume for just
+a moment, we'll let more trash fall.",6292.37,3.167
+2435,"But to your comment earlier
+about one sprite or more",6295.537,2.763
+2436,"sprites, that's what we're seeing here.",6298.3,1.74
+2437,"Even though our examples thus far
+are just one cat, one or two puzzle",6300.04,3.15
+2438,"pieces, or a few puzzle pieces.",6303.19,1.47
+2439,"Here is, I claim, a sprite.",6304.66,2.01
+2440,Here is another sprite.,6306.67,1.44
+2441,Here is another sprite.,6308.11,1.23
+2442,"And by toggling among them in
+that bottom right-hand corner,",6309.34,2.61
+2443,"I can just associate different puzzle
+pieces with each of these sprites.",6311.95,3.51
+2444,"Now, I didn't start off by
+implementing this whole game.",6315.46,2.527
+2445,"And in just a moment, if we can
+raise the volume a little bit,",6317.987,2.583
+2446,we'll see even more trash is falling.,6320.57,1.83
+2447,So this is what--,6322.4,0.9
+2448,"I hate this song now, like 10 plus
+hours listening to this song on loop",6323.3,3.63
+2449,just to get the timing right.,6326.93,1.23
+2450,"But it brings to life all
+of these different sprites.",6328.16,2.88
+2451,"And if you play it again and again,
+it's always a little bit different",6331.04,3.09
+2452,because I'm using some randomness.,6334.13,1.47
+2453,"So this newspaper doesn't
+always fall from there.",6335.6,2.91
+2454,Sometimes it's here.,6338.51,1.14
+2455,Sometimes it's here.,6339.65,1.03
+2456,"And so here, again, we have
+mechanics of a game where",6340.68,2.24
+2457,"things are being perturbed a
+little, randomized a little bit",6342.92,2.85
+2458,to keep things more interesting.,6345.77,2.002
+2459,And let me go ahead.,6347.772,0.833
+2460,OSCAR: (SINGS) I love trash.,6348.605,1.635
+2461,DAVID J. MALAN: There we go.,6350.24,1.167
+2462,How. about raise a little volume?,6351.407,2.013
+2463,One more piece of trash.,6353.42,1.47
+2464,So a clock.,6354.89,0.6
+2465,"It just goes on forever,
+this kind of game.",6355.49,2.11
+2466,But let's go ahead and consider.,6357.6,1.41
+2467,Let me close that.,6359.01,1.05
+2468,Let me go ahead and consider.,6360.06,1.55
+2469,"How I went about implementing
+that from the get-go.",6361.61,3.16
+2470,So I will stipulate--,6364.77,2.15
+2471,"let me open a few of these versions
+here-- that the very first thing I did",6366.92,4.17
+2472,"was pretty much just
+implement the stage.",6371.09,1.98
+2473,Right?,6373.07,0.15
+2474,"I was kind of procrastinating,
+so I poked around.",6373.22,2.042
+2475,"I found the Sesame Street lamppost,
+and I dragged it into the world.",6375.262,3.128
+2476,And done.,6378.39,0.5
+2477,Version one is done.,6378.89,0.93
+2478,"It didn't do anything, but at least
+I had the world sort of laid out.",6379.82,3.69
+2479,"That is to say I took a
+baby step toward my goal.",6383.51,2.31
+2480,"Then I started thinking
+about, all right,",6385.82,1.708
+2481,"how do I bring the trash to life, even
+if it doesn't do much of anything else?",6387.528,4.092
+2482,"And so I created another sprite
+by clicking the appropriate button",6391.62,2.75
+2483,in that bottom right-hand corner.,6394.37,1.47
+2484,"And I thought about, well, what
+do I want this trash to do?",6395.84,2.58
+2485,"I want it to just kind
+of fall from the sky.",6398.42,2.44
+2486,"And so what I did here
+was the following.",6400.86,3.83
+2487,"If I go to this trash piece
+here or-- actually, sorry.",6404.69,3.33
+2488,Out of order.,6408.02,0.76
+2489,"What I actually did first was I
+didn't even have the trash fall.",6408.78,3.08
+2490,"If I play this game, the trash
+just stays there in the air.",6411.86,3.42
+2491,But I can do this.,6415.28,2.2
+2492,"I can drag it, and as before,
+as I touch the other sprite,",6417.48,3.89
+2493,I get the trash can lid to go up.,6421.37,1.72
+2494,So how do I do that?,6423.09,0.99
+2495,"Well, let me click on Oscar
+down there, my first sprite.",6424.08,3.05
+2496,"And here are the puzzle pieces
+via which I implemented this idea.",6427.13,3.45
+2497,"I changed Oscar's
+costume, his appearance,",6430.58,2.76
+2498,"to be just number one, which was one of
+the images I imported into the program.",6433.34,4.62
+2499,And then I forever did this.,6437.96,1.86
+2500,"If Oscar is touching
+the mouse pointer, then",6439.82,2.64
+2501,"change Oscar's costume to number
+two, otherwise change it back to one.",6442.46,3.93
+2502,So it's super simple animation.,6446.39,1.8
+2503,"I'm just toggling between lid
+up, lid down, lid up, lid down,",6448.19,3.78
+2504,but it kind of feels interactive.,6451.97,1.74
+2505,"And if I wanted to
+really make this pretty,",6453.71,2.1
+2506,"I could have 30 different costumes where
+the lid is ever so slightly higher.",6455.81,4.77
+2507,"Then it would look even more
+like a movie or fluid motion.",6460.58,3.54
+2508,"But this was enough to
+get the job done, which",6464.12,2.52
+2509,"is to say I didn't try to implement
+all of ""Oscartime"" together.",6466.64,3.06
+2510,"I just took a second
+baby step toward my goal.",6469.7,2.79
+2511,"And then my next version
+of ""Oscartime"" might",6472.49,2.46
+2512,"have looked a little something
+like this, where now the trash--",6474.95,2.725
+2513,there's more going on here.,6477.675,1.125
+2514,"Let's look at two of
+these blocks of code.",6478.8,3.5
+2515,"The first thing I did was I
+enabled drag mode to draggable,",6482.3,2.672
+2516,"and I had to Google to figure
+this out because otherwise it",6484.972,2.458
+2517,"didn't let me drag the trash
+while playing the game.",6487.43,2.46
+2518,"But once I figured that
+out, I tell the trash",6489.89,2.91
+2519,"to go to a random
+x-coordinate between 0 and 240",6492.8,3.9
+2520,"from left to right and
+then the y location 180",6496.7,2.97
+2521,"because I always want the
+trash falling from the sky.",6499.67,2.4
+2522,And then what do I do?,6502.07,1.2
+2523,"I told the trash to forever change its
+y-coordinate, its vertical coordinate,",6503.27,4.26
+2524,"by negative 1, negative
+1, negative 1, one pixel",6507.53,3.21
+2525,"at a time, which creates the
+illusion of it falling from the sky.",6510.74,3.45
+2526,"But I needed to do one other
+thing, and let me scroll up.",6514.19,2.76
+2527,"Each of your sprites can have
+multiple programs, multiple scripts,",6516.95,4.41
+2528,"so to speak, that are not
+attached to one another.",6521.36,2.71
+2529,They will happen in parallel for you.,6524.07,1.98
+2530,The second one is saying this.,6526.05,1.7
+2531,"Forever if the trash is touching
+Oscar, what should it do?",6527.75,5.1
+2532,"Go to a completely different x
+and y location at the very top.",6532.85,4.59
+2533,Why?,6537.44,0.51
+2534,"Well, as soon as I drag
+the trash over the Oscar,",6537.95,3.06
+2535,"I want it to disappear as
+though it's going into the can.",6541.01,2.52
+2536,"And I then want it to reappear
+at the top so more trash falls.",6543.53,3.3
+2537,"So I just thought about
+what would it mean",6546.83,2.01
+2538,for the trash to go into the trash can.,6548.84,2.07
+2539,"Well, who cares?",6550.91,0.96
+2540,"What really matters to the
+human user is that it just",6551.87,2.34
+2541,disappears and teleports elsewhere.,6554.21,2.77
+2542,"And so that's the idea
+I implemented here.",6556.98,2.64
+2543,"So if you can reduce intuitive ideas to
+just basic building blocks like this,",6559.62,5.34
+2544,"you can start to make things
+much more interactive.",6564.96,2.48
+2545,"And lastly, if I look
+at this version here,",6567.44,2.53
+2546,you'll see that we've combined these.,6569.97,3.08
+2547,"And so indeed, if I actually
+go ahead and play this now,",6573.05,2.88
+2548,not only is it falling.,6575.93,1.86
+2549,"I can let it fall right on top
+of Oscar and watch it disappear.",6577.79,3.3
+2550,"But notice Oscar doesn't pop out yet
+because that was the fourth version",6581.09,3.705
+2551,and then the fifth version.,6584.795,1.125
+2552,"And then I added the annoying
+music and so forth but sort of",6585.92,2.73
+2553,"composed this program
+step by step by step",6588.65,2.95
+2554,so as to accomplish my larger goal.,6591.6,1.593
+2555,"And this is going to be true
+of all of the code you write,",6593.193,2.417
+2556,"be it in Scratch, or C, or Python, or
+in the like, trying to come up with--",6595.61,5.37
+2557,"or rather, trying to reduce your ideas,
+your grand vision to just baby steps,",6600.98,4.38
+2558,"building blocks so that
+you start with version one,",6605.36,2.31
+2559,and maybe you submit version 10 or 20.,6607.67,2.34
+2560,"But you don't try to implement
+version 10 or 20 at the get-go.",6610.01,3.18
+2561,You take those incremental steps.,6613.19,2.59
+2562,All right.,6615.78,0.5
+2563,How about one other?,6616.28,0.99
+2564,"Well, let me propose this.",6617.27,2.28
+2565,"Let me go ahead and open
+three games that represent one",6619.55,3.82
+2566,"that your predecessors also implemented,
+which looks a little something",6623.37,4.2
+2567,like this in version zero.,6627.57,1.65
+2568,"Suppose I wanted to
+implement a game that",6629.22,3.0
+2569,simply has these kinds of mechanics.,6632.22,1.68
+2570,"I'm touching my arrow keys on my
+keyboard-- up, down, left, and right.",6633.9,3.15
+2571,And I'm moving the Harvard logo.,6637.05,1.41
+2572,Let me zoom in a bit.,6638.46,1.15
+2573,"So if I hit the up arrow,
+the Harvard shield goes up.",6639.61,2.6
+2574,"If I hit the down arrow,
+the shield goes down.",6642.21,2.55
+2575,"If I go all the way to
+the left, it goes left",6644.76,2.31
+2576,"until it hits the wall and
+same thing on the right.",6647.07,2.478
+2577,"So this is like the beginnings
+of a game or a beginning",6649.548,2.292
+2578,"of a maze, something like that.",6651.84,1.53
+2579,"Well, how might I implement this?",6653.37,1.78
+2580,"Well, let me look inside this one.",6655.15,2.06
+2581,"And there's a lot going on, but,
+again, I sort of took simple steps.",6657.21,3.81
+2582,Notice that I've got three sprites--,6661.02,1.71
+2583,"a left wall, which is
+just a straight line,",6662.73,2.19
+2584,"the right wall, which
+is a straight line.",6664.92,2.22
+2585,"And just intuitively, why did
+I implement those as sprites?",6667.14,3.57
+2586,"Why do they need to exist
+as entities themselves?",6670.71,4.53
+2587,"Yeah, in front.",6675.24,0.99
+2588,AUDIENCE: [INAUDIBLE],6676.23,0.3
+2589,DAVID J. MALAN: Yeah.,6676.53,0.875
+2590,I want it to interact with the shield.,6677.405,1.628
+2591,"So I need to be able to ask
+that Boolean expression, like,",6679.033,2.417
+2592,"not touching mouse pointer but
+touching shield, for instance,",6681.45,3.49
+2593,a different type of yes/no question.,6684.94,1.62
+2594,"And so what is the code for
+the shield actually doing?",6686.56,2.57
+2595,"Well, there's a lot of duplication, and
+let me focus on the abstraction first.",6689.13,3.72
+2596,"Notice that I've got this
+one green flag clicked.",6692.85,2.83
+2597,"I want the shield to go
+dead center, 0 comma 0,",6695.68,2.75
+2598,"and then forever listen for the human's
+keyboard, and feel for the wall.",6698.43,4.17
+2599,"So I decided to implement my
+own pink puzzle pieces that",6702.6,3.215
+2600,implement the two separate ideas.,6705.815,1.375
+2601,"One, just listen for the
+keyboard-- up, down, left,",6707.19,2.26
+2602,right-- and then do something.,6709.45,1.25
+2603,"And then feel for walls is
+this idea of whenever I go up,",6710.7,3.07
+2604,"down, left, or right,
+if I touch a wall, I",6713.77,2.78
+2605,"need to stop doing whatever the
+keystrokes are telling me to do.",6716.55,4.05
+2606,"So now if we dive into those
+implementation details, listen and feel",6720.6,4.98
+2607,"are abstractions, custom puzzle pieces.",6725.58,2.35
+2608,"Let's look at the
+implementation details.",6727.93,1.94
+2609,"Well, here's the keyboard.",6729.87,1.35
+2610,"If the key arrow up is
+pressed, change y by 1.",6731.22,4.62
+2611,"If key down arrow is pressed,
+change y by negative 1.",6735.84,3.655
+2612,"And you can probably
+see where this is going.",6739.495,1.875
+2613,Right arrow is x by 1.,6741.37,1.94
+2614,"Left arrow is x by
+negative 1, and that's",6743.31,2.61
+2615,"sort of all that's involved
+with up, down, left, right.",6745.92,3.13
+2616,But wait a minute.,6749.05,0.98
+2617,"Why is there no loop in this
+listen for keyboard puzzle piece?",6750.03,5.88
+2618,"I needed a loop last time
+so it constantly works.",6755.91,3.33
+2619,AUDIENCE: [INAUDIBLE],6759.24,1.53
+2620,DAVID J. MALAN: Exactly.,6760.77,1.0
+2621,"I put the loop in my
+main part of my program",6761.77,2.58
+2622,"up top so something is telling me
+to keep listening again and again.",6764.35,3.67
+2623,"So it's got to be somewhere,
+but it doesn't have",6768.02,2.0
+2624,to be in the actual implementation.,6770.02,1.74
+2625,"And lastly, how about
+this feel for walls?",6771.76,2.19
+2626,"Well, if touching left wall, which is
+just another sprite, change x by 1.",6773.95,4.47
+2627,"So that is to say if I'm
+touching the left wall,",6778.42,2.46
+2628,"I want to bounce it
+back the other direction",6780.88,2.585
+2629,and same thing on the right wall.,6783.465,1.375
+2630,"If I'm touching the right
+wall, I want to bounce it",6784.84,1.74
+2631,"back to the left, which effectively
+means that even if the human's hitting",6786.58,3.09
+2632,"the key, it's like
+fighting with this code,",6789.67,2.01
+2633,"but it's never going to go through
+the wall based on that math.",6791.68,3.21
+2634,It's going to stop it right there.,6794.89,1.87
+2635,All right.,6796.76,0.5
+2636,Let's add something else to the mix.,6797.26,1.5
+2637,"Suppose I want the game to change
+to be a little something like this,",6798.76,2.88
+2638,"where Yale is some kind of block
+in between me and the exit.",6801.64,3.66
+2639,So some dramatic race here.,6805.3,1.84
+2640,OK.,6807.14,0.5
+2641,"I just got by, but the
+Yale logo doesn't seem",6807.64,2.46
+2642,"to be doing all that
+much except bouncing.",6810.1,2.1
+2643,"So I'm guessing there's a loop, maybe
+a conditional checking for those walls",6812.2,3.46
+2644,too.,6815.66,0.5
+2645,"So let's go ahead and
+zoom out, see inside.",6816.16,2.663
+2646,"Let's not worry about Harvard
+because it's pretty much the same.",6818.823,2.667
+2647,Let's look at the Yale puzzle pieces.,6821.49,2.03
+2648,"And sure enough, go to the middle.",6823.52,2.19
+2649,0 comma zero.,6825.71,1.17
+2650,"Point in direction 90, so
+point horizontally on the grid.",6826.88,4.05
+2651,"And then if touching left
+wall or touching right wall--",6830.93,2.94
+2652,"I'm kind of cheating this time, but
+cleverly, just spin around and do 180",6833.87,4.6
+2653,so you effectively bounce off the wall.,6838.47,1.728
+2654,This just tightened up my code.,6840.198,1.292
+2655,"I don't need to do the
+negative 1 or the plus 1.",6841.49,2.0
+2656,"I just say bounce in this
+form of code, otherwise just",6843.49,3.52
+2657,constantly move one step.,6847.01,1.41
+2658,"Now, if this is a game where Yale
+is supposed to be better and faster,",6848.42,3.66
+2659,"well, let's change the 1 to 5.",6852.08,1.44
+2660,Move 5 pixels at a time.,6853.52,1.78
+2661,Let's move it 10 back and forth.,6855.3,2.31
+2662,Let's maybe 100.,6857.61,1.43
+2663,Uh-oh.,6859.04,1.11
+2664,So what just happened?,6860.15,1.23
+2665,"That is a bug, which we can
+avoid by just not doing that.",6861.38,3.93
+2666,But why did it break out of the wall?,6865.31,2.0
+2667,Yeah.,6867.31,1.0
+2668,AUDIENCE: [INAUDIBLE].,6868.31,1.29
+2669,At first it was [INAUDIBLE].,6869.6,1.29
+2670,DAVID J. MALAN: Exactly.,6870.89,1.0
+2671,"Because I'm doing 100
+steps at a time, I'm",6871.89,2.12
+2672,"never actually touching the
+other sprite because I'm",6874.01,2.19
+2673,sort of stepping way over it.,6876.2,1.86
+2674,"So there's never a moment where
+they're actually touching.",6878.06,2.55
+2675,"So previously, I was just getting
+lucky by doing fewer steps because it's",6880.61,4.02
+2676,"gradually going over
+the wall, which gives me",6884.63,2.07
+2677,just enough time to detect as much.,6886.7,1.857
+2678,"So I would have to kind
+of tinker, and he'll",6888.557,1.833
+2679,handle this a little bit differently.,6890.39,1.542
+2680,So it's a bug if it's too fast.,6891.932,1.858
+2681,"But at least if I keep
+it slow and reasonable",6893.79,1.94
+2682,"the math actually does work out, so
+long as it starts again in the middle.",6895.73,4.14
+2683,"Well, let's do one final flourish here,
+whereby let's bring MIT into the mix.",6899.87,4.33
+2684,Right?,6904.2,0.5
+2685,"They're super smart, so
+maybe they can kind of",6904.7,2.07
+2686,track us and follow wherever I'm going.,6906.77,4.62
+2687,So how might this work?,6911.39,1.75
+2688,All right.,6913.14,0.5
+2689,"So nothing happens yet because we
+haven't finished composing the game.",6913.64,2.94
+2690,And notice here--,6916.58,0.91
+2691,OK.,6917.49,0.5
+2692,Now MIT is struggling.,6917.99,1.073
+2693,"It's kind of twitching there because
+it's going just above, and below,",6919.063,2.917
+2694,"and then above, and below.",6921.98,1.12
+2695,So we could fix that too if we want.,6923.1,1.74
+2696,"But that's just a function of
+my math, one pixel at a time.",6924.84,3.24
+2697,"Let me open up this one, see
+inside, and click on MIT.",6928.08,5.49
+2698,"And it doesn't take much
+to implement MIT, it seems.",6933.57,3.54
+2699,"So go to random position, forever
+point towards the Harvard logo outline,",6937.11,6.09
+2700,"AKA the shield, and then move one step.",6943.2,3.13
+2701,"So if I wanted to make MIT even smarter,
+even faster, what do I change here?",6946.33,4.375
+2702,AUDIENCE: [INAUDIBLE],6950.705,0.875
+2703,DAVID J. MALAN: Yeah.,6951.58,0.875
+2704,"Change one step to two steps to double
+their speed or five steps, 10 steps,",6952.455,3.615
+2705,or 100 steps.,6956.07,0.542
+2706,"And the game is going
+to be over like that.",6956.612,1.791
+2707,"But that's all it takes to now
+make these kinds of elements.",6958.403,2.537
+2708,"So if you are a game player
+on your phone, or consoles,",6960.94,2.39
+2709,"or computer, or whatever, if
+you think about almost any game,",6963.33,2.79
+2710,"you can probably now start to
+think about how they implemented",6966.12,2.79
+2711,"those mechanics because it's just being
+reduced to functions, conditionals,",6968.91,3.3
+2712,"loops, variables, and
+the like in this case.",6972.21,3.43
+2713,"So let's go ahead here and
+have maybe one final volunteer.",6975.64,4.92
+2714,We've got one more bag of Oreos here.,6980.56,1.92
+2715,OK.,6982.48,0.5
+2716,That was super fast.,6982.98,0.66
+2717,Do you want to come on up?,6983.64,1.11
+2718,All right.,6984.75,0.5
+2719,Brave volunteer.,6985.25,0.67
+2720,Come on up.,6985.92,0.9
+2721,[APPLAUSE],6986.82,3.451
+2722,All right.,6991.18,0.5
+2723,"Let me find the full-fledged version
+of this that one of your predecessors",6991.68,5.04
+2724,made.,6996.72,0.93
+2725,And let me get the right one.,6997.65,2.84
+2726,OK.,7000.49,0.5
+2727,Here we go.,7000.99,0.75
+2728,"We'll see some instructions on
+the screen in just a moment.",7001.74,3.29
+2729,"And when we hit Play, you'll see that
+the mechanics are all combined now",7005.03,5.43
+2730,into one full-fledged game.,7010.46,1.17
+2731,"But first, an introduction.",7011.63,3.11
+2732,It's on.,7014.74,1.15
+2733,"SAM: Hi, everyone.",7015.89,0.86
+2734,I'm Sam.,7016.75,1.03
+2735,I live in [INAUDIBLE].,7017.78,1.05
+2736,"I'm a freshman, and I'm from Nepal.",7018.83,1.827
+2737,DAVID J. MALAN: All right.,7020.657,1.083
+2738,Welcome to the stage.,7021.74,0.915
+2739,[APPLAUSE],7022.655,0.5
+2740,SAM: Thank you.,7023.155,1.132
+2741,DAVID J. MALAN: All right.,7024.287,1.083
+2742,So here we go.,7025.37,0.61
+2743,Yep.,7025.98,0.5
+2744,Go ahead and click the green flag.,7026.48,1.53
+2745,[MUSIC PLAYING],7028.01,2.425
+2746,"[MC HAMMER, ""U CAN'T TOUCH THIS""]
+You can't touch this.",7030.435,3.575
+2747,"DAVID J. MALAN: You see the
+grid is just bigger this time.",7034.01,3.972
+2748,(SINGING) You can't touch this.,7037.982,1.413
+2749,DAVID J. MALAN: Nice.,7039.395,0.875
+2750,Now there's that Yale element.,7040.27,1.957
+2751,(SINGING) You can't touch this.,7042.227,1.853
+2752,"My, my, my my music hits me so hard.",7044.08,3.69
+2753,"Makes me say, oh, my Lord.",7047.77,1.8
+2754,"Thank you for blessing me with a
+mind to rhyme and two hyped feet.",7049.57,2.948
+2755,"It feels good when you know you're down,
+a super dope homeboy from the Oaktown.",7052.518,3.292
+2756,DAVID J. MALAN: OK.,7055.81,0.792
+2757,Third Yale.,7056.602,2.208
+2758,"All started at slightly
+different positions.",7058.81,2.67
+2759,"(SINGING) I told you, homeboy.",7061.48,1.555
+2760,You can't touch this.,7063.035,0.875
+2761,DAVID J. MALAN: Nice.,7063.91,0.75
+2762,All right.,7064.66,0.5
+2763,There's MIT.,7065.16,0.67
+2764,"(SINGING) And ya know
+you can't touch this.",7065.83,1.95
+2765,"[CHEERING, APPLAUSE]",7067.78,1.359
+2766,DAVID J. MALAN: Oh.,7069.139,1.361
+2767,(SINGING) You can't touch this.,7070.5,2.02
+2768,Yo.,7072.52,0.5
+2769,Let me bust the funky lyrics.,7073.02,1.225
+2770,DAVID J. MALAN: Gotta go fast.,7074.245,1.25
+2771,Oh.,7078.0,1.93
+2772,No.,7079.93,0.5
+2773,Oh.,7085.03,2.06
+2774,[CHUCKLES],7087.09,0.5
+2775,"(SINGING) Cold on a
+mission, so fall on back.",7087.59,1.875
+2776,"Let them know that you're too much,
+and this is a beat they can't touch.",7089.465,4.225
+2777,DAVID J. MALAN: Nice.,7093.69,0.9
+2778,[EXCLAIMING],7094.59,1.38
+2779,(SINGING) You can't touch this.,7095.97,2.3
+2780,"DAVID J. MALAN: No more
+walls but two MITs.",7098.27,2.212
+2781,"(SINGING) Yo, sound the bell.",7100.482,1.208
+2782,"School's in, sucker.",7101.69,1.075
+2783,DAVID J. MALAN: Princeton now.,7102.765,1.25
+2784,(SINGING) Give me a song or rhythm.,7104.015,1.597
+2785,"Making them sweat, that's
+what I'm giving them.",7105.612,1.958
+2786,"Now, they know you talk about
+the Hammer when you're talkin'",7107.57,3.57
+2787,'bout a show that's hyped and tight.,7111.14,1.53
+2788,"Singers are sweatin', so pass
+them a wipe or a tape to learn.",7112.67,3.793
+2789,DAVID J. MALAN: Second to last level.,7116.463,1.542
+2790,(SINGING) The chart's legit.,7118.005,1.795
+2791,"Either work hard, or
+you might as well quit.",7119.8,2.18
+2792,"That's word because you
+know you can't touch this.",7121.98,3.56
+2793,You can't touch this.,7128.265,0.875
+2794,Break it down.,7131.87,0.73
+2795,DAVID J. MALAN: All right.,7132.6,1.083
+2796,Clear.,7133.683,0.977
+2797,There we go.,7134.66,0.5
+2798,Nice.,7135.16,0.5
+2799,"Oh, oh.",7135.66,0.65
+2800,Oh.,7139.565,1.395
+2801,Few more lives.,7140.96,1.854
+2802,Oh.,7142.814,2.776
+2803,(SINGING) Stop.,7145.59,0.69
+2804,Hammer time.,7146.28,0.42
+2805,DAVID J. MALAN: Here we go.,7146.7,0.43
+2806,There we go.,7147.13,0.98
+2807,[EXCLAIMING],7148.11,1.58
+2808,All right.,7149.69,0.5
+2809,Couple more tries.,7150.19,2.03
+2810,Yes!,7152.22,1.04
+2811,"Oh, no.",7153.26,1.085
+2812,(SINGING) This is it for a winner.,7154.345,1.652
+2813,"Dance to this, and
+you're gonna get thinner.",7155.997,1.833
+2814,"Now move, slide your rump.",7157.83,1.65
+2815,"DAVID J. MALAN: Starts
+getting stressful.",7159.48,0.6
+2816,"(SINGING) Just for a minute,
+let's all do the bump.",7160.08,2.13
+2817,"Bump, bump, bump.",7162.21,0.93
+2818,Yeah.,7163.14,1.17
+2819,You can't touch this.,7164.31,2.71
+2820,"Look, man.",7167.02,0.87
+2821,You can't touch this.,7167.89,1.468
+2822,"You'll probably get hyped, boy.",7169.358,1.292
+2823,DAVID J. MALAN: One more try.,7170.65,0.97
+2824,(SINGING) You can't touch this.,7171.62,1.467
+2825,Ring the bell.,7173.087,0.583
+2826,School's back in.,7173.67,1.17
+2827,DAVID J. MALAN: All right.,7174.84,0.3
+2828,"A round of applause, nonetheless.",7175.14,1.375
+2829,[APPLAUSE],7176.515,0.905
+2830,Nicely done.,7177.42,0.94
+2831,Thank you.,7178.36,0.92
+2832,"So as you might have
+noticed if your eyes started",7182.5,4.16
+2833,"to wander to the light
+bulbs here, there's",7186.66,1.75
+2834,actually 64 of these light bulbs.,7188.41,2.16
+2835,"And I'm wondering if you divide 64
+by 8, that's 8 bytes of light bulbs.",7190.57,4.492
+2836,"And we now have some
+Unicode in our vocabulary.",7195.062,1.958
+2837,"So might very well be
+the case that we've",7197.02,1.95
+2838,"been spelling something out on the
+stage here for you all of this time.",7198.97,4.39
+2839,"But before we adjourn for cake
+to be served in the Transept,",7203.36,3.83
+2840,"allow me to introduce some
+of CS50's human friends,",7207.19,4.74
+2841,"the Harvard Krokodiloes
+and the Radcliffe Pitches,",7211.93,5.28
+2842,"to give us this exciting
+ending, ""This is CS50.""",7217.21,5.938
+2843,"[APPLAUSE, CHEERING]",7223.148,3.458
+2844,[HARMONICA NOTE],7236.98,1.482
+2845,[VOCALIZING],7241.42,0.5
+2846,"SPEAKER: (SINGING) There's a
+certain someone who I'm indebted to.",7241.92,8.9
+2847,"And since the old [? BNC ?] has
+50, I have this friend for you.",7250.82,9.26
+2848,"A two, three, four.",7263.09,1.21
+2849,[VOCALIZING],7264.3,4.545
+2850,"Oh, rubber ducky, you're the one.",7268.845,3.285
+2851,You make [INAUDIBLE] so much fun.,7272.13,2.64
+2852,"Rubber ducky, I'm awfully fond of you.",7274.77,3.63
+2853,"[SCATTING] Rubber ducky, you make me
+smile, and you help my code compile.",7278.4,6.63
+2854,"Rubber ducky, you're
+my very best friend.",7285.03,2.07
+2855,It's true.,7287.1,2.13
+2856,"When I'm at a standstill, your
+debugging abilities stun me.",7289.23,4.53
+2857,"When I'm at the end of my rope, you
+just snap, and my code's up and running.",7293.76,6.57
+2858,"Rubber ducky, you're so fine,
+and I'm lucky that you're mine.",7300.33,4.83
+2859,"Rubber ducky, you're
+my very best friend.",7305.16,2.16
+2860,It's true.,7307.32,1.29
+2861,You're my best friend.,7308.61,1.3
+2862,It's true.,7309.91,2.84
+2863,"Rubber ducky, I'm awfully fond of you.",7312.75,4.035
+2864,"[CHEERING, APPLAUSE]",7322.128,3.479
+2865,"SPEAKER: Good afternoon, CS50.",7328.6,1.54
+2866,"We are the Harvard Krokodiloes,
+Harvard's oldest a cappella group,",7330.14,2.75
+2867,"founded way back in 1946 at the
+historic Hasty Pudding Club.",7332.89,3.27
+2868,"We'd love to make a big
+thank you to CS50 staff",7336.16,2.302
+2869,"and to David Malan for having us
+perform here at Sanders Theater.",7338.462,2.708
+2870,"And you enjoyed this performance,
+please come audition for us",7341.17,3.63
+2871,this weekend at Farkas Hall.,7344.8,2.056
+2872,"[CHEERING, APPLAUSE]",7346.856,3.472
+2873,"SPEAKER: Hello, everyone.",7356.28,1.45
+2874,"We are some of the Radcliffe
+Pitches, and we are also",7357.73,2.27
+2875,hosting auditions this weekend.,7360.0,1.92
+2876,"You can find more information at
+our Instagram, @radcliffepitches.",7361.92,3.36
+2877,"Now, let me tell you a little
+bit about just about a year ago",7365.28,3.42
+2878,"today, when I was sitting in your very
+seats on my first day of CS50 lecture.",7368.7,4.14
+2879,"And this is just about
+how I was feeling.",7372.84,2.86
+2880,[HARMONICA NOTE],7375.7,1.47
+2881,[VOCALIZING],7380.11,3.43
+2882,"(SINGING) It's the first day of
+class, and I'm brand new to code.",7387.41,4.29
+2883,Is this for me?,7391.7,2.49
+2884,So many people around.,7394.19,2.01
+2885,Can I get through the workload?,7396.2,2.55
+2886,But it's my dream.,7398.75,2.91
+2887,"I tend to stick to English, not science.",7401.66,3.6
+2888,"But my [INAUDIBLE] friends
+told me to try this.",7405.26,3.907
+2889,"Hey, dancing robot dog, you kind of
+look like you have your life together,",7409.167,3.083
+2890,I guess.,7412.25,0.93
+2891,I really need some advice.,7413.18,2.517
+2892,"(ALL SINGING) We know
+you're feeling unsure,",7415.697,1.833
+2893,but this is really the right call.,7417.53,3.06
+2894,"In CS50, you'll meet new
+friends, get free food.",7420.59,4.17
+2895,You'll be all set for this fall in CS50.,7424.76,5.4
+2896,"You have a thousand
+TAs who will help you.",7430.16,3.99
+2897,"You'll get cupcakes,
+duckies, Chinese food.",7434.15,4.04
+2898,"And you can always take
+this class and set aside.",7438.19,5.68
+2899,SPEAKER: This is CS50.,7446.88,1.8
+2900,Fist bump.,7448.68,2.148
+2901,[LAUGHTER],7450.828,0.972
+2902,"[APPLAUSE, CHEERING]",7451.8,3.402
+2903,DAVID J. MALAN: Thank you to the Kroks.,7456.645,1.625
+2904,Thank you to the Pitches.,7458.27,1.11
+2905,Cake is now served.,7459.38,0.99
+2906,"Come on up to say hi if
+you'd like or meet Spot.",7460.37,3.12
+2907,See you next time.,7463.49,0.84
+2908,"[APPLAUSE, CHEERING]",7464.33,0.833
+2909,[MUSIC PLAYING],7465.163,3.117
